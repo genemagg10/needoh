@@ -1,6 +1,6 @@
 {
   "title": "Squishymania by Ella",
-  "about": "A catalogue of real NeeDoh toys by Schylling. Empty fields mean we could not verify that fact. The secret Star Glob is not a real product.",
+  "about": "A catalogue of real NeeDoh toys by Schylling, plus one Sprite cube card that could not be verified as a Schylling product. Empty fields mean that fact could not be checked. The secret Star Glob is not a real product.",
   "updated": "2026-11-15",
   "items": [
     {
@@ -30,10 +30,14 @@
       "note": "Year 2017 is from Schylling's NeeDoh page ('the original since 2017') and the Adventure Town guide. The 'since 1975' line on that page is Schylling the company, not this toy.",
       "unknown": [],
       "image": "assets/images/original.webp",
-      "imageSource": "https://toctoys.com/wp-content/uploads/2026/05/Schylling-2026-Catalogue-FLIPPINGBOOK_.pdf",
-      "imageNote": "Product photo cropped from a Schylling NeeDoh catalogue. The 2026 book is the file used when the toy is in both.",
+      "imageSource": "https://schylling.com/product/nee-doh-the-groovy-glob-stress-ball/",
+      "imageNote": "Official Schylling.com photo. Schylling page title \"Classic NeeDoh\". Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads.",
       "placeholder": false,
-      "fictional": false
+      "fictional": false,
+      "imageUrl": "https://schylling.com/wp-content/uploads/2020/05/ND-Color-Group.jpg",
+      "imageCredit": "schylling",
+      "imageWidth": 720,
+      "imageHeight": 524
     },
     {
       "id": "super",
@@ -60,10 +64,14 @@
         "year"
       ],
       "image": "assets/images/super.webp",
-      "imageSource": "https://toctoys.com/wp-content/uploads/2024/02/Schylling-2024-Catalogue_APPROVED_V4_removed_compressed.pdf",
-      "imageNote": "Product photo cropped from the Schylling 2024 NeeDoh catalogue PDF.",
+      "imageSource": "https://schylling.com/product/super-nee-doh/",
+      "imageNote": "Official Schylling.com photo. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads.",
       "placeholder": false,
-      "fictional": false
+      "fictional": false,
+      "imageUrl": "https://schylling.com/wp-content/uploads/2021/03/SPND-Super-Nee-Doh-Group-web.jpg",
+      "imageCredit": "schylling",
+      "imageWidth": 720,
+      "imageHeight": 669
     },
     {
       "id": "swirl",
@@ -91,10 +99,14 @@
         "year"
       ],
       "image": "assets/images/swirl.webp",
-      "imageSource": "https://toctoys.com/wp-content/uploads/2024/02/Schylling-2024-Catalogue_APPROVED_V4_removed_compressed.pdf",
-      "imageNote": "Product photo cropped from the Schylling 2024 NeeDoh catalogue PDF.",
+      "imageSource": "https://schylling.com/product/swirl-nee-doh/",
+      "imageNote": "Official Schylling.com photo. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads.",
       "placeholder": false,
-      "fictional": false
+      "fictional": false,
+      "imageUrl": "https://schylling.com/wp-content/uploads/2020/08/SWND-Swirl-Nee-Doh-Group-web.jpg",
+      "imageCredit": "schylling",
+      "imageWidth": 720,
+      "imageHeight": 466
     },
     {
       "id": "glow",
@@ -122,10 +134,14 @@
         "year"
       ],
       "image": "assets/images/glow.webp",
-      "imageSource": "https://toctoys.com/wp-content/uploads/2026/05/Schylling-2026-Catalogue-FLIPPINGBOOK_.pdf",
-      "imageNote": "Product photo cropped from a Schylling NeeDoh catalogue. The 2026 book is the file used when the toy is in both.",
+      "imageSource": "https://schylling.com/product/glow-in-the-dark-nee-doh/",
+      "imageNote": "Official Schylling.com photo. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads.",
       "placeholder": false,
-      "fictional": false
+      "fictional": false,
+      "imageUrl": "https://schylling.com/wp-content/uploads/2020/08/GND-Nee-Doh-Glow-in-the-Dark-Item-web.jpg",
+      "imageCredit": "schylling",
+      "imageWidth": 720,
+      "imageHeight": 720
     },
     {
       "id": "color-changing",
@@ -154,10 +170,14 @@
         "year"
       ],
       "image": "assets/images/color-changing.webp",
-      "imageSource": "https://toctoys.com/wp-content/uploads/2026/05/Schylling-2026-Catalogue-FLIPPINGBOOK_.pdf",
-      "imageNote": "Product photo cropped from a Schylling NeeDoh catalogue. The 2026 book is the file used when the toy is in both.",
+      "imageSource": "https://schylling.com/product/color-changing-nee-doh/",
+      "imageNote": "Official Schylling.com photo. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads.",
       "placeholder": false,
-      "fictional": false
+      "fictional": false,
+      "imageUrl": "https://schylling.com/wp-content/uploads/2020/08/CCSQ-Color-Change-Nee-Doh-Group-web.jpg",
+      "imageCredit": "schylling",
+      "imageWidth": 720,
+      "imageHeight": 623
     },
     {
       "id": "atomic",
@@ -186,10 +206,14 @@
         "year"
       ],
       "image": "assets/images/atomic.webp",
-      "imageSource": "https://toctoys.com/wp-content/uploads/2024/02/Schylling-2024-Catalogue_APPROVED_V4_removed_compressed.pdf",
-      "imageNote": "Product photo cropped from the Schylling 2024 NeeDoh catalogue PDF.",
+      "imageSource": "https://schylling.com/product/atomic-nee-doh/",
+      "imageNote": "Official Schylling.com photo. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads.",
       "placeholder": false,
-      "fictional": false
+      "fictional": false,
+      "imageUrl": "https://schylling.com/wp-content/uploads/2021/12/ATND-Atomic-Nee-Doh-Group-2021-web.jpg",
+      "imageCredit": "schylling",
+      "imageWidth": 720,
+      "imageHeight": 546
     },
     {
       "id": "happy-snappy",
@@ -217,10 +241,14 @@
         "year"
       ],
       "image": "assets/images/happy-snappy.webp",
-      "imageSource": "https://toctoys.com/wp-content/uploads/2024/02/Schylling-2024-Catalogue_APPROVED_V4_removed_compressed.pdf",
-      "imageNote": "Product photo cropped from the Schylling 2024 NeeDoh catalogue PDF.",
+      "imageSource": "https://schylling.com/product/happy-snappy/",
+      "imageNote": "Official Schylling.com photo. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads.",
       "placeholder": false,
-      "fictional": false
+      "fictional": false,
+      "imageUrl": "https://schylling.com/wp-content/uploads/2022/01/HSNB-Happy-Snappy-Group2-web.jpg",
+      "imageCredit": "schylling",
+      "imageWidth": 720,
+      "imageHeight": 441
     },
     {
       "id": "shaggy",
@@ -248,10 +276,14 @@
         "year"
       ],
       "image": "assets/images/shaggy.webp",
-      "imageSource": "https://toctoys.com/wp-content/uploads/2024/02/Schylling-2024-Catalogue_APPROVED_V4_removed_compressed.pdf",
-      "imageNote": "Product photo cropped from the Schylling 2024 NeeDoh catalogue PDF.",
+      "imageSource": "https://schylling.com/product/shaggy-nee-doh/",
+      "imageNote": "Official Schylling.com photo. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads.",
       "placeholder": false,
-      "fictional": false
+      "fictional": false,
+      "imageUrl": "https://schylling.com/wp-content/uploads/2020/product/01/SHND-Shaggy-Nee-Doh-Item-Group3-web.jpg",
+      "imageCredit": "schylling",
+      "imageWidth": 720,
+      "imageHeight": 491
     },
     {
       "id": "super-ripples",
@@ -310,11 +342,15 @@
         "year",
         "size"
       ],
-      "image": "assets/placeholders/press-doh.svg",
-      "imageSource": "",
-      "imageNote": "No real product photo could be downloaded. This is a drawn placeholder, not a picture of the toy.",
-      "placeholder": true,
-      "fictional": false
+      "image": "assets/images/press-doh.webp",
+      "imageSource": "https://schylling.com/product/needoh-press-doh/",
+      "imageNote": "Official Schylling.com photo. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads.",
+      "placeholder": false,
+      "fictional": false,
+      "imageUrl": "https://schylling.com/wp-content/uploads/2024/08/PRCND_Image1.jpg",
+      "imageCredit": "schylling",
+      "imageWidth": 703,
+      "imageHeight": 720
     },
     {
       "id": "bubble-glob",
@@ -343,11 +379,15 @@
         "texture",
         "feature"
       ],
-      "image": "assets/placeholders/bubble-glob.svg",
-      "imageSource": "",
-      "imageNote": "No real product photo could be downloaded. This is a drawn placeholder, not a picture of the toy.",
-      "placeholder": true,
-      "fictional": false
+      "image": "assets/images/bubble-glob.webp",
+      "imageSource": "https://schylling.com/product/bubble-glob-nee-doh/",
+      "imageNote": "Official Schylling.com photo. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads.",
+      "placeholder": false,
+      "fictional": false,
+      "imageUrl": "https://schylling.com/wp-content/uploads/2020/08/BTSQ-Bubble-Glob-Nee-Doh-Group-web.jpg",
+      "imageCredit": "schylling",
+      "imageWidth": 720,
+      "imageHeight": 703
     },
     {
       "id": "cool-crunch",
@@ -437,11 +477,15 @@
         "size",
         "texture"
       ],
-      "image": "assets/placeholders/stardust.svg",
-      "imageSource": "",
-      "imageNote": "No real product photo could be downloaded. This is a drawn placeholder, not a picture of the toy.",
-      "placeholder": true,
-      "fictional": false
+      "image": "assets/images/stardust.webp",
+      "imageSource": "https://schylling.com/product/stardust-nee-doh/",
+      "imageNote": "Official Schylling.com photo. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads.",
+      "placeholder": false,
+      "fictional": false,
+      "imageUrl": "https://schylling.com/wp-content/uploads/2020/08/SDSB-Stardust-Shimmer-Nee-Doh-Group-web.jpg",
+      "imageCredit": "schylling",
+      "imageWidth": 720,
+      "imageHeight": 716
     },
     {
       "id": "crystal-squeeze",
@@ -469,11 +513,15 @@
         "year",
         "texture"
       ],
-      "image": "assets/placeholders/crystal-squeeze.svg",
-      "imageSource": "",
-      "imageNote": "No real product photo could be downloaded. This is a drawn placeholder, not a picture of the toy.",
-      "placeholder": true,
-      "fictional": false
+      "image": "assets/images/crystal-squeeze.webp",
+      "imageSource": "https://schylling.com/product/crystal-nee-doh/",
+      "imageNote": "Official Schylling.com photo. Schylling sells it as \"Crystal NeeDoh\"; box reads \"Crystal NeeDoh Squeeze\". Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads.",
+      "placeholder": false,
+      "fictional": false,
+      "imageUrl": "https://schylling.com/wp-content/uploads/2020/08/CSB-Crystal-Squeeze-Nee-Doh-Group-web.jpg",
+      "imageCredit": "schylling",
+      "imageWidth": 697,
+      "imageHeight": 720
     },
     {
       "id": "magma",
@@ -502,11 +550,15 @@
         "size",
         "texture"
       ],
-      "image": "assets/placeholders/magma.svg",
-      "imageSource": "",
-      "imageNote": "No real product photo could be downloaded. This is a drawn placeholder, not a picture of the toy.",
-      "placeholder": true,
-      "fictional": false
+      "image": "assets/images/magma.webp",
+      "imageSource": "https://schylling.com/product/magma-ball/",
+      "imageNote": "Official Schylling.com photo. Schylling page \"Magma Ball\"; box reads \"Magma NeeDoh\" (light-up). Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads.",
+      "placeholder": false,
+      "fictional": false,
+      "imageUrl": "https://schylling.com/wp-content/uploads/2021/01/MGM-Magma-Ball-Group-web.jpg",
+      "imageCredit": "schylling",
+      "imageWidth": 720,
+      "imageHeight": 623
     },
     {
       "id": "glitter-magma",
@@ -564,11 +616,15 @@
         "size",
         "colors"
       ],
-      "image": "assets/placeholders/colorwave.svg",
-      "imageSource": "",
-      "imageNote": "No real product photo could be downloaded. This is a drawn placeholder, not a picture of the toy.",
-      "placeholder": true,
-      "fictional": false
+      "image": "assets/images/colorwave.webp",
+      "imageSource": "https://www.fivebelow.com/products/needoh-the-groovy-glob-colorwave-9163725",
+      "imageNote": "Official retail listing photo. Five Below exclusive. Five Below only has a 274x274 image.",
+      "placeholder": false,
+      "fictional": false,
+      "imageUrl": "https://www.fivebelow.com/v3/assets/bltb67fea03f273eb08/bltb27c3d6bba3bb6cd/9163726_01.jpg",
+      "imageCredit": "official-retail-listing",
+      "imageWidth": 251,
+      "imageHeight": 270
     },
     {
       "id": "glob-glitter",
@@ -595,11 +651,15 @@
         "texture",
         "colors"
       ],
-      "image": "assets/placeholders/glob-glitter.svg",
-      "imageSource": "",
-      "imageNote": "No real product photo could be downloaded. This is a drawn placeholder, not a picture of the toy.",
-      "placeholder": true,
-      "fictional": false
+      "image": "assets/images/glob-glitter.webp",
+      "imageSource": "https://www.fivebelow.com/products/needoh-the-groovy-glob-glitter-9163739",
+      "imageNote": "Official retail listing photo. Five Below exclusive. Five Below only has a 274x274 image.",
+      "placeholder": false,
+      "fictional": false,
+      "imageUrl": "https://www.fivebelow.com/v3/assets/bltb67fea03f273eb08/blt93373178e443b5a7/9163740_01.jpg",
+      "imageCredit": "official-retail-listing",
+      "imageWidth": 242,
+      "imageHeight": 270
     },
     {
       "id": "glob-crunchy-white",
@@ -653,11 +713,15 @@
         "year",
         "size"
       ],
-      "image": "assets/placeholders/super-groovy-target.svg",
-      "imageSource": "",
-      "imageNote": "No real product photo could be downloaded. This is a drawn placeholder, not a picture of the toy.",
-      "placeholder": true,
-      "fictional": false
+      "image": "assets/images/super-groovy-target.webp",
+      "imageSource": "https://www.target.com/p/needoh-super-groovy-glob/-/A-95290431",
+      "imageNote": "Official retail listing photo. Target listing (Target exclusive); Target-hosted product image.",
+      "placeholder": false,
+      "fictional": false,
+      "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_6346135a-d609-470b-af73-eb9d57c8d3df?wid=2000&hei=2000&qlt=90&fmt=pjpeg",
+      "imageCredit": "official-retail-listing",
+      "imageWidth": 720,
+      "imageHeight": 644
     },
     {
       "id": "worlds-smallest",
@@ -684,11 +748,15 @@
         "year",
         "size"
       ],
-      "image": "assets/placeholders/worlds-smallest.svg",
-      "imageSource": "",
-      "imageNote": "No real product photo could be downloaded. This is a drawn placeholder, not a picture of the toy.",
-      "placeholder": true,
-      "fictional": false
+      "image": "assets/images/worlds-smallest.webp",
+      "imageSource": "https://www.amazon.com/dp/B0CDQKM2BN",
+      "imageNote": "Official retail listing photo. Amazon listing under the World's Smallest brand store (licensed product made by World's Smallest/Super Impulse, not Schylling).",
+      "placeholder": false,
+      "fictional": false,
+      "imageUrl": "https://m.media-amazon.com/images/I/81St1fvzUsL._AC_SL1500_.jpg",
+      "imageCredit": "official-retail-listing",
+      "imageWidth": 462,
+      "imageHeight": 720
     },
     {
       "id": "nice-cube",
@@ -716,10 +784,49 @@
       "note": "Stormberry dates it 'Out 2023'. Schylling's page does not print a year. Schylling's page also says 2.25 inches in one place and 2.375 in another. The 2026 catalogue says 63.5 mm, so that is the size on the card.",
       "unknown": [],
       "image": "assets/images/nice-cube.webp",
-      "imageSource": "https://toctoys.com/wp-content/uploads/2026/05/Schylling-2026-Catalogue-FLIPPINGBOOK_.pdf",
-      "imageNote": "Product photo cropped from a Schylling NeeDoh catalogue. The 2026 book is the file used when the toy is in both.",
+      "imageSource": "https://schylling.com/product/needoh-nice-cube/",
+      "imageNote": "Official Schylling.com photo. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads.",
       "placeholder": false,
-      "fictional": false
+      "fictional": false,
+      "imageUrl": "https://schylling.com/wp-content/uploads/2022/12/NCBND-NeeDoh-Nice-Cube-3QR-Group.jpg",
+      "imageCredit": "schylling",
+      "imageWidth": 720,
+      "imageHeight": 610
+    },
+    {
+      "id": "sprite-nice-cube",
+      "name": "Sprite Nice Cube",
+      "category": "Nice Cubes",
+      "rarity": "Unconfirmed",
+      "rarityWhy": "It is not ranked with the real rare NeeDohs. Schylling has not listed it, and news and a licensed importer say soda-brand collabs were not made.",
+      "year": "",
+      "size": "",
+      "texture": "",
+      "feature": "Marketplace listings show a green cube with Sprite branding. That branding is not confirmed.",
+      "colors": "Lemon-lime green on marketplace listings. Not a color Schylling lists for the Nice Cube.",
+      "description": "A green cube some shops call a Sprite Nice Cube. Search for sprite and this card is the one that comes up. Schylling's Nice Cube page only lists pink, purple, and blue. Schylling told 7NEWS it has not made NeeDohs with soda brands such as Coca-Cola or Pepsi. A licensed importer, The Spinning Top, says there has never been an official Sprite, Fanta, or Dr Pepper NeeDoh. It was not found at Target, Walmart, or the Amazon Schylling store.",
+      "where": [
+        "Not sold on Schylling.com",
+        "Not found at Target, Walmart, or the Amazon Schylling store"
+      ],
+      "sources": [
+        "https://schylling.com/product/needoh-nice-cube/",
+        "https://7news.com.au/sunrise/safety-fears-over-fake-squishy-toys-prompt-australian-border-force-crackdown-as-counterfeits-flood-the-market-c-22762633",
+        "https://thespinningtop.com.au/blogs/needoh-the-facts-and-the-fakes/needoh-the-facts-and-the-fakes"
+      ],
+      "note": "No official photo. This card is a drawing. Coca-Cola, Fanta, Dr Pepper, and Pepsi cubes sold the same way were not added, because those sources say those collabs are not real Schylling toys either. Year, size, and what is inside are blank because Schylling does not list them.",
+      "unknown": [
+        "year",
+        "size",
+        "texture"
+      ],
+      "image": "assets/placeholders/sprite-nice-cube.svg",
+      "imageSource": "",
+      "imageUrl": "",
+      "imageNote": "No official photo was found. This is a drawing, not the toy.",
+      "placeholder": true,
+      "fictional": false,
+      "imageCredit": ""
     },
     {
       "id": "nice-cube-swirl",
@@ -747,10 +854,14 @@
         "year"
       ],
       "image": "assets/images/nice-cube-swirl.webp",
-      "imageSource": "https://toctoys.com/wp-content/uploads/2026/05/Schylling-2026-Catalogue-FLIPPINGBOOK_.pdf",
-      "imageNote": "Product photo cropped from the Schylling 2026 NeeDoh catalogue PDF.",
+      "imageSource": "https://schylling.com/product/needoh-nice-cube-swirl/",
+      "imageNote": "Official Schylling.com photo. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads.",
       "placeholder": false,
-      "fictional": false
+      "fictional": false,
+      "imageUrl": "https://schylling.com/wp-content/uploads/2025/02/SWNCBND__2-scaled.jpg",
+      "imageCredit": "schylling",
+      "imageWidth": 474,
+      "imageHeight": 720
     },
     {
       "id": "nice-cube-glow",
@@ -869,10 +980,14 @@
         "year"
       ],
       "image": "assets/images/nice-berg.webp",
-      "imageSource": "https://toctoys.com/wp-content/uploads/2026/05/Schylling-2026-Catalogue-FLIPPINGBOOK_.pdf",
-      "imageNote": "Product photo cropped from the Schylling 2026 NeeDoh catalogue PDF.",
+      "imageSource": "https://schylling.com/product/needoh-nice-berg/",
+      "imageNote": "Official Schylling.com photo. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads.",
       "placeholder": false,
-      "fictional": false
+      "fictional": false,
+      "imageUrl": "https://schylling.com/wp-content/uploads/2025/02/SNCBND__2.jpg",
+      "imageCredit": "schylling",
+      "imageWidth": 720,
+      "imageHeight": 621
     },
     {
       "id": "niceberg-swirl",
@@ -898,10 +1013,14 @@
       "note": "Item code SYSWSNCBND.",
       "unknown": [],
       "image": "assets/images/niceberg-swirl.webp",
-      "imageSource": "https://toctoys.com/wp-content/uploads/2026/05/Schylling-2026-Catalogue-FLIPPINGBOOK_.pdf",
-      "imageNote": "Product photo cropped from the Schylling 2026 NeeDoh catalogue PDF.",
+      "imageSource": "https://schylling.com/product/needoh-nice-berg-swirl/",
+      "imageNote": "Official Schylling.com photo. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads.",
       "placeholder": false,
-      "fictional": false
+      "fictional": false,
+      "imageUrl": "https://schylling.com/wp-content/uploads/2026/05/SWSNCBND_Image8.jpg",
+      "imageCredit": "schylling",
+      "imageWidth": 720,
+      "imageHeight": 720
     },
     {
       "id": "niceberg-glitter-glow",
@@ -958,10 +1077,14 @@
         "year"
       ],
       "image": "assets/images/nice-ice-baby.webp",
-      "imageSource": "https://toctoys.com/wp-content/uploads/2026/05/Schylling-2026-Catalogue-FLIPPINGBOOK_.pdf",
-      "imageNote": "Product photo cropped from the Schylling 2026 NeeDoh catalogue PDF.",
+      "imageSource": "https://schylling.com/product/needoh-nice-ice-baby/",
+      "imageNote": "Official Schylling.com photo. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads.",
       "placeholder": false,
-      "fictional": false
+      "fictional": false,
+      "imageUrl": "https://schylling.com/wp-content/uploads/2025/02/TSNCBND__6.jpg",
+      "imageCredit": "schylling",
+      "imageWidth": 277,
+      "imageHeight": 720
     },
     {
       "id": "candy-swirl-nice-cube",
@@ -1016,11 +1139,15 @@
         "size",
         "colors"
       ],
-      "image": "assets/placeholders/wow-flake.svg",
-      "imageSource": "",
-      "imageNote": "No real product photo could be downloaded. This is a drawn placeholder, not a picture of the toy.",
-      "placeholder": true,
-      "fictional": false
+      "image": "assets/images/wow-flake.webp",
+      "imageSource": "https://www.target.com/p/needoh-nice-cube-wow-flake/-/A-95256948",
+      "imageNote": "Official retail listing photo. Target listing (Target exclusive); Target-hosted product image.",
+      "placeholder": false,
+      "fictional": false,
+      "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_64f3a773-2414-4452-b4ec-254a4e6467c9?wid=2000&hei=2000&qlt=90&fmt=pjpeg",
+      "imageCredit": "official-retail-listing",
+      "imageWidth": 603,
+      "imageHeight": 720
     },
     {
       "id": "swirlin-usa",
@@ -1046,11 +1173,15 @@
       "unknown": [
         "size"
       ],
-      "image": "assets/placeholders/swirlin-usa.svg",
-      "imageSource": "",
-      "imageNote": "No real product photo could be downloaded. This is a drawn placeholder, not a picture of the toy.",
-      "placeholder": true,
-      "fictional": false
+      "image": "assets/images/swirlin-usa.webp",
+      "imageSource": "https://g8central.com/products/needoh-nice-cube-swirlin-usa-limited-edition",
+      "imageNote": "Photo from a collector or shop, not a Schylling studio shot. Reseller (G8Central) packshot, 573x573.",
+      "placeholder": false,
+      "fictional": false,
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0261/6672/2656/files/S51939438225d4192b3f485055a18090dS.webp?v=1789647822",
+      "imageCredit": "other",
+      "imageWidth": 377,
+      "imageHeight": 464
     },
     {
       "id": "holographic-nice-cube",
@@ -1077,11 +1208,15 @@
         "texture",
         "colors"
       ],
-      "image": "assets/placeholders/holographic-nice-cube.svg",
-      "imageSource": "",
-      "imageNote": "No real product photo could be downloaded. This is a drawn placeholder, not a picture of the toy.",
-      "placeholder": true,
-      "fictional": false
+      "image": "assets/images/holographic-nice-cube.webp",
+      "imageSource": "https://atbbeauty.com/products/new-needoh-rare-holographic-ribbon-edition-nice-cube",
+      "imageNote": "Photo from a collector or shop, not a Schylling studio shot. Reseller (All Things Beauty) photo of several boxes; not studio-clean.",
+      "placeholder": false,
+      "fictional": false,
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0998/4806/1247/files/NeedohHolographicRibbon.webp?v=1793712766",
+      "imageCredit": "other",
+      "imageWidth": 533,
+      "imageHeight": 720
     },
     {
       "id": "anniversary-cube",
@@ -1109,11 +1244,15 @@
         "size",
         "texture"
       ],
-      "image": "assets/placeholders/anniversary-cube.svg",
-      "imageSource": "",
-      "imageNote": "No real product photo could be downloaded. This is a drawn placeholder, not a picture of the toy.",
-      "placeholder": true,
-      "fictional": false
+      "image": "assets/images/anniversary-cube.webp",
+      "imageSource": "https://www.nicecreamtruck.com/products/needoh-nice-cube-50th-anniversary",
+      "imageNote": "Photo from a collector or shop, not a Schylling studio shot. Reseller (Nice Cream Truck) packshot of the 50th Anniversary Nice Cube.",
+      "placeholder": false,
+      "fictional": false,
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0845/6195/2984/files/needoh-nice-cube-50th-anniversary-angle.png?v=1791782812",
+      "imageCredit": "other",
+      "imageWidth": 619,
+      "imageHeight": 720
     },
     {
       "id": "nice-lump-of-coal",
@@ -1169,10 +1308,14 @@
         "year"
       ],
       "image": "assets/images/teenie-3pack.webp",
-      "imageSource": "https://toctoys.com/wp-content/uploads/2026/05/Schylling-2026-Catalogue-FLIPPINGBOOK_.pdf",
-      "imageNote": "Product photo cropped from a Schylling NeeDoh catalogue. The 2026 book is the file used when the toy is in both.",
+      "imageSource": "https://schylling.com/product/teenie-nee-doh/",
+      "imageNote": "Official Schylling.com photo. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads.",
       "placeholder": false,
-      "fictional": false
+      "fictional": false,
+      "imageUrl": "https://schylling.com/wp-content/uploads/2020/product/01/TND-Teenie-Nee-Doh-Group-2-web.jpg",
+      "imageCredit": "schylling",
+      "imageWidth": 720,
+      "imageHeight": 319
     },
     {
       "id": "teenie-singles",
@@ -1200,10 +1343,14 @@
         "year"
       ],
       "image": "assets/images/teenie-singles.webp",
-      "imageSource": "https://toctoys.com/wp-content/uploads/2026/05/Schylling-2026-Catalogue-FLIPPINGBOOK_.pdf",
-      "imageNote": "Product photo cropped from the Schylling 2026 NeeDoh catalogue PDF.",
+      "imageSource": "https://schylling.com/product/needoh-teenie-singles/",
+      "imageNote": "Official Schylling.com photo. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads.",
       "placeholder": false,
-      "fictional": false
+      "fictional": false,
+      "imageUrl": "https://schylling.com/wp-content/uploads/2024/08/TSNDA_Image1.jpg",
+      "imageCredit": "schylling",
+      "imageWidth": 720,
+      "imageHeight": 704
     },
     {
       "id": "rainbow-teenie",
@@ -1216,23 +1363,29 @@
       "texture": "Soft dough",
       "feature": "Six colorful minis with a carrying handle",
       "colors": "A rainbow of colors in one pack",
-      "description": "Six bright Teenie globs in a pack with a handle, so you can carry the whole rainbow.",
+      "description": "Six bright Teenie globs in a pack with a handle, so you can carry the whole rainbow. Schylling also calls this pack Rainboh.",
       "where": [
         "Toy shops that carry Schylling"
       ],
       "sources": [
+        "cat2024",
         "cat2026",
-        "cat2024"
+        "search",
+        "shop14"
       ],
-      "note": "Item code SYRBTND.",
+      "note": "The Schylling product page is titled Teenie NeeDoh Rainboh and the photo file uses SKU RBTND. The 2024 and 2026 catalogues list the same handle pack as Rainbow Teenie, item code SYRBTND. The SY prefix is the catalogue's Schylling prefix. The separate Rainboh card was this product, so it was merged here.",
       "unknown": [
         "year"
       ],
       "image": "assets/images/rainbow-teenie.webp",
-      "imageSource": "https://toctoys.com/wp-content/uploads/2026/05/Schylling-2026-Catalogue-FLIPPINGBOOK_.pdf",
-      "imageNote": "Product photo cropped from a Schylling NeeDoh catalogue. The 2026 book is the file used when the toy is in both.",
+      "imageSource": "https://schylling.com/product/teenie-needoh-rainboh/",
+      "imageNote": "Official Schylling.com photo. SKU RBTND; the 2026 catalogue calls RBTND \"Rainbow Teenie NeeDoh\", so rainbow-teenie may be the same product (left unchanged). Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads.",
       "placeholder": false,
-      "fictional": false
+      "fictional": false,
+      "imageUrl": "https://schylling.com/wp-content/uploads/2022/12/RBTND-Teenie-NeeDoh-Rainboh-Group-web.jpg",
+      "imageCredit": "schylling",
+      "imageWidth": 720,
+      "imageHeight": 316
     },
     {
       "id": "quad-squad",
@@ -1260,11 +1413,15 @@
       "unknown": [
         "year"
       ],
-      "image": "assets/placeholders/quad-squad.svg",
-      "imageSource": "",
-      "imageNote": "No real product photo could be downloaded. This is a drawn placeholder, not a picture of the toy.",
-      "placeholder": true,
-      "fictional": false
+      "image": "assets/images/quad-squad.webp",
+      "imageSource": "https://schylling.com/product/teenie-needoh-quad-squad-multipack/",
+      "imageNote": "Official Schylling.com photo. Package shot (only product-on-white views are the package). Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads.",
+      "placeholder": false,
+      "fictional": false,
+      "imageUrl": "https://schylling.com/wp-content/uploads/2026/05/MPTQSND_Image2.jpg",
+      "imageCredit": "schylling",
+      "imageWidth": 572,
+      "imageHeight": 720
     },
     {
       "id": "fab-four",
@@ -1291,11 +1448,15 @@
         "year",
         "size"
       ],
-      "image": "assets/placeholders/fab-four.svg",
-      "imageSource": "",
-      "imageNote": "No real product photo could be downloaded. This is a drawn placeholder, not a picture of the toy.",
-      "placeholder": true,
-      "fictional": false
+      "image": "assets/images/fab-four.webp",
+      "imageSource": "https://schylling.com/product/teenie-needoh-fab-four-multipack/",
+      "imageNote": "Official Schylling.com photo. Schylling image for SKU MPTFFND (Amazon model no.); page exists on schylling.com but could not be loaded (Cloudflare) or found in the Internet Archive, so the image file was located by SKU on Schylling's own uploads server.",
+      "placeholder": false,
+      "fictional": false,
+      "imageUrl": "https://schylling.com/wp-content/uploads/2026/05/MPTFFND_Image1.jpg",
+      "imageCredit": "schylling",
+      "imageWidth": 534,
+      "imageHeight": 720
     },
     {
       "id": "teenie-swirl-multipack",
@@ -1409,42 +1570,14 @@
         "year"
       ],
       "image": "assets/images/gobs-of-globs.webp",
-      "imageSource": "https://toctoys.com/wp-content/uploads/2024/02/Schylling-2024-Catalogue_APPROVED_V4_removed_compressed.pdf",
-      "imageNote": "Product photo cropped from the Schylling 2024 NeeDoh catalogue PDF.",
+      "imageSource": "https://schylling.com/product/gobs-of-globs/",
+      "imageNote": "Official Schylling.com photo. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads.",
       "placeholder": false,
-      "fictional": false
-    },
-    {
-      "id": "rainboh",
-      "name": "Rainboh",
-      "category": "Teenies",
-      "rarity": "Uncommon",
-      "rarityWhy": "In the 2024 catalogue and on Schylling.com. A handled rainbow pack.",
-      "year": "",
-      "size": "",
-      "texture": "Soft dough",
-      "feature": "Six minis and a carrying handle",
-      "colors": "Six colors",
-      "description": "A rainbow handle full of Teenie globs. The 2024 book shows six colors and a groovy carrying handle.",
-      "where": [
-        "Schylling.com",
-        "Toy shops that carry Schylling"
-      ],
-      "sources": [
-        "cat2024",
-        "search",
-        "shop14"
-      ],
-      "note": "A separate Rainbow Teenie (SYRBTND) is also in the catalogues. Both are kept because the item codes differ. They may be the same idea in two packs.",
-      "unknown": [
-        "year",
-        "size"
-      ],
-      "image": "assets/images/rainboh.webp",
-      "imageSource": "https://toctoys.com/wp-content/uploads/2024/02/Schylling-2024-Catalogue_APPROVED_V4_removed_compressed.pdf",
-      "imageNote": "Product photo cropped from the Schylling 2024 NeeDoh catalogue PDF.",
-      "placeholder": false,
-      "fictional": false
+      "fictional": false,
+      "imageUrl": "https://schylling.com/wp-content/uploads/2021/01/GGTND-Gobs-of-Globs-Pkg-3Q-Left-web.jpg",
+      "imageCredit": "schylling",
+      "imageWidth": 720,
+      "imageHeight": 677
     },
     {
       "id": "fuzz-ball",
@@ -1501,10 +1634,14 @@
         "year"
       ],
       "image": "assets/images/fuzz-flower-power.webp",
-      "imageSource": "https://toctoys.com/wp-content/uploads/2026/05/Schylling-2026-Catalogue-FLIPPINGBOOK_.pdf",
-      "imageNote": "Product photo cropped from the Schylling 2026 NeeDoh catalogue PDF.",
+      "imageSource": "https://schylling.com/product/needoh-fuzz-ball-flower-power/",
+      "imageNote": "Official Schylling.com photo. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads.",
       "placeholder": false,
-      "fictional": false
+      "fictional": false,
+      "imageUrl": "https://schylling.com/wp-content/uploads/2025/02/FPFZBND__4.jpg",
+      "imageCredit": "schylling",
+      "imageWidth": 720,
+      "imageHeight": 609
     },
     {
       "id": "fuzz-wonder-waves",
@@ -1532,10 +1669,14 @@
         "year"
       ],
       "image": "assets/images/fuzz-wonder-waves.webp",
-      "imageSource": "https://toctoys.com/wp-content/uploads/2026/05/Schylling-2026-Catalogue-FLIPPINGBOOK_.pdf",
-      "imageNote": "Product photo cropped from the Schylling 2026 NeeDoh catalogue PDF.",
+      "imageSource": "https://schylling.com/product/needoh-fuzz-ball-wonder-waves/",
+      "imageNote": "Official Schylling.com photo. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads.",
       "placeholder": false,
-      "fictional": false
+      "fictional": false,
+      "imageUrl": "https://schylling.com/wp-content/uploads/2025/02/WWFZBND__7.jpg",
+      "imageCredit": "schylling",
+      "imageWidth": 720,
+      "imageHeight": 554
     },
     {
       "id": "super-fuzz-ball",
@@ -1561,10 +1702,14 @@
         "year"
       ],
       "image": "assets/images/super-fuzz-ball.webp",
-      "imageSource": "https://toctoys.com/wp-content/uploads/2026/05/Schylling-2026-Catalogue-FLIPPINGBOOK_.pdf",
-      "imageNote": "Product photo cropped from the Schylling 2026 NeeDoh catalogue PDF.",
+      "imageSource": "https://schylling.com/product/super-needoh-fuzz-ball/",
+      "imageNote": "Official Schylling.com photo. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads.",
       "placeholder": false,
-      "fictional": false
+      "fictional": false,
+      "imageUrl": "https://schylling.com/wp-content/uploads/2026/05/SFZBND_Image1.jpg",
+      "imageCredit": "schylling",
+      "imageWidth": 702,
+      "imageHeight": 720
     },
     {
       "id": "teenie-fuzz-ball",
@@ -1621,10 +1766,14 @@
         "year"
       ],
       "image": "assets/images/teenie-fuzz-multipack.webp",
-      "imageSource": "https://toctoys.com/wp-content/uploads/2026/05/Schylling-2026-Catalogue-FLIPPINGBOOK_.pdf",
-      "imageNote": "Product photo cropped from the Schylling 2026 NeeDoh catalogue PDF.",
+      "imageSource": "https://schylling.com/product/teenie-needoh-fuzz-ball-multipack/",
+      "imageNote": "Official Schylling.com photo. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads.",
       "placeholder": false,
-      "fictional": false
+      "fictional": false,
+      "imageUrl": "https://schylling.com/wp-content/uploads/2026/05/MPFZBND_Image1.jpg",
+      "imageCredit": "schylling",
+      "imageWidth": 720,
+      "imageHeight": 664
     },
     {
       "id": "wild-cats",
@@ -1653,11 +1802,15 @@
         "size",
         "colors"
       ],
-      "image": "assets/placeholders/wild-cats.svg",
-      "imageSource": "",
-      "imageNote": "No real product photo could be downloaded. This is a drawn placeholder, not a picture of the toy.",
-      "placeholder": true,
-      "fictional": false
+      "image": "assets/images/wild-cats.webp",
+      "imageSource": "https://schylling.com/product/needoh-fuzz-ball-wild-cats/",
+      "imageNote": "Official Schylling.com photo. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads.",
+      "placeholder": false,
+      "fictional": false,
+      "imageUrl": "https://schylling.com/wp-content/uploads/2026/05/WCFZBND_Image3.jpg",
+      "imageCredit": "schylling",
+      "imageWidth": 698,
+      "imageHeight": 720
     },
     {
       "id": "cool-cats",
@@ -1685,11 +1838,15 @@
         "year",
         "size"
       ],
-      "image": "assets/placeholders/cool-cats.svg",
-      "imageSource": "",
-      "imageNote": "No real product photo could be downloaded. This is a drawn placeholder, not a picture of the toy.",
-      "placeholder": true,
-      "fictional": false
+      "image": "assets/images/cool-cats.webp",
+      "imageSource": "https://schylling.com/product/cool-cats-needoh/",
+      "imageNote": "Official Schylling.com photo. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads.",
+      "placeholder": false,
+      "fictional": false,
+      "imageUrl": "https://schylling.com/wp-content/uploads/2021/03/CCND-Nee-Doh-Cool-Cats-Group-web.jpg",
+      "imageCredit": "schylling",
+      "imageWidth": 720,
+      "imageHeight": 651
     },
     {
       "id": "super-cool-cats",
@@ -1715,10 +1872,14 @@
       "note": "Item code SYCCSPND. 'Twice the size' is the catalogue's words. Colors from Stormberry.",
       "unknown": [],
       "image": "assets/images/super-cool-cats.webp",
-      "imageSource": "https://toctoys.com/wp-content/uploads/2024/02/Schylling-2024-Catalogue_APPROVED_V4_removed_compressed.pdf",
-      "imageNote": "Product photo cropped from the Schylling 2024 NeeDoh catalogue PDF.",
+      "imageSource": "https://schylling.com/product/super-needoh-cool-cats/",
+      "imageNote": "Official Schylling.com photo. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads.",
       "placeholder": false,
-      "fictional": false
+      "fictional": false,
+      "imageUrl": "https://schylling.com/wp-content/uploads/2022/12/CCSPND-Super-NeeDoh-CoolCats-Group-web.jpg",
+      "imageCredit": "schylling",
+      "imageWidth": 694,
+      "imageHeight": 720
     },
     {
       "id": "teenie-cool-cats",
@@ -1746,10 +1907,14 @@
         "year"
       ],
       "image": "assets/images/teenie-cool-cats.webp",
-      "imageSource": "https://toctoys.com/wp-content/uploads/2026/05/Schylling-2026-Catalogue-FLIPPINGBOOK_.pdf",
-      "imageNote": "Product photo cropped from a Schylling NeeDoh catalogue. The 2026 book is the file used when the toy is in both.",
+      "imageSource": "https://schylling.com/product/teenie-needoh-cool-cats/",
+      "imageNote": "Official Schylling.com photo. 3-pack box matches the catalogue crop. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads.",
       "placeholder": false,
-      "fictional": false
+      "fictional": false,
+      "imageUrl": "https://schylling.com/wp-content/uploads/2023/05/CCTND-Teenie-NeeDoh-Cool-Cats-Pkg-3QR-web.jpg",
+      "imageCredit": "schylling",
+      "imageWidth": 394,
+      "imageHeight": 720
     },
     {
       "id": "teenie-cool-cats-multipack",
@@ -1762,53 +1927,27 @@
       "texture": "Soft dough",
       "feature": "A boxed set of tiny cats",
       "colors": "Assorted",
-      "description": "A boxed set of tiny Cool Cats.",
+      "description": "A 4-pack of tiny Cool Cats. The box says teenie NeeDoh Cool Cats. Schylling's page and some shops call the same pack Cool Kittens. It is not the smaller 3-pack of Teenie Cool Cats.",
       "where": [
         "Toy shops that carry Schylling"
       ],
       "sources": [
-        "cat2026"
+        "cat2026",
+        "shop19"
       ],
-      "note": "Item code SYMPCCTND. Kept separate from Teenie Cool Cats (SYCCTND) because the item codes differ.",
+      "note": "SKU MPCCTND, the same code as the 2026 catalogue's Cool Cats Teenie multipack (listed there as SYMPCCTND). The Schylling page is titled Teenie NeeDoh Cool Kittens Multipack, and the photo file is the same image used for that page. The separate cool-kittens card was the same product, so it was merged into this one. A shop guide names kittens Cuddles, Jinxy, Whiskers, and Frisky. Those names are not printed on the Schylling page, so they are not treated as official. Teenie Cool Cats (SYCCTND) is a different 3-pack and stays its own card.",
       "unknown": [
         "year"
       ],
       "image": "assets/images/teenie-cool-cats-multipack.webp",
-      "imageSource": "https://toctoys.com/wp-content/uploads/2026/05/Schylling-2026-Catalogue-FLIPPINGBOOK_.pdf",
-      "imageNote": "Product photo cropped from the Schylling 2026 NeeDoh catalogue PDF.",
+      "imageSource": "https://schylling.com/product/teenie-needoh-cool-kittens-multipack/",
+      "imageNote": "Official Schylling.com photo. SKU MPCCTND. The box matches the catalogue crop (4-window \"teenie NeeDoh Cool Cats\"). Schylling and retailers sell it as \"Teenie NeeDoh Cool Kittens Multipack\", so it is probably a duplicate of the cool-kittens entry. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads.",
       "placeholder": false,
-      "fictional": false
-    },
-    {
-      "id": "cool-kittens",
-      "name": "Teenie Cool Kittens Multipack",
-      "category": "Animals",
-      "rarity": "Uncommon",
-      "rarityWhy": "On Schylling.com as its own multipack. A shop guide gives the kittens names.",
-      "year": "",
-      "size": "",
-      "texture": "Soft dough",
-      "feature": "A set of named tiny kittens",
-      "colors": "",
-      "description": "A pack of tiny kittens. A toy-shop guide names them Cuddles, Jinxy, Whiskers, and Frisky.",
-      "where": [
-        "Schylling.com"
-      ],
-      "sources": [
-        "shop19",
-        "adventure"
-      ],
-      "note": "The names are from the Adventure Town guide, not from the Schylling page text we saw.",
-      "unknown": [
-        "year",
-        "size",
-        "colors"
-      ],
-      "image": "assets/placeholders/cool-kittens.svg",
-      "imageSource": "",
-      "imageNote": "No real product photo could be downloaded. This is a drawn placeholder, not a picture of the toy.",
-      "placeholder": true,
-      "fictional": false
+      "fictional": false,
+      "imageUrl": "https://schylling.com/wp-content/uploads/2026/05/MPCCTND_Image1.jpg",
+      "imageCredit": "schylling",
+      "imageWidth": 720,
+      "imageHeight": 680
     },
     {
       "id": "funky-pup",
@@ -1834,10 +1973,14 @@
       "note": "Item code SYFPND. Colors from Stormberry. Year is the catalogue NEW year.",
       "unknown": [],
       "image": "assets/images/funky-pup.webp",
-      "imageSource": "https://toctoys.com/wp-content/uploads/2024/02/Schylling-2024-Catalogue_APPROVED_V4_removed_compressed.pdf",
-      "imageNote": "Product photo cropped from the Schylling 2024 NeeDoh catalogue PDF.",
+      "imageSource": "https://schylling.com/product/needoh-funky-pup/",
+      "imageNote": "Official Schylling.com photo. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads.",
       "placeholder": false,
-      "fictional": false
+      "fictional": false,
+      "imageUrl": "https://schylling.com/wp-content/uploads/2021/12/FPND-NeeDoh-Funky-Pup-Group-3Q-Right-web.jpg",
+      "imageCredit": "schylling",
+      "imageWidth": 720,
+      "imageHeight": 589
     },
     {
       "id": "teenie-funky-pup",
@@ -1862,10 +2005,14 @@
       "note": "Item code SYFPTND.",
       "unknown": [],
       "image": "assets/images/teenie-funky-pup.webp",
-      "imageSource": "https://toctoys.com/wp-content/uploads/2026/05/Schylling-2026-Catalogue-FLIPPINGBOOK_.pdf",
-      "imageNote": "Product photo cropped from a Schylling NeeDoh catalogue. The 2026 book is the file used when the toy is in both.",
+      "imageSource": "https://schylling.com/product/teenie-needoh-funky-pups/",
+      "imageNote": "Official Schylling.com photo. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads.",
       "placeholder": false,
-      "fictional": false
+      "fictional": false,
+      "imageUrl": "https://schylling.com/wp-content/uploads/2023/05/FPTND-Teenie-NeeDoh-Funky-Pups-Group-Pyramid-web.jpg",
+      "imageCredit": "schylling",
+      "imageWidth": 720,
+      "imageHeight": 488
     },
     {
       "id": "dig-it-pig",
@@ -1893,10 +2040,14 @@
         "year"
       ],
       "image": "assets/images/dig-it-pig.webp",
-      "imageSource": "https://toctoys.com/wp-content/uploads/2024/02/Schylling-2024-Catalogue_APPROVED_V4_removed_compressed.pdf",
-      "imageNote": "Product photo cropped from the Schylling 2024 NeeDoh catalogue PDF.",
+      "imageSource": "https://schylling.com/product/needoh-dig-it-pig/",
+      "imageNote": "Official Schylling.com photo. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads.",
       "placeholder": false,
-      "fictional": false
+      "fictional": false,
+      "imageUrl": "https://schylling.com/wp-content/uploads/2021/12/DPND-NeeDoh-Dig-It-Pig-3Q-Right-Group-web.jpg",
+      "imageCredit": "schylling",
+      "imageWidth": 720,
+      "imageHeight": 579
     },
     {
       "id": "sugar-skull-cats",
@@ -1923,10 +2074,14 @@
         "year"
       ],
       "image": "assets/images/sugar-skull-cats.webp",
-      "imageSource": "https://toctoys.com/wp-content/uploads/2026/05/Schylling-2026-Catalogue-FLIPPINGBOOK_.pdf",
-      "imageNote": "Product photo cropped from the Schylling 2026 NeeDoh catalogue PDF.",
+      "imageSource": "https://schylling.com/product/needoh-sugar-skull-cats/",
+      "imageNote": "Official Schylling.com photo. Image from product card on archived schylling.com/brand/needoh listing.",
       "placeholder": false,
-      "fictional": false
+      "fictional": false,
+      "imageUrl": "https://schylling.com/wp-content/uploads/2025/02/SSCCND__2.png",
+      "imageCredit": "schylling",
+      "imageWidth": 594,
+      "imageHeight": 720
     },
     {
       "id": "knittens",
@@ -1983,11 +2138,15 @@
         "size",
         "texture"
       ],
-      "image": "assets/placeholders/barnyard-squisher.svg",
-      "imageSource": "",
-      "imageNote": "No real product photo could be downloaded. This is a drawn placeholder, not a picture of the toy.",
-      "placeholder": true,
-      "fictional": false
+      "image": "assets/images/barnyard-squisher.webp",
+      "imageSource": "https://squishplanet.com/products/needoh-barnyard-squisher-squishy-fidget-toy",
+      "imageNote": "Photo from a collector or shop, not a Schylling studio shot. Reseller (Squish Planet) staged render with the \"Barnyard Squishers\" box; styled scene, not plain white.",
+      "placeholder": false,
+      "fictional": false,
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0816/6676/9204/files/squish-planet-needoh-barnyard-squisher-squishy-fidget-toy-alternate-03.png?v=1788787233",
+      "imageCredit": "other",
+      "imageWidth": 720,
+      "imageHeight": 657
     },
     {
       "id": "barnyard-fuzz",
@@ -2078,10 +2237,14 @@
         "year"
       ],
       "image": "assets/images/gumdrop.webp",
-      "imageSource": "https://toctoys.com/wp-content/uploads/2026/05/Schylling-2026-Catalogue-FLIPPINGBOOK_.pdf",
-      "imageNote": "Product photo cropped from a Schylling NeeDoh catalogue. The 2026 book is the file used when the toy is in both.",
+      "imageSource": "https://schylling.com/product/needoh-gumdrop/",
+      "imageNote": "Official Schylling.com photo. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads.",
       "placeholder": false,
-      "fictional": false
+      "fictional": false,
+      "imageUrl": "https://schylling.com/wp-content/uploads/2023/05/GDND-NeeDoh-Gumdrop-Group-Stack-web.jpg",
+      "imageCredit": "schylling",
+      "imageWidth": 720,
+      "imageHeight": 691
     },
     {
       "id": "gummy-bear",
@@ -2110,11 +2273,15 @@
         "size",
         "texture"
       ],
-      "image": "assets/placeholders/gummy-bear.svg",
-      "imageSource": "",
-      "imageNote": "No real product photo could be downloaded. This is a drawn placeholder, not a picture of the toy.",
-      "placeholder": true,
-      "fictional": false
+      "image": "assets/images/gummy-bear.webp",
+      "imageSource": "https://schylling.com/product/needoh-gummy-bear/",
+      "imageNote": "Official Schylling.com photo. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads.",
+      "placeholder": false,
+      "fictional": false,
+      "imageUrl": "https://schylling.com/wp-content/uploads/2022/05/GBND-NeeDoh-Gummy-Bear-Group-web.jpg",
+      "imageCredit": "schylling",
+      "imageWidth": 720,
+      "imageHeight": 333
     },
     {
       "id": "dream-drop",
@@ -2143,10 +2310,14 @@
         "year"
       ],
       "image": "assets/images/dream-drop.webp",
-      "imageSource": "https://toctoys.com/wp-content/uploads/2026/05/Schylling-2026-Catalogue-FLIPPINGBOOK_.pdf",
-      "imageNote": "Product photo cropped from the Schylling 2026 NeeDoh catalogue PDF.",
+      "imageSource": "https://schylling.com/product/needoh-dream-drop/",
+      "imageNote": "Official Schylling.com photo. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads.",
       "placeholder": false,
-      "fictional": false
+      "fictional": false,
+      "imageUrl": "https://schylling.com/wp-content/uploads/2024/08/DRDND_Image1.jpg",
+      "imageCredit": "schylling",
+      "imageWidth": 720,
+      "imageHeight": 363
     },
     {
       "id": "galactic-glow-dream-drop",
@@ -2173,11 +2344,15 @@
         "year",
         "size"
       ],
-      "image": "assets/placeholders/galactic-glow-dream-drop.svg",
-      "imageSource": "",
-      "imageNote": "No real product photo could be downloaded. This is a drawn placeholder, not a picture of the toy.",
-      "placeholder": true,
-      "fictional": false
+      "image": "assets/images/galactic-glow-dream-drop.webp",
+      "imageSource": "https://www.amazon.com/dp/B0H69W85FV",
+      "imageNote": "Official retail listing photo. Amazon listing under the Schylling brand store. Only 800x800 available. Seller not verified (listing showed no buy box).",
+      "placeholder": false,
+      "fictional": false,
+      "imageUrl": "https://m.media-amazon.com/images/I/51LuJfrK1VL.jpg",
+      "imageCredit": "official-retail-listing",
+      "imageWidth": 381,
+      "imageHeight": 552
     },
     {
       "id": "jelly-squish",
@@ -2204,10 +2379,14 @@
       "note": "Item code SYJSND. Marked NEW in 2026.",
       "unknown": [],
       "image": "assets/images/jelly-squish.webp",
-      "imageSource": "https://toctoys.com/wp-content/uploads/2026/05/Schylling-2026-Catalogue-FLIPPINGBOOK_.pdf",
-      "imageNote": "Product photo cropped from the Schylling 2026 NeeDoh catalogue PDF.",
+      "imageSource": "https://schylling.com/product/needoh-jelly-squish/",
+      "imageNote": "Official Schylling.com photo. Image from product card on archived schylling.com/brand/needoh listing.",
       "placeholder": false,
-      "fictional": false
+      "fictional": false,
+      "imageUrl": "https://schylling.com/wp-content/uploads/2026/05/JSND_Image1_.jpg",
+      "imageCredit": "schylling",
+      "imageWidth": 508,
+      "imageHeight": 720
     },
     {
       "id": "mello-mallo",
@@ -2236,10 +2415,14 @@
         "year"
       ],
       "image": "assets/images/mello-mallo.webp",
-      "imageSource": "https://toctoys.com/wp-content/uploads/2026/05/Schylling-2026-Catalogue-FLIPPINGBOOK_.pdf",
-      "imageNote": "Product photo cropped from the Schylling 2026 NeeDoh catalogue PDF.",
+      "imageSource": "https://schylling.com/product/needoh-mello-mallo/",
+      "imageNote": "Official Schylling.com photo. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads.",
       "placeholder": false,
-      "fictional": false
+      "fictional": false,
+      "imageUrl": "https://schylling.com/wp-content/uploads/2025/02/MMND__10.jpg",
+      "imageCredit": "schylling",
+      "imageWidth": 720,
+      "imageHeight": 657
     },
     {
       "id": "dohnuts",
@@ -2268,10 +2451,14 @@
         "year"
       ],
       "image": "assets/images/dohnuts.webp",
-      "imageSource": "https://toctoys.com/wp-content/uploads/2026/05/Schylling-2026-Catalogue-FLIPPINGBOOK_.pdf",
-      "imageNote": "Product photo cropped from a Schylling NeeDoh catalogue. The 2026 book is the file used when the toy is in both.",
+      "imageSource": "https://schylling.com/product/needoh-dohnuts/",
+      "imageNote": "Official Schylling.com photo. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads.",
       "placeholder": false,
-      "fictional": false
+      "fictional": false,
+      "imageUrl": "https://schylling.com/wp-content/uploads/2021/12/DNND-NeeDoh-Dohnut-Group-All-web.jpg",
+      "imageCredit": "schylling",
+      "imageWidth": 720,
+      "imageHeight": 539
     },
     {
       "id": "jelly-dohnut",
@@ -2299,23 +2486,27 @@
         "year"
       ],
       "image": "assets/images/jelly-dohnut.webp",
-      "imageSource": "https://toctoys.com/wp-content/uploads/2026/05/Schylling-2026-Catalogue-FLIPPINGBOOK_.pdf",
-      "imageNote": "Product photo cropped from the Schylling 2026 NeeDoh catalogue PDF.",
+      "imageSource": "https://schylling.com/product/jelly-dohnut-needoh/",
+      "imageNote": "Official Schylling.com photo. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads.",
       "placeholder": false,
-      "fictional": false
+      "fictional": false,
+      "imageUrl": "https://schylling.com/wp-content/uploads/2023/12/JDNND-NeeDoh-Jelly-Dohnuts-Group-All-web.jpg",
+      "imageCredit": "schylling",
+      "imageWidth": 720,
+      "imageHeight": 406
     },
     {
       "id": "dohnut-holes",
       "name": "Dohnut Holes",
       "category": "Food",
       "rarity": "Uncommon",
-      "rarityWhy": "On Schylling.com and in the 2024 catalogue as a 6-piece set.",
+      "rarityWhy": "In the 2024 catalogue and on Schylling.com as Dohnut Holes. Not a separate retired 6-pack.",
       "year": "",
       "size": "The 2024 pack is 38.1 x 114.3 x 76.2 mm",
       "texture": "Soft dough",
       "feature": "Six mini donut holes with different toppings",
       "colors": "Orange, pink, sparkle pink, purple, and more",
-      "description": "A box of tiny donut holes. Some look sugary, some look sprinkled.",
+      "description": "A box of six tiny donut holes. Some look sugary, some look sprinkled. Collectors sometimes call this same box the Teenie Dohnut Holes 6-Pack.",
       "where": [
         "Schylling.com",
         "Toy shops that carry Schylling"
@@ -2325,45 +2516,19 @@
         "brand",
         "stormberry"
       ],
-      "note": "Item code SYDHTND. Schylling also lists a Teenie Dohnut Hole multipack. It may be this same set, so it is not a second card.",
+      "note": "Schylling item code DHTND on the product page, and SYDHTND in the 2024 catalogue. The photo is the same file as the page titled Dohnut Holes. The separate Teenie Dohnut Holes 6-Pack card was this product, so it was merged here. A 2026 Teenie Dohnut Hole multipack uses a different code, MPDHTND, and is a 4-pack. That 4-pack is not this card.",
       "unknown": [
         "year"
       ],
       "image": "assets/images/dohnut-holes.webp",
-      "imageSource": "https://toctoys.com/wp-content/uploads/2024/02/Schylling-2024-Catalogue_APPROVED_V4_removed_compressed.pdf",
-      "imageNote": "Product photo cropped from the Schylling 2024 NeeDoh catalogue PDF.",
+      "imageSource": "https://schylling.com/product/needoh-dohnut-holes/",
+      "imageNote": "Official Schylling.com photo. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads.",
       "placeholder": false,
-      "fictional": false
-    },
-    {
-      "id": "teenie-dohnut-holes-6",
-      "name": "Teenie Dohnut Holes 6-Pack",
-      "category": "Food",
-      "rarity": "Rare",
-      "rarityWhy": "Stormberry lists a Teenie Dohnut Holes 6-pack on the rare list, separate from the regular Dohnut Holes.",
-      "year": "",
-      "size": "",
-      "texture": "Soft dough",
-      "feature": "Six tiny donut holes",
-      "colors": "",
-      "description": "An older or harder-to-find box of six tiny donut holes. Collectors file it with the resale toys.",
-      "where": [
-        "Resale only"
-      ],
-      "sources": [
-        "stormberry"
-      ],
-      "note": "Kept separate because Stormberry's rare list names it apart from the current Dohnut Holes. It might still be the same SYDHTND set. If you have the current box, count that card, not this one.",
-      "unknown": [
-        "year",
-        "size",
-        "colors"
-      ],
-      "image": "assets/placeholders/teenie-dohnut-holes-6.svg",
-      "imageSource": "",
-      "imageNote": "No real product photo could be downloaded. This is a drawn placeholder, not a picture of the toy.",
-      "placeholder": true,
-      "fictional": false
+      "fictional": false,
+      "imageUrl": "https://schylling.com/wp-content/uploads/2024/08/DHTND_Image2-.jpg",
+      "imageCredit": "schylling",
+      "imageWidth": 720,
+      "imageHeight": 536
     },
     {
       "id": "groovy-fruit",
@@ -2391,10 +2556,14 @@
         "year"
       ],
       "image": "assets/images/groovy-fruit.webp",
-      "imageSource": "https://toctoys.com/wp-content/uploads/2026/05/Schylling-2026-Catalogue-FLIPPINGBOOK_.pdf",
-      "imageNote": "Product photo cropped from a Schylling NeeDoh catalogue. The 2026 book is the file used when the toy is in both.",
+      "imageSource": "https://schylling.com/product/groovy-fruit-nee-doh/",
+      "imageNote": "Official Schylling.com photo. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads.",
       "placeholder": false,
-      "fictional": false
+      "fictional": false,
+      "imageUrl": "https://schylling.com/wp-content/uploads/2020/08/GFND-Nee-Doh-Groovy-Fruit-Group1-web.jpg",
+      "imageCredit": "schylling",
+      "imageWidth": 720,
+      "imageHeight": 645
     },
     {
       "id": "marbleez",
@@ -2419,10 +2588,14 @@
       "note": "Item code SYMRBND. The two catalogues print different millimetre boxes, so both are noted. Marked NEW in 2024.",
       "unknown": [],
       "image": "assets/images/marbleez.webp",
-      "imageSource": "https://toctoys.com/wp-content/uploads/2026/05/Schylling-2026-Catalogue-FLIPPINGBOOK_.pdf",
-      "imageNote": "Product photo cropped from a Schylling NeeDoh catalogue. The 2026 book is the file used when the toy is in both.",
+      "imageSource": "https://schylling.com/product/marbleez-needoh/",
+      "imageNote": "Official Schylling.com photo. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads.",
       "placeholder": false,
-      "fictional": false
+      "fictional": false,
+      "imageUrl": "https://schylling.com/wp-content/uploads/2023/12/MRBND-NeeDoh-Marbleez-Group-web.jpg",
+      "imageCredit": "schylling",
+      "imageWidth": 720,
+      "imageHeight": 472
     },
     {
       "id": "ramen-noodlies",
@@ -2449,10 +2622,14 @@
         "year"
       ],
       "image": "assets/images/ramen-noodlies.webp",
-      "imageSource": "https://toctoys.com/wp-content/uploads/2026/05/Schylling-2026-Catalogue-FLIPPINGBOOK_.pdf",
-      "imageNote": "Product photo cropped from a Schylling NeeDoh catalogue. The 2026 book is the file used when the toy is in both.",
+      "imageSource": "https://schylling.com/product/noodlies-ramen/",
+      "imageNote": "Official Schylling.com photo. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads.",
       "placeholder": false,
-      "fictional": false
+      "fictional": false,
+      "imageUrl": "https://schylling.com/wp-content/uploads/2020/12/RNL-Noodlies-Ramen-Pile-web.jpg",
+      "imageCredit": "schylling",
+      "imageWidth": 720,
+      "imageHeight": 500
     },
     {
       "id": "noodlies",
@@ -2509,10 +2686,14 @@
         "year"
       ],
       "image": "assets/images/mac-n-squeeze.webp",
-      "imageSource": "https://toctoys.com/wp-content/uploads/2024/02/Schylling-2024-Catalogue_APPROVED_V4_removed_compressed.pdf",
-      "imageNote": "Product photo cropped from the Schylling 2024 NeeDoh catalogue PDF.",
+      "imageSource": "https://schylling.com/product/needoh-mac-n-squeeze/",
+      "imageNote": "Official Schylling.com photo. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads.",
       "placeholder": false,
-      "fictional": false
+      "fictional": false,
+      "imageUrl": "https://schylling.com/wp-content/uploads/2022/05/MNSQ-NeeDoh-Mac-n-Squeeze-Pkg-3Q-Left2-web.jpg",
+      "imageCredit": "schylling",
+      "imageWidth": 716,
+      "imageHeight": 720
     },
     {
       "id": "nice-cream-cone",
@@ -2539,11 +2720,15 @@
       "unknown": [
         "size"
       ],
-      "image": "assets/placeholders/nice-cream-cone.svg",
-      "imageSource": "",
-      "imageNote": "No real product photo could be downloaded. This is a drawn placeholder, not a picture of the toy.",
-      "placeholder": true,
-      "fictional": false
+      "image": "assets/images/nice-cream-cone.webp",
+      "imageSource": "https://schylling.com/product/needoh-nice-cream-cone/",
+      "imageNote": "Official Schylling.com photo. Image taken from the product card on the archived schylling.com/brand/needoh listing (Nov 2026); product page itself not archived.",
+      "placeholder": false,
+      "fictional": false,
+      "imageUrl": "https://schylling.com/wp-content/uploads/2026/05/NCCND_Image1.jpg",
+      "imageCredit": "schylling",
+      "imageWidth": 720,
+      "imageHeight": 703
     },
     {
       "id": "nice-sicle",
@@ -2570,11 +2755,15 @@
       "unknown": [
         "size"
       ],
-      "image": "assets/placeholders/nice-sicle.svg",
-      "imageSource": "",
-      "imageNote": "No real product photo could be downloaded. This is a drawn placeholder, not a picture of the toy.",
-      "placeholder": true,
-      "fictional": false
+      "image": "assets/images/nice-sicle.webp",
+      "imageSource": "https://schylling.com/product/needoh-nice-sicle/",
+      "imageNote": "Official Schylling.com photo. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads.",
+      "placeholder": false,
+      "fictional": false,
+      "imageUrl": "https://schylling.com/wp-content/uploads/2026/05/NIND_Image3.jpg",
+      "imageCredit": "schylling",
+      "imageWidth": 660,
+      "imageHeight": 720
     },
     {
       "id": "peace-o-cake",
@@ -2601,11 +2790,15 @@
       "unknown": [
         "size"
       ],
-      "image": "assets/placeholders/peace-o-cake.svg",
-      "imageSource": "",
-      "imageNote": "No real product photo could be downloaded. This is a drawn placeholder, not a picture of the toy.",
-      "placeholder": true,
-      "fictional": false
+      "image": "assets/images/peace-o-cake.webp",
+      "imageSource": "https://schylling.com/product/needoh-peace-o-cake/",
+      "imageNote": "Official Schylling.com photo. Image from product card on archived schylling.com/brand/needoh listing; product page not archived.",
+      "placeholder": false,
+      "fictional": false,
+      "imageUrl": "https://schylling.com/wp-content/uploads/2026/05/POCND_Image1-copy.jpg",
+      "imageCredit": "schylling",
+      "imageWidth": 657,
+      "imageHeight": 720
     },
     {
       "id": "squeezza",
@@ -2631,11 +2824,15 @@
       "unknown": [
         "size"
       ],
-      "image": "assets/placeholders/squeezza.svg",
-      "imageSource": "",
-      "imageNote": "No real product photo could be downloaded. This is a drawn placeholder, not a picture of the toy.",
-      "placeholder": true,
-      "fictional": false
+      "image": "assets/images/squeezza.webp",
+      "imageSource": "https://schylling.com/product/needoh-squeezza/",
+      "imageNote": "Official Schylling.com photo. Image from product card on archived schylling.com/brand/needoh listing; product page not archived.",
+      "placeholder": false,
+      "fictional": false,
+      "imageUrl": "https://schylling.com/wp-content/uploads/2026/05/SQZND_Image1.jpg",
+      "imageCredit": "schylling",
+      "imageWidth": 714,
+      "imageHeight": 720
     },
     {
       "id": "tuff-nugget",
@@ -2661,11 +2858,15 @@
       "unknown": [
         "size"
       ],
-      "image": "assets/placeholders/tuff-nugget.svg",
-      "imageSource": "",
-      "imageNote": "No real product photo could be downloaded. This is a drawn placeholder, not a picture of the toy.",
-      "placeholder": true,
-      "fictional": false
+      "image": "assets/images/tuff-nugget.webp",
+      "imageSource": "https://www.bigjigstoys.co.uk/products/needoh-tuff-nugget-sytfnd",
+      "imageNote": "Photo from a collector or shop, not a Schylling studio shot. Bigjigs Toys (UK) listing; image filename uses Schylling SKU SYTFND. Gold colour shown; the product comes in assorted colours.",
+      "placeholder": false,
+      "fictional": false,
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0555/3297/8210/files/SYTFND-03.jpg?v=1789612036",
+      "imageCredit": "other",
+      "imageWidth": 564,
+      "imageHeight": 627
     },
     {
       "id": "groovy-jewel",
@@ -2692,11 +2893,15 @@
         "year",
         "size"
       ],
-      "image": "assets/placeholders/groovy-jewel.svg",
-      "imageSource": "",
-      "imageNote": "No real product photo could be downloaded. This is a drawn placeholder, not a picture of the toy.",
-      "placeholder": true,
-      "fictional": false
+      "image": "assets/images/groovy-jewel.webp",
+      "imageSource": "https://www.amazon.com/dp/B0F6VWL6FJ",
+      "imageNote": "Official retail listing photo. Amazon listing under the Schylling brand store (model GGJND). Seller not verified (no buy box).",
+      "placeholder": false,
+      "fictional": false,
+      "imageUrl": "https://m.media-amazon.com/images/I/71opKeNB4HL._AC_SL1500_.jpg",
+      "imageCredit": "official-retail-listing",
+      "imageWidth": 695,
+      "imageHeight": 720
     },
     {
       "id": "groovy-jewel-mini",
@@ -2787,10 +2992,14 @@
         "colors"
       ],
       "image": "assets/images/squeezy-peezy.webp",
-      "imageSource": "https://toctoys.com/wp-content/uploads/2024/02/Schylling-2024-Catalogue_APPROVED_V4_removed_compressed.pdf",
-      "imageNote": "Product photo cropped from the Schylling 2024 NeeDoh catalogue PDF.",
+      "imageSource": "https://schylling.com/product/squeezy-peezy/",
+      "imageNote": "Official Schylling.com photo. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads.",
       "placeholder": false,
-      "fictional": false
+      "fictional": false,
+      "imageUrl": "https://schylling.com/wp-content/uploads/2020/08/SP-Squeezy-Peezy-Item-web.jpg",
+      "imageCredit": "schylling",
+      "imageWidth": 720,
+      "imageHeight": 717
     },
     {
       "id": "sploot-splat",
@@ -2818,10 +3027,14 @@
         "year"
       ],
       "image": "assets/images/sploot-splat.webp",
-      "imageSource": "https://toctoys.com/wp-content/uploads/2026/05/Schylling-2026-Catalogue-FLIPPINGBOOK_.pdf",
-      "imageNote": "Product photo cropped from the Schylling 2026 NeeDoh catalogue PDF.",
+      "imageSource": "https://schylling.com/product/needoh-splootsplat/",
+      "imageNote": "Official Schylling.com photo. Shows one colour (purple) of an assorted product. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads.",
       "placeholder": false,
-      "fictional": false
+      "fictional": false,
+      "imageUrl": "https://schylling.com/wp-content/uploads/2025/02/SPLND__3.jpg",
+      "imageCredit": "schylling",
+      "imageWidth": 713,
+      "imageHeight": 720
     },
     {
       "id": "cloud-pleaser",
@@ -2847,11 +3060,15 @@
         "size",
         "texture"
       ],
-      "image": "assets/placeholders/cloud-pleaser.svg",
-      "imageSource": "",
-      "imageNote": "No real product photo could be downloaded. This is a drawn placeholder, not a picture of the toy.",
-      "placeholder": true,
-      "fictional": false
+      "image": "assets/images/cloud-pleaser.webp",
+      "imageSource": "https://www.target.com/p/nee-doh-cloud-pleaser-fidget-toys/-/A-94998268",
+      "imageNote": "Official retail listing photo. Target listing (Target exclusive); Target-hosted product image.",
+      "placeholder": false,
+      "fictional": false,
+      "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_129f4309-c1a4-4344-afbd-5da5e4f60474?wid=2000&hei=2000&qlt=90&fmt=pjpeg",
+      "imageCredit": "official-retail-listing",
+      "imageWidth": 720,
+      "imageHeight": 570
     },
     {
       "id": "snow-ball-crunch",
@@ -2879,10 +3096,14 @@
         "year"
       ],
       "image": "assets/images/snow-ball-crunch.webp",
-      "imageSource": "https://toctoys.com/wp-content/uploads/2026/05/Schylling-2026-Catalogue-FLIPPINGBOOK_.pdf",
-      "imageNote": "Product photo cropped from a Schylling NeeDoh catalogue. The 2026 book is the file used when the toy is in both.",
+      "imageSource": "https://schylling.com/product/snow-ball-crunch/",
+      "imageNote": "Official Schylling.com photo. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads.",
       "placeholder": false,
-      "fictional": false
+      "fictional": false,
+      "imageUrl": "https://schylling.com/wp-content/uploads/2020/product/01/SNBC-Snow-Ball-Crunch-Item-web.jpg",
+      "imageCredit": "schylling",
+      "imageWidth": 720,
+      "imageHeight": 716
     },
     {
       "id": "cool-cane",
@@ -2909,10 +3130,14 @@
       "note": "Item code SYSQMCC25. The 25 is the season code. Stormberry says five Teenies.",
       "unknown": [],
       "image": "assets/images/cool-cane.webp",
-      "imageSource": "https://toctoys.com/wp-content/uploads/2026/05/Schylling-2026-Catalogue-FLIPPINGBOOK_.pdf",
-      "imageNote": "Product photo cropped from the Schylling 2026 NeeDoh catalogue PDF.",
+      "imageSource": "https://schylling.com/product/needoh-cool-cane/",
+      "imageNote": "Official Schylling.com photo. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads.",
       "placeholder": false,
-      "fictional": false
+      "fictional": false,
+      "imageUrl": "https://schylling.com/wp-content/uploads/2025/02/SQMCC25__1.jpg",
+      "imageCredit": "schylling",
+      "imageWidth": 289,
+      "imageHeight": 720
     },
     {
       "id": "ginger-glowman",
@@ -2940,11 +3165,15 @@
       "unknown": [
         "size"
       ],
-      "image": "assets/placeholders/ginger-glowman.svg",
-      "imageSource": "",
-      "imageNote": "No real product photo could be downloaded. This is a drawn placeholder, not a picture of the toy.",
-      "placeholder": true,
-      "fictional": false
+      "image": "assets/images/ginger-glowman.webp",
+      "imageSource": "https://schylling.com/product/needoh-ginger-glowman/",
+      "imageNote": "Official Schylling.com photo. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads.",
+      "placeholder": false,
+      "fictional": false,
+      "imageUrl": "https://schylling.com/wp-content/uploads/2025/02/SQMGM25__2.png",
+      "imageCredit": "schylling",
+      "imageWidth": 720,
+      "imageHeight": 381
     },
     {
       "id": "groovy-glowman",
@@ -2970,10 +3199,14 @@
       "note": "Item code SQMGGM24. Stormberry also lists a jelly Glowman for 2024. That jelly one was not on this catalogue page, so it is a separate card.",
       "unknown": [],
       "image": "assets/images/groovy-glowman.webp",
-      "imageSource": "https://toctoys.com/wp-content/uploads/2024/02/Schylling-2024-Catalogue_APPROVED_V4_removed_compressed.pdf",
-      "imageNote": "Product photo cropped from the Schylling 2024 NeeDoh catalogue PDF.",
+      "imageSource": "https://schylling.com/product/needoh-groovy-the-glowman/",
+      "imageNote": "Official Schylling.com photo. Same SKU as the 2024 catalogue crop (SQMGGM24); box art says \"Crunches Just Like Snow\". Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads.",
       "placeholder": false,
-      "fictional": false
+      "fictional": false,
+      "imageUrl": "https://schylling.com/wp-content/uploads/2024/08/SQMGGM24_Image1.jpg",
+      "imageCredit": "schylling",
+      "imageWidth": 616,
+      "imageHeight": 720
     },
     {
       "id": "groovy-glowman-jelly",
@@ -3088,10 +3321,14 @@
       "note": "Item code SYSQMSG25. Characters from Stormberry. Santa is on the field guide's list and might be an extra style.",
       "unknown": [],
       "image": "assets/images/snow-globe-2025.webp",
-      "imageSource": "https://toctoys.com/wp-content/uploads/2026/05/Schylling-2026-Catalogue-FLIPPINGBOOK_.pdf",
-      "imageNote": "Product photo cropped from the Schylling 2026 NeeDoh catalogue PDF.",
+      "imageSource": "https://schylling.com/product/needoh-squish-n-flow-snow-globe/",
+      "imageNote": "Official Schylling.com photo. SKU SQMSG25 matches the 2026 catalogue entry. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads.",
       "placeholder": false,
-      "fictional": false
+      "fictional": false,
+      "imageUrl": "https://schylling.com/wp-content/uploads/2025/02/SQMSG25__4.png",
+      "imageCredit": "schylling",
+      "imageWidth": 478,
+      "imageHeight": 720
     },
     {
       "id": "snow-globs-2024",
@@ -3116,10 +3353,14 @@
         "texture"
       ],
       "image": "assets/images/snow-globs-2024.webp",
-      "imageSource": "https://toctoys.com/wp-content/uploads/2024/02/Schylling-2024-Catalogue_APPROVED_V4_removed_compressed.pdf",
-      "imageNote": "Product photo cropped from the Schylling 2024 NeeDoh catalogue PDF.",
+      "imageSource": "https://schylling.com/product/needoh-snow-globe/",
+      "imageNote": "Official Schylling.com photo. SKU SQMSG24. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads.",
       "placeholder": false,
-      "fictional": false
+      "fictional": false,
+      "imageUrl": "https://schylling.com/wp-content/uploads/2024/08/SQMSG24_Image1.jpg",
+      "imageCredit": "schylling",
+      "imageWidth": 649,
+      "imageHeight": 720
     },
     {
       "id": "advent-2024",
@@ -3142,10 +3383,14 @@
       "note": "Item code SQMAC24.",
       "unknown": [],
       "image": "assets/images/advent-2024.webp",
-      "imageSource": "https://toctoys.com/wp-content/uploads/2024/02/Schylling-2024-Catalogue_APPROVED_V4_removed_compressed.pdf",
-      "imageNote": "Product photo cropped from the Schylling 2024 NeeDoh catalogue PDF.",
+      "imageSource": "https://schylling.com/product/needoh-advent-calendar/",
+      "imageNote": "Official Schylling.com photo. SKU SQMAC24. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads.",
       "placeholder": false,
-      "fictional": false
+      "fictional": false,
+      "imageUrl": "https://schylling.com/wp-content/uploads/2024/08/SQMAC24_Image1.jpg",
+      "imageCredit": "schylling",
+      "imageWidth": 720,
+      "imageHeight": 640
     },
     {
       "id": "advent-2025",
@@ -3170,11 +3415,15 @@
         "size",
         "colors"
       ],
-      "image": "assets/placeholders/advent-2025.svg",
-      "imageSource": "",
-      "imageNote": "No real product photo could be downloaded. This is a drawn placeholder, not a picture of the toy.",
-      "placeholder": true,
-      "fictional": false
+      "image": "assets/images/advent-2025.webp",
+      "imageSource": "https://schylling.com/product/needoh-advent-calendar-2/",
+      "imageNote": "Official Schylling.com photo. Schylling SKU SQMAC25 (2025 calendar). Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads.",
+      "placeholder": false,
+      "fictional": false,
+      "imageUrl": "https://schylling.com/wp-content/uploads/2025/02/SQMAC25__1.jpg",
+      "imageCredit": "schylling",
+      "imageWidth": 720,
+      "imageHeight": 542
     },
     {
       "id": "advent-2026",
@@ -3226,10 +3475,14 @@
       "note": "Item code SQMSK24. Stormberry's character names (Santa, Rudy, Penny Penguin, and others) are collector-listed, not printed in the catalogue text we extracted.",
       "unknown": [],
       "image": "assets/images/squishkins-2024.webp",
-      "imageSource": "https://toctoys.com/wp-content/uploads/2024/02/Schylling-2024-Catalogue_APPROVED_V4_removed_compressed.pdf",
-      "imageNote": "Product photo cropped from the Schylling 2024 NeeDoh catalogue PDF.",
+      "imageSource": "https://schylling.com/product/needoh-squishmas-squishkins/",
+      "imageNote": "Official Schylling.com photo. SKU SQMSK24. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads.",
       "placeholder": false,
-      "fictional": false
+      "fictional": false,
+      "imageUrl": "https://schylling.com/wp-content/uploads/2024/08/SQMSK24_Image1.jpg",
+      "imageCredit": "schylling",
+      "imageWidth": 575,
+      "imageHeight": 720
     },
     {
       "id": "teenie-tree",
@@ -3255,11 +3508,15 @@
         "texture",
         "colors"
       ],
-      "image": "assets/placeholders/teenie-tree.svg",
-      "imageSource": "",
-      "imageNote": "No real product photo could be downloaded. This is a drawn placeholder, not a picture of the toy.",
-      "placeholder": true,
-      "fictional": false
+      "image": "assets/images/teenie-tree.webp",
+      "imageSource": "https://www.papersource.com/products/squishmas-groovy-tree-0019649517862",
+      "imageNote": "Photo from a collector or shop, not a Schylling studio shot. Paper Source retail listing (sold there as \"Squishmas Groovy Tree\", UPC 019649517862); box reads \"NeeDoh Teenie Tree\".",
+      "placeholder": false,
+      "fictional": false,
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0771/8925/1382/files/0019649517862_p0.jpg?v=1773802858",
+      "imageCredit": "other",
+      "imageWidth": 720,
+      "imageHeight": 697
     },
     {
       "id": "glowy-ghost-2026",
@@ -3309,10 +3566,14 @@
       "note": "Item code NDWGG24.",
       "unknown": [],
       "image": "assets/images/groovy-ghosts-2024.webp",
-      "imageSource": "https://toctoys.com/wp-content/uploads/2024/02/Schylling-2024-Catalogue_APPROVED_V4_removed_compressed.pdf",
-      "imageNote": "Product photo cropped from the Schylling 2024 NeeDoh catalogue PDF.",
+      "imageSource": "https://schylling.com/product/needoh-glowy-ghost/",
+      "imageNote": "Official Schylling.com photo. SKU NDWGG24 (2024 ghosts). Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads.",
       "placeholder": false,
-      "fictional": false
+      "fictional": false,
+      "imageUrl": "https://schylling.com/wp-content/uploads/2024/08/NDWGG24_Image2.jpg",
+      "imageCredit": "schylling",
+      "imageWidth": 654,
+      "imageHeight": 720
     },
     {
       "id": "glowy-ghost-friends",
@@ -3393,10 +3654,14 @@
       "note": "Item code NDWJGL24.",
       "unknown": [],
       "image": "assets/images/jack-glow-2024.webp",
-      "imageSource": "https://toctoys.com/wp-content/uploads/2024/02/Schylling-2024-Catalogue_APPROVED_V4_removed_compressed.pdf",
-      "imageNote": "Product photo cropped from the Schylling 2024 NeeDoh catalogue PDF.",
+      "imageSource": "https://schylling.com/product/needoh-jack-glow-lantern/",
+      "imageNote": "Official Schylling.com photo. SKU NDWJGL24 (2024 pumpkins). Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads.",
       "placeholder": false,
-      "fictional": false
+      "fictional": false,
+      "imageUrl": "https://schylling.com/wp-content/uploads/2024/08/NDWJGL24_Image2-.jpg",
+      "imageCredit": "schylling",
+      "imageWidth": 720,
+      "imageHeight": 643
     },
     {
       "id": "teenie-jack-glow",
@@ -3501,11 +3766,15 @@
         "size",
         "colors"
       ],
-      "image": "assets/placeholders/monster-mush-countdown.svg",
-      "imageSource": "",
-      "imageNote": "No real product photo could be downloaded. This is a drawn placeholder, not a picture of the toy.",
-      "placeholder": true,
-      "fictional": false
+      "image": "assets/images/monster-mush-countdown.webp",
+      "imageSource": "https://www.target.com/p/-/A-95289584",
+      "imageNote": "Official retail listing photo. Target listing (Target exclusive); Target-hosted product image. Box shot from the listing gallery (primary image shows the loose characters).",
+      "placeholder": false,
+      "fictional": false,
+      "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_52655ff6-d5c2-4151-8052-f9bf748328aa?wid=2000&hei=2000&qlt=90&fmt=pjpeg",
+      "imageCredit": "official-retail-listing",
+      "imageWidth": 720,
+      "imageHeight": 698
     },
     {
       "id": "aldi-pale-jack",
@@ -3530,11 +3799,15 @@
         "size",
         "texture"
       ],
-      "image": "assets/placeholders/aldi-pale-jack.svg",
-      "imageSource": "",
-      "imageNote": "No real product photo could be downloaded. This is a drawn placeholder, not a picture of the toy.",
-      "placeholder": true,
-      "fictional": false
+      "image": "assets/images/aldi-pale-jack.webp",
+      "imageSource": "https://www.aldi.us/store/aldi/products/134198006-needoh-halloween-needoh-jack-lantern-1-each",
+      "imageNote": "Official retail listing photo. ALDI listing image (600x600) of its exclusive pale Jack-Glow Lantern; has an \"IN-STORE ONLY LIMIT 4\" badge in the corner. Listing title just says \"Jack Lantern\", so it is matched on the pale colour.",
+      "placeholder": false,
+      "fictional": false,
+      "imageUrl": "https://d2lnr5mha7bycj.cloudfront.net/product-image/file/large_5c100091-db26-495e-90b8-3a558eeae33d.jpg",
+      "imageCredit": "official-retail-listing",
+      "imageWidth": 588,
+      "imageHeight": 585
     },
     {
       "id": "aldi-white-ghost",
@@ -3558,11 +3831,15 @@
       "unknown": [
         "size"
       ],
-      "image": "assets/placeholders/aldi-white-ghost.svg",
-      "imageSource": "",
-      "imageNote": "No real product photo could be downloaded. This is a drawn placeholder, not a picture of the toy.",
-      "placeholder": true,
-      "fictional": false
+      "image": "assets/images/aldi-white-ghost.webp",
+      "imageSource": "https://wantitgotittoys.com/products/rare-needoh-glowy-ghosts-white-aldi-exclusive-halloween-ghosts-schylling",
+      "imageNote": "Photo from a collector or shop, not a Schylling studio shot. Reseller (Want It Got It Toys) photo, not studio-clean; shows the white Glowy Ghost box.",
+      "placeholder": false,
+      "fictional": false,
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0998/4691/4364/files/IMG_2436.jpg?v=1793561746",
+      "imageCredit": "other",
+      "imageWidth": 625,
+      "imageHeight": 720
     },
     {
       "id": "chicka-deedos",
@@ -3587,10 +3864,14 @@
       "note": "Item code SYCDDND24. Stormberry also says Chickadeedoos 'Out 2023'. The code we can verify ends in 24, so the card year is 2024.",
       "unknown": [],
       "image": "assets/images/chicka-deedos.webp",
-      "imageSource": "https://toctoys.com/wp-content/uploads/2026/05/Schylling-2026-Catalogue-FLIPPINGBOOK_.pdf",
-      "imageNote": "Product photo cropped from the Schylling 2026 NeeDoh catalogue PDF.",
+      "imageSource": "https://schylling.com/product/chickadeedoos-needoh/",
+      "imageNote": "Official Schylling.com photo. SKU CDDND24, matching the 2026 catalogue. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads.",
       "placeholder": false,
-      "fictional": false
+      "fictional": false,
+      "imageUrl": "https://schylling.com/wp-content/uploads/2024/02/CDDND24-Chickadeedoos-NeeDoh-Item-Group-web.jpg",
+      "imageCredit": "schylling",
+      "imageWidth": 709,
+      "imageHeight": 720
     },
     {
       "id": "dippin-dazzler",
@@ -3731,11 +4012,15 @@
       "unknown": [
         "size"
       ],
-      "image": "assets/placeholders/color-change-heart.svg",
-      "imageSource": "",
-      "imageNote": "No real product photo could be downloaded. This is a drawn placeholder, not a picture of the toy.",
-      "placeholder": true,
-      "fictional": false
+      "image": "assets/images/color-change-heart.webp",
+      "imageSource": "https://schylling.com/product/needoh-color-change-squeeze-heart/",
+      "imageNote": "Official Schylling.com photo. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads.",
+      "placeholder": false,
+      "fictional": false,
+      "imageUrl": "https://schylling.com/wp-content/uploads/2024/08/CCSQHND25_Image1-.jpg",
+      "imageCredit": "schylling",
+      "imageWidth": 720,
+      "imageHeight": 455
     },
     {
       "id": "good-vibes",
@@ -3764,10 +4049,14 @@
         "year"
       ],
       "image": "assets/images/good-vibes.webp",
-      "imageSource": "https://toctoys.com/wp-content/uploads/2026/05/Schylling-2026-Catalogue-FLIPPINGBOOK_.pdf",
-      "imageNote": "Product photo cropped from the Schylling 2026 NeeDoh catalogue PDF.",
+      "imageSource": "https://schylling.com/product/needoh-good-vibes-only/",
+      "imageNote": "Official Schylling.com photo. Shows a single heart (one colour/saying). Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads.",
       "placeholder": false,
-      "fictional": false
+      "fictional": false,
+      "imageUrl": "https://schylling.com/wp-content/uploads/2025/02/GVND__3.png",
+      "imageCredit": "schylling",
+      "imageWidth": 720,
+      "imageHeight": 720
     },
     {
       "id": "golden-egg-hunt",
@@ -3820,11 +4109,15 @@
       "unknown": [
         "size"
       ],
-      "image": "assets/placeholders/bunnies-chicks.svg",
-      "imageSource": "",
-      "imageNote": "No real product photo could be downloaded. This is a drawn placeholder, not a picture of the toy.",
-      "placeholder": true,
-      "fictional": false
+      "image": "assets/images/bunnies-chicks.webp",
+      "imageSource": "https://schylling.com/product/needoh-bunnies-chicks-assortment/",
+      "imageNote": "Official Schylling.com photo. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads.",
+      "placeholder": false,
+      "fictional": false,
+      "imageUrl": "https://schylling.com/wp-content/uploads/2024/08/BCNDA25_Image5.jpg",
+      "imageCredit": "schylling",
+      "imageWidth": 720,
+      "imageHeight": 577
     },
     {
       "id": "heartstrings",
@@ -3850,11 +4143,15 @@
         "size",
         "colors"
       ],
-      "image": "assets/placeholders/heartstrings.svg",
-      "imageSource": "",
-      "imageNote": "No real product photo could be downloaded. This is a drawn placeholder, not a picture of the toy.",
-      "placeholder": true,
-      "fictional": false
+      "image": "assets/images/heartstrings.webp",
+      "imageSource": "https://www.amazon.com/dp/B0BQ4P3JRQ",
+      "imageNote": "Photo from a collector or shop, not a Schylling studio shot. Amazon listing under a generic \"Needoh\" brand (looks like a reseller listing, not the Schylling store). Packshot shows the Schylling Heart Strings box.",
+      "placeholder": false,
+      "fictional": false,
+      "imageUrl": "https://m.media-amazon.com/images/I/61EAUh-hD3L._AC_SL1500_.jpg",
+      "imageCredit": "other",
+      "imageWidth": 703,
+      "imageHeight": 720
     },
     {
       "id": "honey-hugs",
@@ -3881,11 +4178,15 @@
         "year",
         "size"
       ],
-      "image": "assets/placeholders/honey-hugs.svg",
-      "imageSource": "",
-      "imageNote": "No real product photo could be downloaded. This is a drawn placeholder, not a picture of the toy.",
-      "placeholder": true,
-      "fictional": false
+      "image": "assets/images/honey-hugs.webp",
+      "imageSource": "https://www.aldi.us/store/aldi/products/96129311-needoh-honey-hugs-bear-1-each",
+      "imageNote": "Official retail listing photo. ALDI exclusive; ALDI listing image (600x600). Shows one colour (orange) of an assorted product.",
+      "placeholder": false,
+      "fictional": false,
+      "imageUrl": "https://d2lnr5mha7bycj.cloudfront.net/product-image/file/large_68ae7b02-522b-4114-b7ec-f2ec169ceac9.jpg",
+      "imageCredit": "official-retail-listing",
+      "imageWidth": 343,
+      "imageHeight": 596
     },
     {
       "id": "hoppity-doos",
@@ -3943,11 +4244,15 @@
         "year",
         "size"
       ],
-      "image": "assets/placeholders/squeezter-eggs.svg",
-      "imageSource": "",
-      "imageNote": "No real product photo could be downloaded. This is a drawn placeholder, not a picture of the toy.",
-      "placeholder": true,
-      "fictional": false
+      "image": "assets/images/squeezter-eggs.webp",
+      "imageSource": "https://schylling.com/product/needoh-squeezter-egg/",
+      "imageNote": "Official Schylling.com photo. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads.",
+      "placeholder": false,
+      "fictional": false,
+      "imageUrl": "https://schylling.com/wp-content/uploads/2024/08/SQTEND25_Image1-.jpg",
+      "imageCredit": "schylling",
+      "imageWidth": 720,
+      "imageHeight": 456
     },
     {
       "id": "magic-color-egg",
@@ -3973,11 +4278,15 @@
         "size",
         "texture"
       ],
-      "image": "assets/placeholders/magic-color-egg.svg",
-      "imageSource": "",
-      "imageNote": "No real product photo could be downloaded. This is a drawn placeholder, not a picture of the toy.",
-      "placeholder": true,
-      "fictional": false
+      "image": "assets/images/magic-color-egg.webp",
+      "imageSource": "https://schylling.com/product/magic-color-egg-needoh/",
+      "imageNote": "Official Schylling.com photo. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads.",
+      "placeholder": false,
+      "fictional": false,
+      "imageUrl": "https://schylling.com/wp-content/uploads/2024/02/MCEND24-Magic-Color-Egg-NeeDoh-Item-Group-web.jpg",
+      "imageCredit": "schylling",
+      "imageWidth": 696,
+      "imageHeight": 720
     },
     {
       "id": "mellow-marble-eggs",
@@ -4002,11 +4311,15 @@
       "unknown": [
         "size"
       ],
-      "image": "assets/placeholders/mellow-marble-eggs.svg",
-      "imageSource": "",
-      "imageNote": "No real product photo could be downloaded. This is a drawn placeholder, not a picture of the toy.",
-      "placeholder": true,
-      "fictional": false
+      "image": "assets/images/mellow-marble-eggs.webp",
+      "imageSource": "https://www.amazon.com/dp/B0BQK1TSVS",
+      "imageNote": "Photo from a collector or shop, not a Schylling studio shot. Amazon listing under a generic \"Needoh\" brand (looks like a reseller listing, not the Schylling store).",
+      "placeholder": false,
+      "fictional": false,
+      "imageUrl": "https://m.media-amazon.com/images/I/71O05nER8kL._AC_SL1500_.jpg",
+      "imageCredit": "other",
+      "imageWidth": 628,
+      "imageHeight": 720
     },
     {
       "id": "swirlie-egg",
@@ -4032,11 +4345,15 @@
         "year",
         "size"
       ],
-      "image": "assets/placeholders/swirlie-egg.svg",
-      "imageSource": "",
-      "imageNote": "No real product photo could be downloaded. This is a drawn placeholder, not a picture of the toy.",
-      "placeholder": true,
-      "fictional": false
+      "image": "assets/images/swirlie-egg.webp",
+      "imageSource": "https://schylling.com/product/needoh-swirlie-egg/",
+      "imageNote": "Official Schylling.com photo. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads.",
+      "placeholder": false,
+      "fictional": false,
+      "imageUrl": "https://schylling.com/wp-content/uploads/2024/08/SWEND25_Image1.jpg",
+      "imageCredit": "schylling",
+      "imageWidth": 658,
+      "imageHeight": 720
     },
     {
       "id": "panic-pete",
@@ -4065,10 +4382,14 @@
         "year"
       ],
       "image": "assets/images/panic-pete.webp",
-      "imageSource": "https://toctoys.com/wp-content/uploads/2026/05/Schylling-2026-Catalogue-FLIPPINGBOOK_.pdf",
-      "imageNote": "Product photo cropped from a Schylling NeeDoh catalogue. The 2026 book is the file used when the toy is in both.",
+      "imageSource": "https://schylling.com/product/needoh-panic-pete/",
+      "imageNote": "Official Schylling.com photo. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads.",
       "placeholder": false,
-      "fictional": false
+      "fictional": false,
+      "imageUrl": "https://schylling.com/wp-content/uploads/2022/12/NDPPST-NeeDoh-Panic-Pete-Group-web.jpg",
+      "imageCredit": "schylling",
+      "imageWidth": 720,
+      "imageHeight": 452
     },
     {
       "id": "booper",
@@ -4122,11 +4443,15 @@
       ],
       "note": "Year 2021 is Stormberry's date. The costume-swap play is from the field guide. Series 1 character names were not printed, so they are not invented here.",
       "unknown": [],
-      "image": "assets/placeholders/dohjees-1.svg",
-      "imageSource": "",
-      "imageNote": "No real product photo could be downloaded. This is a drawn placeholder, not a picture of the toy.",
-      "placeholder": true,
-      "fictional": false
+      "image": "assets/images/dohjees-1.webp",
+      "imageSource": "https://schylling.com/product/dohjees/",
+      "imageNote": "Official Schylling.com photo. Schylling page is plain \"Dohjees\" (the 3-pack page is labelled Series 2), so taken as Series 1; lineup image shows the series characters. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads.",
+      "placeholder": false,
+      "fictional": false,
+      "imageUrl": "https://schylling.com/wp-content/uploads/2020/12/DJ-Dohjees-Group2-web.jpg",
+      "imageCredit": "schylling",
+      "imageWidth": 720,
+      "imageHeight": 618
     },
     {
       "id": "dohjees-2",
@@ -4180,10 +4505,14 @@
       "note": "Item code SYDJPK3.",
       "unknown": [],
       "image": "assets/images/dohjees-3pack.webp",
-      "imageSource": "https://toctoys.com/wp-content/uploads/2024/02/Schylling-2024-Catalogue_APPROVED_V4_removed_compressed.pdf",
-      "imageNote": "Product photo cropped from the Schylling 2024 NeeDoh catalogue PDF.",
+      "imageSource": "https://schylling.com/product/needoh-dohjees-3-pack/",
+      "imageNote": "Official Schylling.com photo. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads.",
       "placeholder": false,
-      "fictional": false
+      "fictional": false,
+      "imageUrl": "https://schylling.com/wp-content/uploads/2022/12/DJPK3-Dohjees-3-Pack-Pkg-3QR-web.jpg",
+      "imageCredit": "schylling",
+      "imageWidth": 720,
+      "imageHeight": 380
     },
     {
       "id": "dohzee",
@@ -4209,11 +4538,15 @@
         "year",
         "size"
       ],
-      "image": "assets/placeholders/dohzee.svg",
-      "imageSource": "",
-      "imageNote": "No real product photo could be downloaded. This is a drawn placeholder, not a picture of the toy.",
-      "placeholder": true,
-      "fictional": false
+      "image": "assets/images/dohzee.webp",
+      "imageSource": "https://schylling.com/product/dohzee/",
+      "imageNote": "Official Schylling.com photo. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads.",
+      "placeholder": false,
+      "fictional": false,
+      "imageUrl": "https://schylling.com/wp-content/uploads/2020/product/01/DZ-Nee-Doh-Dohzee-Group-Pyramid-3Q-Left-web.jpg",
+      "imageCredit": "schylling",
+      "imageWidth": 720,
+      "imageHeight": 639
     },
     {
       "id": "dohzee-prints",
@@ -4239,11 +4572,15 @@
         "year",
         "size"
       ],
-      "image": "assets/placeholders/dohzee-prints.svg",
-      "imageSource": "",
-      "imageNote": "No real product photo could be downloaded. This is a drawn placeholder, not a picture of the toy.",
-      "placeholder": true,
-      "fictional": false
+      "image": "assets/images/dohzee-prints.webp",
+      "imageSource": "https://schylling.com/product/dohzee-prints/",
+      "imageNote": "Official Schylling.com photo. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads.",
+      "placeholder": false,
+      "fictional": false,
+      "imageUrl": "https://schylling.com/wp-content/uploads/2021/01/PDZ-Nee-Doh-Dohzee-Prints-Group-web.jpg",
+      "imageCredit": "schylling",
+      "imageWidth": 720,
+      "imageHeight": 468
     },
     {
       "id": "dohzee-furry",
@@ -4270,11 +4607,15 @@
         "size",
         "colors"
       ],
-      "image": "assets/placeholders/dohzee-furry.svg",
-      "imageSource": "",
-      "imageNote": "No real product photo could be downloaded. This is a drawn placeholder, not a picture of the toy.",
-      "placeholder": true,
-      "fictional": false
+      "image": "assets/images/dohzee-furry.webp",
+      "imageSource": "https://schylling.com/product/furry-dohzee/",
+      "imageNote": "Official Schylling.com photo. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads.",
+      "placeholder": false,
+      "fictional": false,
+      "imageUrl": "https://schylling.com/wp-content/uploads/2021/01/FDZ-Nee-Doh-Dohzee-Furry-Rainbow-web.jpg",
+      "imageCredit": "schylling",
+      "imageWidth": 711,
+      "imageHeight": 720
     },
     {
       "id": "dohzee-mermaid",
@@ -4302,11 +4643,15 @@
         "size",
         "colors"
       ],
-      "image": "assets/placeholders/dohzee-mermaid.svg",
-      "imageSource": "",
-      "imageNote": "No real product photo could be downloaded. This is a drawn placeholder, not a picture of the toy.",
-      "placeholder": true,
-      "fictional": false
+      "image": "assets/images/dohzee-mermaid.webp",
+      "imageSource": "https://schylling.com/product/mermaid-dohzee/",
+      "imageNote": "Official Schylling.com photo. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads.",
+      "placeholder": false,
+      "fictional": false,
+      "imageUrl": "https://schylling.com/wp-content/uploads/2022/01/MDZ-Nee-Doh-Dohzee-Prints-Mermaid-Right-web.jpg",
+      "imageCredit": "schylling",
+      "imageWidth": 720,
+      "imageHeight": 593
     },
     {
       "id": "dohzee-ramen",
@@ -4334,11 +4679,15 @@
         "size",
         "colors"
       ],
-      "image": "assets/placeholders/dohzee-ramen.svg",
-      "imageSource": "",
-      "imageNote": "No real product photo could be downloaded. This is a drawn placeholder, not a picture of the toy.",
-      "placeholder": true,
-      "fictional": false
+      "image": "assets/images/dohzee-ramen.webp",
+      "imageSource": "https://pinevello.com/products/needoh-ramen-dohzee-limit-1-per-customerhousehold",
+      "imageNote": "Photo from a collector or shop, not a Schylling studio shot. Reseller (Pinevello) packshot, 700x591. The Amazon Schylling listing (B0BQZF6DB7) is gone (404).",
+      "placeholder": false,
+      "fictional": false,
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0934/3795/2298/files/needoh---ramen-dohzee-limit-1-per-customerhousehold_1.png?v=1793757661",
+      "imageCredit": "other",
+      "imageWidth": 700,
+      "imageHeight": 498
     },
     {
       "id": "dohzee-cool-cat",
@@ -4365,11 +4714,15 @@
         "year",
         "size"
       ],
-      "image": "assets/placeholders/dohzee-cool-cat.svg",
-      "imageSource": "",
-      "imageNote": "No real product photo could be downloaded. This is a drawn placeholder, not a picture of the toy.",
-      "placeholder": true,
-      "fictional": false
+      "image": "assets/images/dohzee-cool-cat.webp",
+      "imageSource": "https://schylling.com/product/cool-cat-dohzee/",
+      "imageNote": "Official Schylling.com photo. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads.",
+      "placeholder": false,
+      "fictional": false,
+      "imageUrl": "https://schylling.com/wp-content/uploads/2021/12/CCDZ-Cool-Cats-Dohzee-Group-Pyramid-web.jpg",
+      "imageCredit": "schylling",
+      "imageWidth": 720,
+      "imageHeight": 548
     },
     {
       "id": "stickums",
@@ -4394,10 +4747,14 @@
       "note": "Item code SYSTUM. The exact play (stretch versus stick) is not spelled out in the catalogue text, so the card does not invent a verb beyond what the photo shows.",
       "unknown": [],
       "image": "assets/images/stickums.webp",
-      "imageSource": "https://toctoys.com/wp-content/uploads/2024/02/Schylling-2024-Catalogue_APPROVED_V4_removed_compressed.pdf",
-      "imageNote": "Product photo cropped from the Schylling 2024 NeeDoh catalogue PDF.",
+      "imageSource": "https://schylling.com/product/needoh-stickums/",
+      "imageNote": "Official Schylling.com photo. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads.",
       "placeholder": false,
-      "fictional": false
+      "fictional": false,
+      "imageUrl": "https://schylling.com/wp-content/uploads/2021/12/STUM-NeeDoh-Stickums-Pkg-3Q-Right-web.jpg",
+      "imageCredit": "schylling",
+      "imageWidth": 720,
+      "imageHeight": 518
     },
     {
       "id": "lava-flow",
@@ -4423,11 +4780,15 @@
         "year",
         "size"
       ],
-      "image": "assets/placeholders/lava-flow.svg",
-      "imageSource": "",
-      "imageNote": "No real product photo could be downloaded. This is a drawn placeholder, not a picture of the toy.",
-      "placeholder": true,
-      "fictional": false
+      "image": "assets/images/lava-flow.webp",
+      "imageSource": "https://schylling.com/product/lava-squish-n-flow/",
+      "imageNote": "Official Schylling.com photo. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads.",
+      "placeholder": false,
+      "fictional": false,
+      "imageUrl": "https://schylling.com/wp-content/uploads/2024/08/LVGS_Image1.jpg",
+      "imageCredit": "schylling",
+      "imageWidth": 604,
+      "imageHeight": 720
     },
     {
       "id": "power-tower",
@@ -4452,11 +4813,15 @@
       "unknown": [
         "year"
       ],
-      "image": "assets/placeholders/power-tower.svg",
-      "imageSource": "",
-      "imageNote": "No real product photo could be downloaded. This is a drawn placeholder, not a picture of the toy.",
-      "placeholder": true,
-      "fictional": false
+      "image": "assets/images/power-tower.webp",
+      "imageSource": "https://spacecityhobbies.com/products/needoh-power-tower",
+      "imageNote": "Photo from a collector or shop, not a Schylling studio shot. Reseller (Space City Hobbies) photo of the Sam's Club Power Tower box (tall, narrow image).",
+      "placeholder": false,
+      "fictional": false,
+      "imageUrl": "https://cdn.shopify.com/s/files/1/1004/7796/0497/files/s-l1600_2_4e947cf9-040e-4ae2-98ad-342a1c1ccf4e.webp?v=1792678894",
+      "imageCredit": "other",
+      "imageWidth": 170,
+      "imageHeight": 720
     },
     {
       "id": "clip-cool-cats",
@@ -4482,11 +4847,15 @@
         "texture",
         "colors"
       ],
-      "image": "assets/placeholders/clip-cool-cats.svg",
-      "imageSource": "",
-      "imageNote": "No real product photo could be downloaded. This is a drawn placeholder, not a picture of the toy.",
-      "placeholder": true,
-      "fictional": false
+      "image": "assets/images/clip-cool-cats.webp",
+      "imageSource": "https://www.wavesau.com/products/needoh-clip-it-cool-cats-x-1",
+      "imageNote": "Photo from a collector or shop, not a Schylling studio shot. Reseller (Waves AU) packshot.",
+      "placeholder": false,
+      "fictional": false,
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0017/5908/4588/files/56CEC12F-97F7-40DA-85D5-0582AFC1332E.png?v=1793354795",
+      "imageCredit": "other",
+      "imageWidth": 720,
+      "imageHeight": 714
     },
     {
       "id": "clip-glow",
@@ -4512,11 +4881,15 @@
         "texture",
         "colors"
       ],
-      "image": "assets/placeholders/clip-glow.svg",
-      "imageSource": "",
-      "imageNote": "No real product photo could be downloaded. This is a drawn placeholder, not a picture of the toy.",
-      "placeholder": true,
-      "fictional": false
+      "image": "assets/images/clip-glow.webp",
+      "imageSource": "https://hucklepuffranch.com/products/schylling-needoh-clip-it-glow-in-the-dark-mini-clip-on-sensory-squishy",
+      "imageNote": "Photo from a collector or shop, not a Schylling studio shot. Reseller (Waves AU) packshot.",
+      "placeholder": false,
+      "fictional": false,
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0017/5908/4588/files/5E998BAE-30AB-4791-AC28-B79D3EBB2F6B.png?v=1793354931",
+      "imageCredit": "other",
+      "imageWidth": 718,
+      "imageHeight": 720
     },
     {
       "id": "clip-nice-cube",
@@ -4542,11 +4915,15 @@
         "colors",
         "texture"
       ],
-      "image": "assets/placeholders/clip-nice-cube.svg",
-      "imageSource": "",
-      "imageNote": "No real product photo could be downloaded. This is a drawn placeholder, not a picture of the toy.",
-      "placeholder": true,
-      "fictional": false
+      "image": "assets/images/clip-nice-cube.webp",
+      "imageSource": "https://bhg-co.com/products/needoh-clip-it-nice-cube",
+      "imageNote": "Photo from a collector or shop, not a Schylling studio shot. Reseller (Waves AU) packshot.",
+      "placeholder": false,
+      "fictional": false,
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0017/5908/4588/files/00C4D51F-E06E-4DEC-A9D0-72998194648C.png?v=1793355107",
+      "imageCredit": "other",
+      "imageWidth": 719,
+      "imageHeight": 720
     },
     {
       "id": "groovy-shroom",
@@ -4573,10 +4950,14 @@
       "note": "Item code SYGSND. Marked NEW in the 2024 catalogue. Swappable caps are described by the Adventure Town field guide. Colors are from Stormberry.",
       "unknown": [],
       "image": "assets/images/groovy-shroom.webp",
-      "imageSource": "https://toctoys.com/wp-content/uploads/2024/02/Schylling-2024-Catalogue_APPROVED_V4_removed_compressed.pdf",
-      "imageNote": "Product photo cropped from the Schylling 2024 NeeDoh catalogue PDF.",
+      "imageSource": "https://schylling.com/product/needoh-groovy-shroom/",
+      "imageNote": "Official Schylling.com photo. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads.",
       "placeholder": false,
-      "fictional": false
+      "fictional": false,
+      "imageUrl": "https://schylling.com/wp-content/uploads/2022/05/GSND-NeeDoh-Groovy-Shroom-Group-web.jpg",
+      "imageCredit": "schylling",
+      "imageWidth": 720,
+      "imageHeight": 408
     },
     {
       "id": "ellas-secret-glob",
