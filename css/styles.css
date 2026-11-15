@@ -77,6 +77,44 @@ a:hover { color: #7a2458; }
 }
 .skip:focus { top: 12px; }
 
+.top-bar {
+  position: sticky;
+  top: 0;
+  z-index: 40;
+  display: flex;
+  justify-content: flex-end;
+  padding: 10px 12px 0;
+  background: linear-gradient(#fff5f9, rgba(255, 245, 249, 0.94) 72%, transparent);
+}
+.sound-toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  min-height: 56px;
+  padding: 8px 16px 8px 12px;
+  border-radius: 999px;
+  border: 3px solid #f3a3cc;
+  background: #fff;
+  color: #7a2458;
+  font-family: "Fredoka", "Trebuchet MS", sans-serif;
+  font-size: 1.15rem;
+  box-shadow: var(--shadow);
+  cursor: pointer;
+}
+.sound-toggle.is-off { background: #fff7fb; }
+.speaker { width: 36px; height: 36px; flex: none; }
+.speaker path {
+  fill: none;
+  stroke: #7a2458;
+  stroke-width: 3;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+.speaker .speaker-body { fill: #ffe4f2; }
+.speaker-off { display: none; }
+.sound-toggle.is-off .speaker-wave { display: none; }
+.sound-toggle.is-off .speaker-off { display: inline; }
+
 .site-header, .wrap, .site-footer { position: relative; z-index: 1; }
 .site-header {
   padding: 22px 20px 4px;
@@ -426,10 +464,16 @@ details.more summary { cursor: pointer; font-weight: 800; }
   bottom: 10px;
   z-index: 4;
   width: 84px;
-  pointer-events: none;
+  height: 64px;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  cursor: pointer;
+  pointer-events: auto;
   animation: walk 18s linear infinite;
 }
 .blob {
+  display: block;
   width: 78px;
   height: 58px;
   background: radial-gradient(circle at 32% 30%, #fff 0, #ffd0ea 40%, #c9f6ea 78%);
@@ -449,6 +493,7 @@ details.more summary { cursor: pointer; font-weight: 800; }
 }
 .blob::before { left: 22px; }
 .blob::after { left: 44px; }
+.blob.squish { animation: squish 0.45s ease; }
 
 .confetti {
   position: fixed;

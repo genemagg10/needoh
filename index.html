@@ -10,6 +10,17 @@
 </head>
 <body>
   <a class="skip" href="#panel-shelf">Skip to My Shelf</a>
+  <div class="top-bar">
+    <button type="button" class="sound-toggle" id="sound-toggle" aria-pressed="true" aria-label="Sound is on">
+      <svg class="speaker" viewBox="0 0 48 48" aria-hidden="true">
+        <path class="speaker-body" d="M8 18h8l10-8v28l-10-8H8z"/>
+        <path class="speaker-wave" d="M32 16c4 3.2 4 12.8 0 16"/>
+        <path class="speaker-wave speaker-wave-far" d="M36 12c6.5 5 6.5 19 0 24"/>
+        <path class="speaker-off" d="M30 18l12 12M42 18L30 30"/>
+      </svg>
+      <span class="sound-label">Sound on</span>
+    </button>
+  </div>
   <header class="site-header">
     <button type="button" class="logo-btn" id="logo" aria-label="Squishymania logo. Tap five times for a secret.">
       <p class="wordmark">Squishymania</p>
@@ -109,8 +120,10 @@
     <p><a href="sources.html">Where each fact came from</a></p>
   </footer>
 
-  <div class="walker" aria-hidden="true"><div class="blob"></div></div>
+  <button type="button" class="walker" id="blob-btn" aria-label="A little squishy blob">
+    <span class="blob"></span>
+  </button>
   <canvas class="confetti" id="confetti" aria-hidden="true"></canvas>
-  <script src="js/app.js"></script>
+  <script type="module" src="js/app.js"></script>
 </body>
 </html>
