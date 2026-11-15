@@ -484,3 +484,267 @@ Rarity can change when Schylling ships another batch. It is a collecting hint, n
 - **Clip-It Nice Cube** (`clip-nice-cube`). Sources: stormberry. photo: placeholder. Single collector-list source. The fill is a guess from the Nice Cube name and is not stated as certain in the data fields beyond this note. The super-solid fill is not confirmed, so texture is left blank.
 
 - **Groovy Shroom** (`groovy-shroom`). Sources: cat2024, brand, adventure, stormberry. photo: catalogue crop. Item code SYGSND. Marked NEW in the 2024 catalogue. Swappable caps are described by the Adventure Town field guide. Colors are from Stormberry.
+
+## Photos from the November 2026 intake
+
+Each photo below was saved into `assets/images/` as a WebP no larger than 720 pixels on the long side. Small sources were not enlarged. `imageSource` on the card is the page the photo came from. `imageUrl` is the image file URL.
+
+### Merged duplicates
+
+- **Cool Kittens** (`cool-kittens`) was merged into **Teenie Cool Cats Multipack** (`teenie-cool-cats-multipack`). Same Schylling page (`teenie-needoh-cool-kittens-multipack`) and the same file, SKU MPCCTND. Have or Want saved under `cool-kittens` moves to `teenie-cool-cats-multipack`. Teenie Cool Cats (`SYCCTND`) is a different 3-pack and was kept.
+
+- **Teenie Dohnut Holes 6-Pack** (`teenie-dohnut-holes-6`) was merged into **Dohnut Holes** (`dohnut-holes`). Same Schylling page and the same file, SKU DHTND / catalogue SYDHTND. Saved marks move to `dohnut-holes`. A 4-pack coded MPDHTND was not this card and was not added.
+
+- **Rainboh** (`rainboh`) was merged into **Rainbow Teenie** (`rainbow-teenie`). The Schylling page is titled Rainboh, SKU RBTND. The catalogues call that handle pack Rainbow Teenie, code SYRBTND. Saved marks move to `rainbow-teenie`.
+
+### Sprite Nice Cube
+
+Ella's green Sprite cube was checked on Schylling.com, then against Target, Walmart, and Amazon Schylling listings. Schylling's Nice Cube page lists only pink, purple, and blue. [7NEWS](https://7news.com.au/sunrise/safety-fears-over-fake-squishy-toys-prompt-australian-border-force-crackdown-as-counterfeits-flood-the-market-c-22762633) reports that Schylling said it has not released NeeDohs with Coca-Cola or Pepsi. [The Spinning Top](https://thespinningtop.com.au/blogs/needoh-the-facts-and-the-fakes/needoh-the-facts-and-the-fakes), a licensed importer, says there has never been an official Sprite, Fanta, or Dr Pepper promotion. No official photo was found, so the card is a drawing. Coca-Cola, Fanta, Dr Pepper, and Pepsi cubes were not added.
+
+### Not found, still drawings
+
+- **cool-crunch**: No schylling.com page. Five Below's "The Groovy Glob - Crunchy" listing shows a pink ball in a "Crunchy" box, so it could not be confirmed as Cool Crunch. Searches turned up only eBay/resale posts.
+
+- **twirl**: Five Below exclusive. TYPA shows it tracked at Five Below, but no Five Below product URL or image could be found. No schylling.com page.
+
+- **glitter-magma**: No schylling.com page, Amazon/Target listing or retailer listing found. Amazon only has the regular light-up Magma (B0999PMRWB, used for 'magma' via schylling.com).
+
+- **glob-crunchy-white**: Five Below "Groovy Glob - Crunchy" (fivebelow.com/products/needoh-the-groovy-glob-crunchy-9163733) image shows a PINK ball, so it was not used for Crunchy White. Nothing else official found.
+
+- **nice-lump-of-coal**: Walmart exclusive, reported as a 2027 release. No live Walmart listing (walmart.com also blocks automated fetch). Only resale (eBay/StockX) and fan pages found.
+
+- **barnyard-fuzz**: No Barnyard Fuzz Ball 4-pack on schylling.com/Amazon/Target. Amazon's Teenie Fuzz Ball 4-pack (B0G3GF7FK2) is a different product. Only Poshmark/collector-app references found.
+
+- **krystal-kitty**: Discontinued Claire's exclusive. No Claire's listing found; needohstores.com page could not be parsed. Claire's 'Glitter Cool Cats' blind box may be related but was not confirmed as the same item.
+
+- **groovy-jewel-mini**: Only reseller photos of plain patterned boxes with no readable branding, so it could not be confirmed as the Mini rather than another Groovy Jewel item. Not on schylling.com or Amazon (the Amazon Groovy Jewel listing is the full size).
+
+- **groovy-glowman-jelly**: Conflicting evidence. Amazon's 'Jelly-Like Filling' listing (B0CVDZ711P) uses model SQMGGM24, the same SKU as the schylling.com page and the 2024 catalogue crop, whose box says 'Crunches Just Like Snow'. A separate jelly product could not be told apart. The only Amazon image is a low-res 1080px lifestyle shot.
+
+- **glowy-ghost-friends**: 2026 4-pack (Wednesday/Pirate/Vampire/Frankenstein). No schylling.com upload found by SKU guesses (NDWGG26 etc.) and no retailer listing found; Amazon/Walmart Glowy Ghost listings are the single ghost.
+
+- **hoppity-doos**: The ALDI listing 'Chicka Dee Doo or Hoppity Doos' shows a chick, not a bunny, so it was rejected. featherlanegifts.co.uk page not fetched. No schylling.com page (Bunnies & Chicks assortment is a different product).
+
+### Every intake photo
+
+- **press-doh** (schylling, 2000×2000 source). Official Schylling.com photo. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads. Page: https://schylling.com/product/needoh-press-doh/ Image: https://schylling.com/wp-content/uploads/2024/08/PRCND_Image1.jpg
+
+- **bubble-glob** (schylling, 2000×2000 source). Official Schylling.com photo. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads. Page: https://schylling.com/product/bubble-glob-nee-doh/ Image: https://schylling.com/wp-content/uploads/2020/08/BTSQ-Bubble-Glob-Nee-Doh-Group-web.jpg
+
+- **stardust** (schylling, 2000×2000 source). Official Schylling.com photo. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads. Page: https://schylling.com/product/stardust-nee-doh/ Image: https://schylling.com/wp-content/uploads/2020/08/SDSB-Stardust-Shimmer-Nee-Doh-Group-web.jpg
+
+- **crystal-squeeze** (schylling, 2000×2000 source). Official Schylling.com photo. Schylling sells it as "Crystal NeeDoh"; box reads "Crystal NeeDoh Squeeze". Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads. Page: https://schylling.com/product/crystal-nee-doh/ Image: https://schylling.com/wp-content/uploads/2020/08/CSB-Crystal-Squeeze-Nee-Doh-Group-web.jpg
+
+- **magma** (schylling, 2000×2000 source). Official Schylling.com photo. Schylling page "Magma Ball"; box reads "Magma NeeDoh" (light-up). Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads. Page: https://schylling.com/product/magma-ball/ Image: https://schylling.com/wp-content/uploads/2021/01/MGM-Magma-Ball-Group-web.jpg
+
+- **quad-squad** (schylling, 2000×2000 source). Official Schylling.com photo. Package shot (only product-on-white views are the package). Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads. Page: https://schylling.com/product/teenie-needoh-quad-squad-multipack/ Image: https://schylling.com/wp-content/uploads/2026/05/MPTQSND_Image2.jpg
+
+- **wild-cats** (schylling, 3000×3000 source). Official Schylling.com photo. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads. Page: https://schylling.com/product/needoh-fuzz-ball-wild-cats/ Image: https://schylling.com/wp-content/uploads/2026/05/WCFZBND_Image3.jpg
+
+- **cool-cats** (schylling, 2000×2000 source). Official Schylling.com photo. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads. Page: https://schylling.com/product/cool-cats-needoh/ Image: https://schylling.com/wp-content/uploads/2021/03/CCND-Nee-Doh-Cool-Cats-Group-web.jpg
+
+- **gummy-bear** (schylling, 2000×2000 source). Official Schylling.com photo. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads. Page: https://schylling.com/product/needoh-gummy-bear/ Image: https://schylling.com/wp-content/uploads/2022/05/GBND-NeeDoh-Gummy-Bear-Group-web.jpg
+
+- **nice-cream-cone** (schylling, 2000×2000 source). Official Schylling.com photo. Image taken from the product card on the archived schylling.com/brand/needoh listing (Nov 2026); product page itself not archived. Page: https://schylling.com/product/needoh-nice-cream-cone/ Image: https://schylling.com/wp-content/uploads/2026/05/NCCND_Image1.jpg
+
+- **nice-sicle** (schylling, 3000×3000 source). Official Schylling.com photo. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads. Page: https://schylling.com/product/needoh-nice-sicle/ Image: https://schylling.com/wp-content/uploads/2026/05/NIND_Image3.jpg
+
+- **peace-o-cake** (schylling, 2000×2000 source). Official Schylling.com photo. Image from product card on archived schylling.com/brand/needoh listing; product page not archived. Page: https://schylling.com/product/needoh-peace-o-cake/ Image: https://schylling.com/wp-content/uploads/2026/05/POCND_Image1-copy.jpg
+
+- **squeezza** (schylling, 2000×2000 source). Official Schylling.com photo. Image from product card on archived schylling.com/brand/needoh listing; product page not archived. Page: https://schylling.com/product/needoh-squeezza/ Image: https://schylling.com/wp-content/uploads/2026/05/SQZND_Image1.jpg
+
+- **ginger-glowman** (schylling, 2000×2000 source). Official Schylling.com photo. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads. Page: https://schylling.com/product/needoh-ginger-glowman/ Image: https://schylling.com/wp-content/uploads/2025/02/SQMGM25__2.png
+
+- **advent-2025** (schylling, 2000×2000 source). Official Schylling.com photo. Schylling SKU SQMAC25 (2025 calendar). Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads. Page: https://schylling.com/product/needoh-advent-calendar-2/ Image: https://schylling.com/wp-content/uploads/2025/02/SQMAC25__1.jpg
+
+- **color-change-heart** (schylling, 2000×2000 source). Official Schylling.com photo. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads. Page: https://schylling.com/product/needoh-color-change-squeeze-heart/ Image: https://schylling.com/wp-content/uploads/2024/08/CCSQHND25_Image1-.jpg
+
+- **bunnies-chicks** (schylling, 2000×2000 source). Official Schylling.com photo. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads. Page: https://schylling.com/product/needoh-bunnies-chicks-assortment/ Image: https://schylling.com/wp-content/uploads/2024/08/BCNDA25_Image5.jpg
+
+- **squeezter-eggs** (schylling, 2000×2000 source). Official Schylling.com photo. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads. Page: https://schylling.com/product/needoh-squeezter-egg/ Image: https://schylling.com/wp-content/uploads/2024/08/SQTEND25_Image1-.jpg
+
+- **magic-color-egg** (schylling, 2000×2000 source). Official Schylling.com photo. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads. Page: https://schylling.com/product/magic-color-egg-needoh/ Image: https://schylling.com/wp-content/uploads/2024/02/MCEND24-Magic-Color-Egg-NeeDoh-Item-Group-web.jpg
+
+- **swirlie-egg** (schylling, 2000×2000 source). Official Schylling.com photo. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads. Page: https://schylling.com/product/needoh-swirlie-egg/ Image: https://schylling.com/wp-content/uploads/2024/08/SWEND25_Image1.jpg
+
+- **dohjees-1** (schylling, 2000×2000 source). Official Schylling.com photo. Schylling page is plain "Dohjees" (the 3-pack page is labelled Series 2), so taken as Series 1; lineup image shows the series characters. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads. Page: https://schylling.com/product/dohjees/ Image: https://schylling.com/wp-content/uploads/2020/12/DJ-Dohjees-Group2-web.jpg
+
+- **dohzee** (schylling, 2000×2000 source). Official Schylling.com photo. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads. Page: https://schylling.com/product/dohzee/ Image: https://schylling.com/wp-content/uploads/2020/product/01/DZ-Nee-Doh-Dohzee-Group-Pyramid-3Q-Left-web.jpg
+
+- **dohzee-prints** (schylling, 2000×2000 source). Official Schylling.com photo. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads. Page: https://schylling.com/product/dohzee-prints/ Image: https://schylling.com/wp-content/uploads/2021/01/PDZ-Nee-Doh-Dohzee-Prints-Group-web.jpg
+
+- **dohzee-furry** (schylling, 1200×1200 source). Official Schylling.com photo. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads. Page: https://schylling.com/product/furry-dohzee/ Image: https://schylling.com/wp-content/uploads/2021/01/FDZ-Nee-Doh-Dohzee-Furry-Rainbow-web.jpg
+
+- **dohzee-mermaid** (schylling, 2000×2000 source). Official Schylling.com photo. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads. Page: https://schylling.com/product/mermaid-dohzee/ Image: https://schylling.com/wp-content/uploads/2022/01/MDZ-Nee-Doh-Dohzee-Prints-Mermaid-Right-web.jpg
+
+- **dohzee-cool-cat** (schylling, 2000×2000 source). Official Schylling.com photo. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads. Page: https://schylling.com/product/cool-cat-dohzee/ Image: https://schylling.com/wp-content/uploads/2021/12/CCDZ-Cool-Cats-Dohzee-Group-Pyramid-web.jpg
+
+- **lava-flow** (schylling, 2000×2000 source). Official Schylling.com photo. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads. Page: https://schylling.com/product/lava-squish-n-flow/ Image: https://schylling.com/wp-content/uploads/2024/08/LVGS_Image1.jpg
+
+- **fab-four** (schylling, 3000×3000 source). Official Schylling.com photo. Schylling image for SKU MPTFFND (Amazon model no.); page exists on schylling.com but could not be loaded (Cloudflare) or found in the Internet Archive, so the image file was located by SKU on Schylling's own uploads server. Page: https://schylling.com/product/teenie-needoh-fab-four-multipack/ Image: https://schylling.com/wp-content/uploads/2026/05/MPTFFND_Image1.jpg
+
+- `cool-kittens` photo is used on `teenie-cool-cats-multipack` (merged). Official Schylling.com photo. Page: https://schylling.com/product/teenie-needoh-cool-kittens-multipack/ Image: https://schylling.com/wp-content/uploads/2026/05/MPCCTND_Image1.jpg
+
+- `teenie-dohnut-holes-6` photo is used on `dohnut-holes` (merged). Official Schylling.com photo. Page: https://schylling.com/product/needoh-dohnut-holes/ Image: https://schylling.com/wp-content/uploads/2024/08/DHTND_Image2-.jpg
+
+- **super-groovy-target** (official-retail-listing, 2000×2000 source). Official retail listing photo. Target listing (Target exclusive); Target-hosted product image. Page: https://www.target.com/p/needoh-super-groovy-glob/-/A-95290431 Image: https://target.scene7.com/is/image/Target/GUEST_6346135a-d609-470b-af73-eb9d57c8d3df?wid=2000&hei=2000&qlt=90&fmt=pjpeg
+
+- **wow-flake** (official-retail-listing, 2000×2000 source). Official retail listing photo. Target listing (Target exclusive); Target-hosted product image. Page: https://www.target.com/p/needoh-nice-cube-wow-flake/-/A-95256948 Image: https://target.scene7.com/is/image/Target/GUEST_64f3a773-2414-4452-b4ec-254a4e6467c9?wid=2000&hei=2000&qlt=90&fmt=pjpeg
+
+- **cloud-pleaser** (official-retail-listing, 2000×2000 source). Official retail listing photo. Target listing (Target exclusive); Target-hosted product image. Page: https://www.target.com/p/nee-doh-cloud-pleaser-fidget-toys/-/A-94998268 Image: https://target.scene7.com/is/image/Target/GUEST_129f4309-c1a4-4344-afbd-5da5e4f60474?wid=2000&hei=2000&qlt=90&fmt=pjpeg
+
+- **monster-mush-countdown** (official-retail-listing, 2000×2000 source). Official retail listing photo. Target listing (Target exclusive); Target-hosted product image. Box shot from the listing gallery (primary image shows the loose characters). Page: https://www.target.com/p/-/A-95289584 Image: https://target.scene7.com/is/image/Target/GUEST_52655ff6-d5c2-4151-8052-f9bf748328aa?wid=2000&hei=2000&qlt=90&fmt=pjpeg
+
+- **worlds-smallest** (official-retail-listing, 963×1500 source). Official retail listing photo. Amazon listing under the World's Smallest brand store (licensed product made by World's Smallest/Super Impulse, not Schylling). Page: https://www.amazon.com/dp/B0CDQKM2BN Image: https://m.media-amazon.com/images/I/81St1fvzUsL._AC_SL1500_.jpg
+
+- **galactic-glow-dream-drop** (official-retail-listing, 800×800 source). Official retail listing photo. Amazon listing under the Schylling brand store. Only 800x800 available. Seller not verified (listing showed no buy box). Page: https://www.amazon.com/dp/B0H69W85FV Image: https://m.media-amazon.com/images/I/51LuJfrK1VL.jpg
+
+- **groovy-jewel** (official-retail-listing, 1447×1500 source). Official retail listing photo. Amazon listing under the Schylling brand store (model GGJND). Seller not verified (no buy box). Page: https://www.amazon.com/dp/B0F6VWL6FJ Image: https://m.media-amazon.com/images/I/71opKeNB4HL._AC_SL1500_.jpg
+
+- **honey-hugs** (official-retail-listing, 600×600 source). Official retail listing photo. ALDI exclusive; ALDI listing image (600x600). Shows one colour (orange) of an assorted product. Page: https://www.aldi.us/store/aldi/products/96129311-needoh-honey-hugs-bear-1-each Image: https://d2lnr5mha7bycj.cloudfront.net/product-image/file/large_68ae7b02-522b-4114-b7ec-f2ec169ceac9.jpg
+
+- **aldi-pale-jack** (official-retail-listing, 600×600 source). Official retail listing photo. ALDI listing image (600x600) of its exclusive pale Jack-Glow Lantern; has an "IN-STORE ONLY LIMIT 4" badge in the corner. Listing title just says "Jack Lantern", so it is matched on the pale colour. Page: https://www.aldi.us/store/aldi/products/134198006-needoh-halloween-needoh-jack-lantern-1-each Image: https://d2lnr5mha7bycj.cloudfront.net/product-image/file/large_5c100091-db26-495e-90b8-3a558eeae33d.jpg
+
+- **colorwave** (official-retail-listing, 274×274 source). Official retail listing photo. Five Below exclusive. Five Below only has a 274x274 image. Page: https://www.fivebelow.com/products/needoh-the-groovy-glob-colorwave-9163725 Image: https://www.fivebelow.com/v3/assets/bltb67fea03f273eb08/bltb27c3d6bba3bb6cd/9163726_01.jpg
+
+- **glob-glitter** (official-retail-listing, 274×274 source). Official retail listing photo. Five Below exclusive. Five Below only has a 274x274 image. Page: https://www.fivebelow.com/products/needoh-the-groovy-glob-glitter-9163739 Image: https://www.fivebelow.com/v3/assets/bltb67fea03f273eb08/blt93373178e443b5a7/9163740_01.jpg
+
+- **heartstrings** (other, 1014×1038 source). Photo from a collector or shop, not a Schylling studio shot. Amazon listing under a generic "Needoh" brand (looks like a reseller listing, not the Schylling store). Packshot shows the Schylling Heart Strings box. Page: https://www.amazon.com/dp/B0BQ4P3JRQ Image: https://m.media-amazon.com/images/I/61EAUh-hD3L._AC_SL1500_.jpg
+
+- **mellow-marble-eggs** (other, 1268×1453 source). Photo from a collector or shop, not a Schylling studio shot. Amazon listing under a generic "Needoh" brand (looks like a reseller listing, not the Schylling store). Page: https://www.amazon.com/dp/B0BQK1TSVS Image: https://m.media-amazon.com/images/I/71O05nER8kL._AC_SL1500_.jpg
+
+- **aldi-white-ghost** (other, 3024×4032 source). Photo from a collector or shop, not a Schylling studio shot. Reseller (Want It Got It Toys) photo, not studio-clean; shows the white Glowy Ghost box. Page: https://wantitgotittoys.com/products/rare-needoh-glowy-ghosts-white-aldi-exclusive-halloween-ghosts-schylling Image: https://cdn.shopify.com/s/files/1/0998/4691/4364/files/IMG_2436.jpg?v=1793561746
+
+- **anniversary-cube** (other, 1254×1254 source). Photo from a collector or shop, not a Schylling studio shot. Reseller (Nice Cream Truck) packshot of the 50th Anniversary Nice Cube. Page: https://www.nicecreamtruck.com/products/needoh-nice-cube-50th-anniversary Image: https://cdn.shopify.com/s/files/1/0845/6195/2984/files/needoh-nice-cube-50th-anniversary-angle.png?v=1791782812
+
+- **barnyard-squisher** (other, 1254×1254 source). Photo from a collector or shop, not a Schylling studio shot. Reseller (Squish Planet) staged render with the "Barnyard Squishers" box; styled scene, not plain white. Page: https://squishplanet.com/products/needoh-barnyard-squisher-squishy-fidget-toy Image: https://cdn.shopify.com/s/files/1/0816/6676/9204/files/squish-planet-needoh-barnyard-squisher-squishy-fidget-toy-alternate-03.png?v=1788787233
+
+- **holographic-nice-cube** (other, 880×1188 source). Photo from a collector or shop, not a Schylling studio shot. Reseller (All Things Beauty) photo of several boxes; not studio-clean. Page: https://atbbeauty.com/products/new-needoh-rare-holographic-ribbon-edition-nice-cube Image: https://cdn.shopify.com/s/files/1/0998/4806/1247/files/NeedohHolographicRibbon.webp?v=1793712766
+
+- **power-tower** (other, 604×1600 source). Photo from a collector or shop, not a Schylling studio shot. Reseller (Space City Hobbies) photo of the Sam's Club Power Tower box (tall, narrow image). Page: https://spacecityhobbies.com/products/needoh-power-tower Image: https://cdn.shopify.com/s/files/1/1004/7796/0497/files/s-l1600_2_4e947cf9-040e-4ae2-98ad-342a1c1ccf4e.webp?v=1792678894
+
+- **swirlin-usa** (other, 573×573 source). Photo from a collector or shop, not a Schylling studio shot. Reseller (G8Central) packshot, 573x573. Page: https://g8central.com/products/needoh-nice-cube-swirlin-usa-limited-edition Image: https://cdn.shopify.com/s/files/1/0261/6672/2656/files/S51939438225d4192b3f485055a18090dS.webp?v=1789647822
+
+- **teenie-tree** (other, 996×996 source). Photo from a collector or shop, not a Schylling studio shot. Paper Source retail listing (sold there as "Squishmas Groovy Tree", UPC 019649517862); box reads "NeeDoh Teenie Tree". Page: https://www.papersource.com/products/squishmas-groovy-tree-0019649517862 Image: https://cdn.shopify.com/s/files/1/0771/8925/1382/files/0019649517862_p0.jpg?v=1773802858
+
+- **tuff-nugget** (other, 1000×1000 source). Photo from a collector or shop, not a Schylling studio shot. Bigjigs Toys (UK) listing; image filename uses Schylling SKU SYTFND. Gold colour shown; the product comes in assorted colours. Page: https://www.bigjigstoys.co.uk/products/needoh-tuff-nugget-sytfnd Image: https://cdn.shopify.com/s/files/1/0555/3297/8210/files/SYTFND-03.jpg?v=1789612036
+
+- **clip-cool-cats** (other, 1254×1254 source). Photo from a collector or shop, not a Schylling studio shot. Reseller (Waves AU) packshot. Page: https://www.wavesau.com/products/needoh-clip-it-cool-cats-x-1 Image: https://cdn.shopify.com/s/files/1/0017/5908/4588/files/56CEC12F-97F7-40DA-85D5-0582AFC1332E.png?v=1793354795
+
+- **clip-glow** (other, 1254×1254 source). Photo from a collector or shop, not a Schylling studio shot. Reseller (Waves AU) packshot. Page: https://hucklepuffranch.com/products/schylling-needoh-clip-it-glow-in-the-dark-mini-clip-on-sensory-squishy Image: https://cdn.shopify.com/s/files/1/0017/5908/4588/files/5E998BAE-30AB-4791-AC28-B79D3EBB2F6B.png?v=1793354931
+
+- **clip-nice-cube** (other, 1254×1254 source). Photo from a collector or shop, not a Schylling studio shot. Reseller (Waves AU) packshot. Page: https://bhg-co.com/products/needoh-clip-it-nice-cube Image: https://cdn.shopify.com/s/files/1/0017/5908/4588/files/00C4D51F-E06E-4DEC-A9D0-72998194648C.png?v=1793355107
+
+- **dohzee-ramen** (other, 700×591 source). Photo from a collector or shop, not a Schylling studio shot. Reseller (Pinevello) packshot, 700x591. The Amazon Schylling listing (B0BQZF6DB7) is gone (404). Page: https://pinevello.com/products/needoh-ramen-dohzee-limit-1-per-customerhousehold Image: https://cdn.shopify.com/s/files/1/0934/3795/2298/files/needoh---ramen-dohzee-limit-1-per-customerhousehold_1.png?v=1793757661
+
+- **original** (schylling, 2000×2000 source). Official Schylling.com photo. Schylling page title "Classic NeeDoh". Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads. Page: https://schylling.com/product/nee-doh-the-groovy-glob-stress-ball/ Image: https://schylling.com/wp-content/uploads/2020/05/ND-Color-Group.jpg
+
+- **super** (schylling, 2000×2000 source). Official Schylling.com photo. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads. Page: https://schylling.com/product/super-nee-doh/ Image: https://schylling.com/wp-content/uploads/2021/03/SPND-Super-Nee-Doh-Group-web.jpg
+
+- **swirl** (schylling, 2000×2000 source). Official Schylling.com photo. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads. Page: https://schylling.com/product/swirl-nee-doh/ Image: https://schylling.com/wp-content/uploads/2020/08/SWND-Swirl-Nee-Doh-Group-web.jpg
+
+- **glow** (schylling, 2000×2000 source). Official Schylling.com photo. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads. Page: https://schylling.com/product/glow-in-the-dark-nee-doh/ Image: https://schylling.com/wp-content/uploads/2020/08/GND-Nee-Doh-Glow-in-the-Dark-Item-web.jpg
+
+- **color-changing** (schylling, 2000×2000 source). Official Schylling.com photo. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads. Page: https://schylling.com/product/color-changing-nee-doh/ Image: https://schylling.com/wp-content/uploads/2020/08/CCSQ-Color-Change-Nee-Doh-Group-web.jpg
+
+- **atomic** (schylling, 2000×2000 source). Official Schylling.com photo. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads. Page: https://schylling.com/product/atomic-nee-doh/ Image: https://schylling.com/wp-content/uploads/2021/12/ATND-Atomic-Nee-Doh-Group-2021-web.jpg
+
+- **happy-snappy** (schylling, 2000×2000 source). Official Schylling.com photo. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads. Page: https://schylling.com/product/happy-snappy/ Image: https://schylling.com/wp-content/uploads/2022/01/HSNB-Happy-Snappy-Group2-web.jpg
+
+- **shaggy** (schylling, 2000×2000 source). Official Schylling.com photo. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads. Page: https://schylling.com/product/shaggy-nee-doh/ Image: https://schylling.com/wp-content/uploads/2020/product/01/SHND-Shaggy-Nee-Doh-Item-Group3-web.jpg
+
+- **nice-cube** (schylling, 2000×2000 source). Official Schylling.com photo. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads. Page: https://schylling.com/product/needoh-nice-cube/ Image: https://schylling.com/wp-content/uploads/2022/12/NCBND-NeeDoh-Nice-Cube-3QR-Group.jpg
+
+- **nice-cube-swirl** (schylling, 2560×2560 source). Official Schylling.com photo. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads. Page: https://schylling.com/product/needoh-nice-cube-swirl/ Image: https://schylling.com/wp-content/uploads/2025/02/SWNCBND__2-scaled.jpg
+
+- **nice-berg** (schylling, 2000×2000 source). Official Schylling.com photo. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads. Page: https://schylling.com/product/needoh-nice-berg/ Image: https://schylling.com/wp-content/uploads/2025/02/SNCBND__2.jpg
+
+- **niceberg-swirl** (schylling, 2000×2000 source). Official Schylling.com photo. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads. Page: https://schylling.com/product/needoh-nice-berg-swirl/ Image: https://schylling.com/wp-content/uploads/2026/05/SWSNCBND_Image8.jpg
+
+- **nice-ice-baby** (schylling, 2000×2000 source). Official Schylling.com photo. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads. Page: https://schylling.com/product/needoh-nice-ice-baby/ Image: https://schylling.com/wp-content/uploads/2025/02/TSNCBND__6.jpg
+
+- **teenie-3pack** (schylling, 2000×2000 source). Official Schylling.com photo. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads. Page: https://schylling.com/product/teenie-nee-doh/ Image: https://schylling.com/wp-content/uploads/2020/product/01/TND-Teenie-Nee-Doh-Group-2-web.jpg
+
+- **teenie-singles** (schylling, 2000×2000 source). Official Schylling.com photo. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads. Page: https://schylling.com/product/needoh-teenie-singles/ Image: https://schylling.com/wp-content/uploads/2024/08/TSNDA_Image1.jpg
+
+- **gobs-of-globs** (schylling, 2000×2000 source). Official Schylling.com photo. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads. Page: https://schylling.com/product/gobs-of-globs/ Image: https://schylling.com/wp-content/uploads/2021/01/GGTND-Gobs-of-Globs-Pkg-3Q-Left-web.jpg
+
+- `rainboh` photo is used on `rainbow-teenie` (merged). Official Schylling.com photo. Page: https://schylling.com/product/teenie-needoh-rainboh/ Image: https://schylling.com/wp-content/uploads/2022/12/RBTND-Teenie-NeeDoh-Rainboh-Group-web.jpg
+
+- **fuzz-flower-power** (schylling, 2000×2000 source). Official Schylling.com photo. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads. Page: https://schylling.com/product/needoh-fuzz-ball-flower-power/ Image: https://schylling.com/wp-content/uploads/2025/02/FPFZBND__4.jpg
+
+- **fuzz-wonder-waves** (schylling, 2000×2000 source). Official Schylling.com photo. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads. Page: https://schylling.com/product/needoh-fuzz-ball-wonder-waves/ Image: https://schylling.com/wp-content/uploads/2025/02/WWFZBND__7.jpg
+
+- **super-fuzz-ball** (schylling, 2000×2000 source). Official Schylling.com photo. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads. Page: https://schylling.com/product/super-needoh-fuzz-ball/ Image: https://schylling.com/wp-content/uploads/2026/05/SFZBND_Image1.jpg
+
+- **teenie-fuzz-multipack** (schylling, 2000×2000 source). Official Schylling.com photo. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads. Page: https://schylling.com/product/teenie-needoh-fuzz-ball-multipack/ Image: https://schylling.com/wp-content/uploads/2026/05/MPFZBND_Image1.jpg
+
+- **super-cool-cats** (schylling, 2000×2000 source). Official Schylling.com photo. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads. Page: https://schylling.com/product/super-needoh-cool-cats/ Image: https://schylling.com/wp-content/uploads/2022/12/CCSPND-Super-NeeDoh-CoolCats-Group-web.jpg
+
+- **teenie-cool-cats** (schylling, 2000×2000 source). Official Schylling.com photo. 3-pack box matches the catalogue crop. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads. Page: https://schylling.com/product/teenie-needoh-cool-cats/ Image: https://schylling.com/wp-content/uploads/2023/05/CCTND-Teenie-NeeDoh-Cool-Cats-Pkg-3QR-web.jpg
+
+- **funky-pup** (schylling, 2000×2000 source). Official Schylling.com photo. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads. Page: https://schylling.com/product/needoh-funky-pup/ Image: https://schylling.com/wp-content/uploads/2021/12/FPND-NeeDoh-Funky-Pup-Group-3Q-Right-web.jpg
+
+- **teenie-funky-pup** (schylling, 2000×2000 source). Official Schylling.com photo. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads. Page: https://schylling.com/product/teenie-needoh-funky-pups/ Image: https://schylling.com/wp-content/uploads/2023/05/FPTND-Teenie-NeeDoh-Funky-Pups-Group-Pyramid-web.jpg
+
+- **dig-it-pig** (schylling, 2000×2000 source). Official Schylling.com photo. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads. Page: https://schylling.com/product/needoh-dig-it-pig/ Image: https://schylling.com/wp-content/uploads/2021/12/DPND-NeeDoh-Dig-It-Pig-3Q-Right-Group-web.jpg
+
+- **sugar-skull-cats** (schylling, 2567×3156 source). Official Schylling.com photo. Image from product card on archived schylling.com/brand/needoh listing. Page: https://schylling.com/product/needoh-sugar-skull-cats/ Image: https://schylling.com/wp-content/uploads/2025/02/SSCCND__2.png
+
+- **gumdrop** (schylling, 2000×2000 source). Official Schylling.com photo. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads. Page: https://schylling.com/product/needoh-gumdrop/ Image: https://schylling.com/wp-content/uploads/2023/05/GDND-NeeDoh-Gumdrop-Group-Stack-web.jpg
+
+- **dream-drop** (schylling, 2000×2000 source). Official Schylling.com photo. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads. Page: https://schylling.com/product/needoh-dream-drop/ Image: https://schylling.com/wp-content/uploads/2024/08/DRDND_Image1.jpg
+
+- **jelly-squish** (schylling, 2000×2000 source). Official Schylling.com photo. Image from product card on archived schylling.com/brand/needoh listing. Page: https://schylling.com/product/needoh-jelly-squish/ Image: https://schylling.com/wp-content/uploads/2026/05/JSND_Image1_.jpg
+
+- **mello-mallo** (schylling, 2000×2000 source). Official Schylling.com photo. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads. Page: https://schylling.com/product/needoh-mello-mallo/ Image: https://schylling.com/wp-content/uploads/2025/02/MMND__10.jpg
+
+- **dohnuts** (schylling, 2000×2000 source). Official Schylling.com photo. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads. Page: https://schylling.com/product/needoh-dohnuts/ Image: https://schylling.com/wp-content/uploads/2021/12/DNND-NeeDoh-Dohnut-Group-All-web.jpg
+
+- **jelly-dohnut** (schylling, 2000×2000 source). Official Schylling.com photo. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads. Page: https://schylling.com/product/jelly-dohnut-needoh/ Image: https://schylling.com/wp-content/uploads/2023/12/JDNND-NeeDoh-Jelly-Dohnuts-Group-All-web.jpg
+
+- **dohnut-holes** (schylling, 2000×2000 source). Official Schylling.com photo. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads. Page: https://schylling.com/product/needoh-dohnut-holes/ Image: https://schylling.com/wp-content/uploads/2024/08/DHTND_Image2-.jpg
+
+- **groovy-fruit** (schylling, 2000×2000 source). Official Schylling.com photo. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads. Page: https://schylling.com/product/groovy-fruit-nee-doh/ Image: https://schylling.com/wp-content/uploads/2020/08/GFND-Nee-Doh-Groovy-Fruit-Group1-web.jpg
+
+- **marbleez** (schylling, 2000×2000 source). Official Schylling.com photo. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads. Page: https://schylling.com/product/marbleez-needoh/ Image: https://schylling.com/wp-content/uploads/2023/12/MRBND-NeeDoh-Marbleez-Group-web.jpg
+
+- **ramen-noodlies** (schylling, 2000×2000 source). Official Schylling.com photo. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads. Page: https://schylling.com/product/noodlies-ramen/ Image: https://schylling.com/wp-content/uploads/2020/12/RNL-Noodlies-Ramen-Pile-web.jpg
+
+- **mac-n-squeeze** (schylling, 2000×2000 source). Official Schylling.com photo. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads. Page: https://schylling.com/product/needoh-mac-n-squeeze/ Image: https://schylling.com/wp-content/uploads/2022/05/MNSQ-NeeDoh-Mac-n-Squeeze-Pkg-3Q-Left2-web.jpg
+
+- **squeezy-peezy** (schylling, 2000×2000 source). Official Schylling.com photo. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads. Page: https://schylling.com/product/squeezy-peezy/ Image: https://schylling.com/wp-content/uploads/2020/08/SP-Squeezy-Peezy-Item-web.jpg
+
+- **sploot-splat** (schylling, 2000×2000 source). Official Schylling.com photo. Shows one colour (purple) of an assorted product. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads. Page: https://schylling.com/product/needoh-splootsplat/ Image: https://schylling.com/wp-content/uploads/2025/02/SPLND__3.jpg
+
+- **snow-ball-crunch** (schylling, 2000×2000 source). Official Schylling.com photo. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads. Page: https://schylling.com/product/snow-ball-crunch/ Image: https://schylling.com/wp-content/uploads/2020/product/01/SNBC-Snow-Ball-Crunch-Item-web.jpg
+
+- **cool-cane** (schylling, 2250×2250 source). Official Schylling.com photo. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads. Page: https://schylling.com/product/needoh-cool-cane/ Image: https://schylling.com/wp-content/uploads/2025/02/SQMCC25__1.jpg
+
+- **groovy-glowman** (schylling, 2000×2000 source). Official Schylling.com photo. Same SKU as the 2024 catalogue crop (SQMGGM24); box art says "Crunches Just Like Snow". Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads. Page: https://schylling.com/product/needoh-groovy-the-glowman/ Image: https://schylling.com/wp-content/uploads/2024/08/SQMGGM24_Image1.jpg
+
+- **snow-globe-2025** (schylling, 2930×2929 source). Official Schylling.com photo. SKU SQMSG25 matches the 2026 catalogue entry. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads. Page: https://schylling.com/product/needoh-squish-n-flow-snow-globe/ Image: https://schylling.com/wp-content/uploads/2025/02/SQMSG25__4.png
+
+- **snow-globs-2024** (schylling, 2000×2000 source). Official Schylling.com photo. SKU SQMSG24. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads. Page: https://schylling.com/product/needoh-snow-globe/ Image: https://schylling.com/wp-content/uploads/2024/08/SQMSG24_Image1.jpg
+
+- **advent-2024** (schylling, 2000×2000 source). Official Schylling.com photo. SKU SQMAC24. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads. Page: https://schylling.com/product/needoh-advent-calendar/ Image: https://schylling.com/wp-content/uploads/2024/08/SQMAC24_Image1.jpg
+
+- **squishkins-2024** (schylling, 2000×2000 source). Official Schylling.com photo. SKU SQMSK24. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads. Page: https://schylling.com/product/needoh-squishmas-squishkins/ Image: https://schylling.com/wp-content/uploads/2024/08/SQMSK24_Image1.jpg
+
+- **groovy-ghosts-2024** (schylling, 1783×1854 source). Official Schylling.com photo. SKU NDWGG24 (2024 ghosts). Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads. Page: https://schylling.com/product/needoh-glowy-ghost/ Image: https://schylling.com/wp-content/uploads/2024/08/NDWGG24_Image2.jpg
+
+- **jack-glow-2024** (schylling, 2000×2000 source). Official Schylling.com photo. SKU NDWJGL24 (2024 pumpkins). Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads. Page: https://schylling.com/product/needoh-jack-glow-lantern/ Image: https://schylling.com/wp-content/uploads/2024/08/NDWJGL24_Image2-.jpg
+
+- **chicka-deedos** (schylling, 2000×2000 source). Official Schylling.com photo. SKU CDDND24, matching the 2026 catalogue. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads. Page: https://schylling.com/product/chickadeedoos-needoh/ Image: https://schylling.com/wp-content/uploads/2024/02/CDDND24-Chickadeedoos-NeeDoh-Item-Group-web.jpg
+
+- **good-vibes** (schylling, 2000×1999 source). Official Schylling.com photo. Shows a single heart (one colour/saying). Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads. Page: https://schylling.com/product/needoh-good-vibes-only/ Image: https://schylling.com/wp-content/uploads/2025/02/GVND__3.png
+
+- **panic-pete** (schylling, 2000×2000 source). Official Schylling.com photo. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads. Page: https://schylling.com/product/needoh-panic-pete/ Image: https://schylling.com/wp-content/uploads/2022/12/NDPPST-NeeDoh-Panic-Pete-Group-web.jpg
+
+- **dohjees-3pack** (schylling, 2000×2000 source). Official Schylling.com photo. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads. Page: https://schylling.com/product/needoh-dohjees-3-pack/ Image: https://schylling.com/wp-content/uploads/2022/12/DJPK3-Dohjees-3-Pack-Pkg-3QR-web.jpg
+
+- **stickums** (schylling, 2000×2000 source). Official Schylling.com photo. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads. Page: https://schylling.com/product/needoh-stickums/ Image: https://schylling.com/wp-content/uploads/2021/12/STUM-NeeDoh-Stickums-Pkg-3Q-Right-web.jpg
+
+- **groovy-shroom** (schylling, 2000×2000 source). Official Schylling.com photo. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads. Page: https://schylling.com/product/needoh-groovy-shroom/ Image: https://schylling.com/wp-content/uploads/2022/05/GSND-NeeDoh-Groovy-Shroom-Group-web.jpg
+
+- **teenie-cool-cats-multipack** (schylling, 2000×2000 source). Official Schylling.com photo. SKU MPCCTND. The box matches the catalogue crop (4-window "teenie NeeDoh Cool Cats"). Schylling and retailers sell it as "Teenie NeeDoh Cool Kittens Multipack", so it is probably a duplicate of the cool-kittens entry. Schylling product page is behind a Cloudflare check; image URLs were read from the Internet Archive copy of the page and downloaded directly from schylling.com/wp-content/uploads. Page: https://schylling.com/product/teenie-needoh-cool-kittens-multipack/ Image: https://schylling.com/wp-content/uploads/2026/05/MPCCTND_Image1.jpg

@@ -39,6 +39,12 @@ const els = {
   secretPerch: document.getElementById("secret-perch"),
 };
 
+const ID_ALIASES = {
+  "cool-kittens": "teenie-cool-cats-multipack",
+  "teenie-dohnut-holes-6": "dohnut-holes",
+  "rainboh": "rainbow-teenie",
+};
+
 function loadCollection() {
   try {
     const raw = JSON.parse(localStorage.getItem(STORAGE_KEY) || "{}");
@@ -47,6 +53,16 @@ function loadCollection() {
     for (const [id, status] of Object.entries(raw)) {
       if (status === "have" || status === "want") clean[id] = status;
     }
+    let changed = false;
+    for (const [oldId, newId] of Object.entries(ID_ALIASES)) {
+      if (!(oldId in clean)) continue;
+      const oldStatus = clean[oldId];
+      const kept = clean[newId];
+      if (!kept || (kept !== "have" && oldStatus === "have")) clean[newId] = oldStatus;
+      delete clean[oldId];
+      changed = true;
+    }
+    if (changed) localStorage.setItem(STORAGE_KEY, JSON.stringify(clean));
     return clean;
   } catch {
     return {};
@@ -97,17 +113,21 @@ function cardHtml(item) {
     ? `${item.name}. Drawn placeholder, because a real photo was not found.`
     : `${item.name}, a NeeDoh squishy toy`;
   const draw = item.placeholder ? `<span class="badge draw">Drawing, not a photo</span>` : "";
+  const shopPhoto = !item.placeholder && item.imageCredit === "other"
+    ? `<p class="photo-credit">Photo from a collector/shop</p>` : "";
   const fictional = item.fictional ? `<span class="badge legendary">Just for Ella</span>` : "";
   const where = (item.where || []).map(escapeHtml).join(", ");
   const more = [
     item.rarityWhy ? `<p><strong>Why this rarity:</strong> ${escapeHtml(item.rarityWhy)}</p>` : "",
+    item.imageNote ? `<p><strong>Photo:</strong> ${escapeHtml(item.imageNote)}</p>` : "",
     item.note ? `<p>${escapeHtml(item.note)}</p>` : "",
   ].join("");
   return `
     <article class="card ${status}" data-id="${escapeHtml(item.id)}">
       <button type="button" class="photo-btn" data-action="squish" aria-label="Squish ${escapeHtml(item.name)}">
-        <img src="${escapeHtml(item.image)}" alt="${escapeHtml(alt)}" width="640" height="640">
+        <img src="${escapeHtml(item.image)}" alt="${escapeHtml(alt)}">
       </button>
+      ${shopPhoto}
       <div class="card-top">
         <span class="badge ${rarityClass(item.rarity)}">${escapeHtml(item.rarity)}</span>
         <span class="badge cat">${escapeHtml(item.category)}</span>
@@ -149,6 +169,7 @@ function captionHtml(item, mode) {
   return `
     <div class="caption" data-id="${escapeHtml(item.id)}">
       <span class="toy-name">${escapeHtml(item.name)}</span>
+      ${!item.placeholder && item.imageCredit === "other" ? `<span class="photo-credit">Photo from a collector/shop</span>` : ""}
       <button type="button" class="action ${action}" data-action="${action}" aria-pressed="true">${label}</button>
     </div>`;
 }
