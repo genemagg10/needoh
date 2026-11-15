@@ -1,0 +1,4607 @@
+{
+  "title": "Squishymania by Ella",
+  "about": "A catalogue of real NeeDoh toys by Schylling. Empty fields mean we could not verify that fact. The secret Star Glob is not a real product.",
+  "updated": "2026-11-15",
+  "items": [
+    {
+      "id": "original",
+      "name": "The Original NeeDoh",
+      "category": "Groovy Globs",
+      "rarity": "Common",
+      "rarityWhy": "It is still in the 2024 and 2026 catalogues and on Schylling.com.",
+      "year": "2017",
+      "size": "2.5 inches (63.5 mm)",
+      "texture": "Soft dough that slowly fills back in",
+      "feature": "Always puffs back into a ball",
+      "colors": "Blue, green, orange, pink, purple",
+      "description": "The Groovy Glob that started the whole squish. Squeeze it, pull it, smush it, and it comes back round.",
+      "where": [
+        "Schylling.com",
+        "Toy shops that carry Schylling"
+      ],
+      "sources": [
+        "cat2026",
+        "cat2024",
+        "about",
+        "original-page",
+        "brand",
+        "adventure"
+      ],
+      "note": "Year 2017 is from Schylling's NeeDoh page ('the original since 2017') and the Adventure Town guide. The 'since 1975' line on that page is Schylling the company, not this toy.",
+      "unknown": [],
+      "image": "assets/images/original.webp",
+      "imageSource": "https://toctoys.com/wp-content/uploads/2026/05/Schylling-2026-Catalogue-FLIPPINGBOOK_.pdf",
+      "imageNote": "Product photo cropped from a Schylling NeeDoh catalogue. The 2026 book is the file used when the toy is in both.",
+      "placeholder": false,
+      "fictional": false
+    },
+    {
+      "id": "super",
+      "name": "Super NeeDoh",
+      "category": "Groovy Globs",
+      "rarity": "Uncommon",
+      "rarityWhy": "A bigger Groovy Glob. Schylling sells it, and it costs more than the classic, so shops carry fewer.",
+      "year": "",
+      "size": "4.5 inches (114.3 mm)",
+      "texture": "Soft dough",
+      "feature": "About twice as big as the classic Groovy Glob",
+      "colors": "Green, orange, pink",
+      "description": "The Groovy Glob, all grown up. One big squeeze instead of a little one.",
+      "where": [
+        "Schylling.com",
+        "Toy shops that carry Schylling"
+      ],
+      "sources": [
+        "cat2024",
+        "super-page"
+      ],
+      "note": "Release year is not printed. Schylling's page says it is twice a Classic and lists 4.5 inches. The 2024 catalogue lists item code SYSPND at 114.3 mm.",
+      "unknown": [
+        "year"
+      ],
+      "image": "assets/images/super.webp",
+      "imageSource": "https://toctoys.com/wp-content/uploads/2024/02/Schylling-2024-Catalogue_APPROVED_V4_removed_compressed.pdf",
+      "imageNote": "Product photo cropped from the Schylling 2024 NeeDoh catalogue PDF.",
+      "placeholder": false,
+      "fictional": false
+    },
+    {
+      "id": "swirl",
+      "name": "Swirl NeeDoh",
+      "category": "Groovy Globs",
+      "rarity": "Common",
+      "rarityWhy": "A regular Groovy Glob colorway in the 2024 catalogue, called a bestseller there.",
+      "year": "",
+      "size": "2.5 inches (63.5 mm)",
+      "texture": "Soft dough",
+      "feature": "The colors swirl together",
+      "colors": "Assorted swirls, including pink, blue, and orange",
+      "description": "A Groovy Glob with colors swirled together, like a marble you can squish.",
+      "where": [
+        "Schylling.com",
+        "Toy shops that carry Schylling"
+      ],
+      "sources": [
+        "cat2024",
+        "stormberry",
+        "search"
+      ],
+      "note": "Schylling.com search lists Rainboh nearby, and the 2024 catalogue lists SWIRL NEEDOH, item code SYSWND. Exact swirl color list is from Stormberry, not the catalogue.",
+      "unknown": [
+        "year"
+      ],
+      "image": "assets/images/swirl.webp",
+      "imageSource": "https://toctoys.com/wp-content/uploads/2024/02/Schylling-2024-Catalogue_APPROVED_V4_removed_compressed.pdf",
+      "imageNote": "Product photo cropped from the Schylling 2024 NeeDoh catalogue PDF.",
+      "placeholder": false,
+      "fictional": false
+    },
+    {
+      "id": "glow",
+      "name": "Glow in the Dark NeeDoh",
+      "category": "Groovy Globs",
+      "rarity": "Common",
+      "rarityWhy": "In both the 2024 and 2026 catalogues as a regular assortment.",
+      "year": "",
+      "size": "2.5 inches (63.5 mm)",
+      "texture": "Soft dough",
+      "feature": "Glows in the dark",
+      "colors": "Green, blue, pink, orange, purple",
+      "description": "A Groovy Glob that glows after the lights go out. Charge it in the light, then take it somewhere dark.",
+      "where": [
+        "Schylling.com",
+        "Toy shops that carry Schylling"
+      ],
+      "sources": [
+        "cat2026",
+        "cat2024",
+        "stormberry"
+      ],
+      "note": "2024 catalogue lists SYGND and assorted SYAGND. 2026 catalogue lists the assortment SYAGND. Color list is from Stormberry.",
+      "unknown": [
+        "year"
+      ],
+      "image": "assets/images/glow.webp",
+      "imageSource": "https://toctoys.com/wp-content/uploads/2026/05/Schylling-2026-Catalogue-FLIPPINGBOOK_.pdf",
+      "imageNote": "Product photo cropped from a Schylling NeeDoh catalogue. The 2026 book is the file used when the toy is in both.",
+      "placeholder": false,
+      "fictional": false
+    },
+    {
+      "id": "color-changing",
+      "name": "Color Changing NeeDoh",
+      "category": "Groovy Globs",
+      "rarity": "Common",
+      "rarityWhy": "On Schylling.com and in both catalogues.",
+      "year": "",
+      "size": "2.5 inches (63.5 mm)",
+      "texture": "Soft dough",
+      "feature": "The color shifts when you squeeze",
+      "colors": "Blue to pink, pink to purple, yellow to orange",
+      "description": "Squeeze this Groovy Glob and a new color shows up in your hand. Let go, and it settles back.",
+      "where": [
+        "Schylling.com",
+        "Toy shops that carry Schylling"
+      ],
+      "sources": [
+        "cat2026",
+        "cat2024",
+        "color-page",
+        "brand"
+      ],
+      "note": "",
+      "unknown": [
+        "year"
+      ],
+      "image": "assets/images/color-changing.webp",
+      "imageSource": "https://toctoys.com/wp-content/uploads/2026/05/Schylling-2026-Catalogue-FLIPPINGBOOK_.pdf",
+      "imageNote": "Product photo cropped from a Schylling NeeDoh catalogue. The 2026 book is the file used when the toy is in both.",
+      "placeholder": false,
+      "fictional": false
+    },
+    {
+      "id": "atomic",
+      "name": "Atomic NeeDoh",
+      "category": "Groovy Globs",
+      "rarity": "Common",
+      "rarityWhy": "On Schylling.com and in the 2024 catalogue.",
+      "year": "",
+      "size": "2.5 inches (63.5 mm)",
+      "texture": "Soft dough inside a stretchy net",
+      "feature": "A thick net makes the squish bulge out in pieces",
+      "colors": "Blue and yellow, yellow and pink, pink and blue",
+      "description": "A Groovy Glob in a stretchy web. Squish it and the dough pokes out between the lines, then pulls back in.",
+      "where": [
+        "Schylling.com",
+        "Toy shops that carry Schylling"
+      ],
+      "sources": [
+        "cat2024",
+        "brand",
+        "adventure",
+        "stormberry"
+      ],
+      "note": "The net description is from the Adventure Town field guide. Colors are from Stormberry. Size is the 2024 catalogue (SYATND).",
+      "unknown": [
+        "year"
+      ],
+      "image": "assets/images/atomic.webp",
+      "imageSource": "https://toctoys.com/wp-content/uploads/2024/02/Schylling-2024-Catalogue_APPROVED_V4_removed_compressed.pdf",
+      "imageNote": "Product photo cropped from the Schylling 2024 NeeDoh catalogue PDF.",
+      "placeholder": false,
+      "fictional": false
+    },
+    {
+      "id": "happy-snappy",
+      "name": "Happy Snappy",
+      "category": "Groovy Globs",
+      "rarity": "Common",
+      "rarityWhy": "On Schylling.com and in the 2024 catalogue.",
+      "year": "",
+      "size": "2.5 inches (63.5 mm)",
+      "texture": "Air-filled, not dough",
+      "feature": "Grooves pop and snap when you squeeze",
+      "colors": "Blue, green, pink, purple",
+      "description": "This one is full of air. The little grooves pop and snap under your fingers.",
+      "where": [
+        "Schylling.com",
+        "Toy shops that carry Schylling"
+      ],
+      "sources": [
+        "cat2024",
+        "brand",
+        "tracker"
+      ],
+      "note": "2024 catalogue says air filled, 4 assorted neon colours, item code SYHSNB. Color names are from Stormberry.",
+      "unknown": [
+        "year"
+      ],
+      "image": "assets/images/happy-snappy.webp",
+      "imageSource": "https://toctoys.com/wp-content/uploads/2024/02/Schylling-2024-Catalogue_APPROVED_V4_removed_compressed.pdf",
+      "imageNote": "Product photo cropped from the Schylling 2024 NeeDoh catalogue PDF.",
+      "placeholder": false,
+      "fictional": false
+    },
+    {
+      "id": "shaggy",
+      "name": "Shaggy NeeDoh",
+      "category": "Groovy Globs",
+      "rarity": "Common",
+      "rarityWhy": "On Schylling.com and in the 2024 catalogue. Easy to find compared with retired globs.",
+      "year": "",
+      "size": "2.5 inches (63.5 mm)",
+      "texture": "Soft dough under a shaggy surface",
+      "feature": "You can squish it or pet the shaggy outside",
+      "colors": "Lime green, pink, purple, teal",
+      "description": "A Groovy Glob with a shaggy coat. Squish it, or just pet it. It is not a dinosaur. No Dino NeeDoh turned up in Schylling's catalogues.",
+      "where": [
+        "Schylling.com",
+        "Toy shops that carry Schylling"
+      ],
+      "sources": [
+        "cat2024",
+        "shaggy-page",
+        "tracker"
+      ],
+      "note": "No product named Dino was found on Schylling, in the 2024 or 2026 catalogues, or on the collector lists checked.",
+      "unknown": [
+        "year"
+      ],
+      "image": "assets/images/shaggy.webp",
+      "imageSource": "https://toctoys.com/wp-content/uploads/2024/02/Schylling-2024-Catalogue_APPROVED_V4_removed_compressed.pdf",
+      "imageNote": "Product photo cropped from the Schylling 2024 NeeDoh catalogue PDF.",
+      "placeholder": false,
+      "fictional": false
+    },
+    {
+      "id": "super-ripples",
+      "name": "Super NeeDoh Ripples",
+      "category": "Groovy Globs",
+      "rarity": "Uncommon",
+      "rarityWhy": "A jumbo, and it was marked NEW in the 2024 catalogue. Fewer shops stock the big ones.",
+      "year": "2024",
+      "size": "4.5 inches (114.3 mm)",
+      "texture": "Soft dough",
+      "feature": "Raised ripple patterns you can feel",
+      "colors": "Pink, purple, green, orange",
+      "description": "A giant Groovy Glob with waves and circles you can feel. Marked new in the 2024 catalogue.",
+      "where": [
+        "Schylling.com",
+        "Toy shops that carry Schylling"
+      ],
+      "sources": [
+        "cat2024",
+        "tracker",
+        "stormberry"
+      ],
+      "note": "Year is the catalogue year it was marked NEW, item code SYRSPND. That is the first catalogue we found it in, not a printed birthday.",
+      "unknown": [],
+      "image": "assets/images/super-ripples.webp",
+      "imageSource": "https://toctoys.com/wp-content/uploads/2024/02/Schylling-2024-Catalogue_APPROVED_V4_removed_compressed.pdf",
+      "imageNote": "Product photo cropped from the Schylling 2024 NeeDoh catalogue PDF.",
+      "placeholder": false,
+      "fictional": false
+    },
+    {
+      "id": "press-doh",
+      "name": "Press-Doh",
+      "category": "Groovy Globs",
+      "rarity": "Rare",
+      "rarityWhy": "Not in the 2024 or 2026 catalogues. Schylling.com still lists it and has shown it out of stock. Collectors name it as one of the hard ones.",
+      "year": "",
+      "size": "",
+      "texture": "Soft dough",
+      "feature": "Black-and-white pictures fill in with color when you squeeze",
+      "colors": "Four black-and-white patterns, one picked at random",
+      "description": "A Groovy Glob with a black-and-white picture. Squeeze, and the picture fills in with color.",
+      "where": [
+        "Schylling.com",
+        "Resale"
+      ],
+      "sources": [
+        "shop14",
+        "adventure",
+        "stormberry",
+        "reddit",
+        "tracker"
+      ],
+      "note": "Pattern names (night sky, smileys, mushrooms, hearts and flowers) come from the Adventure Town guide, not from a Schylling page we could open. Release year is not printed.",
+      "unknown": [
+        "year",
+        "size"
+      ],
+      "image": "assets/placeholders/press-doh.svg",
+      "imageSource": "",
+      "imageNote": "No real product photo could be downloaded. This is a drawn placeholder, not a picture of the toy.",
+      "placeholder": true,
+      "fictional": false
+    },
+    {
+      "id": "bubble-glob",
+      "name": "Bubble Glob",
+      "category": "Groovy Globs",
+      "rarity": "Rare",
+      "rarityWhy": "Stormberry files it under rare and hard to find, and it is not in the 2024 or 2026 catalogues.",
+      "year": "",
+      "size": "",
+      "texture": "",
+      "feature": "",
+      "colors": "Blue, pink, purple",
+      "description": "A Groovy Glob collectors now mostly find secondhand. The catalogues we read do not show what is inside.",
+      "where": [
+        "Resale only"
+      ],
+      "sources": [
+        "stormberry",
+        "adventure",
+        "reddit"
+      ],
+      "note": "Adventure Town lists it with the water and misc toys but does not describe the fill in the section we used. Colors are from Stormberry.",
+      "unknown": [
+        "year",
+        "size",
+        "texture",
+        "feature"
+      ],
+      "image": "assets/placeholders/bubble-glob.svg",
+      "imageSource": "",
+      "imageNote": "No real product photo could be downloaded. This is a drawn placeholder, not a picture of the toy.",
+      "placeholder": true,
+      "fictional": false
+    },
+    {
+      "id": "cool-crunch",
+      "name": "Cool Crunch Groovy Glob",
+      "category": "Groovy Globs",
+      "rarity": "Rare",
+      "rarityWhy": "Only on Stormberry's rare list. Not in the catalogues reviewed.",
+      "year": "",
+      "size": "",
+      "texture": "",
+      "feature": "The name says crunch",
+      "colors": "",
+      "description": "An older crunchy Groovy Glob. Collectors list it as hard to find, and Schylling's recent catalogues do not show it.",
+      "where": [
+        "Resale only"
+      ],
+      "sources": [
+        "stormberry"
+      ],
+      "note": "Single collector-list source. Fill, year, and colors were not printed there.",
+      "unknown": [
+        "year",
+        "size",
+        "texture",
+        "colors"
+      ],
+      "image": "assets/placeholders/cool-crunch.svg",
+      "imageSource": "",
+      "imageNote": "No real product photo could be downloaded. This is a drawn placeholder, not a picture of the toy.",
+      "placeholder": true,
+      "fictional": false
+    },
+    {
+      "id": "twirl",
+      "name": "Twirl Groovy Glob",
+      "category": "Groovy Globs",
+      "rarity": "Rare",
+      "rarityWhy": "Stormberry's rare list describes a black box with a rainbow spiral. Not in the catalogues reviewed.",
+      "year": "",
+      "size": "",
+      "texture": "",
+      "feature": "",
+      "colors": "Pink, green, yellow, orange",
+      "description": "A swirled Groovy Glob that collectors say comes in a black box with a rainbow spiral. It did not show up in the recent catalogues.",
+      "where": [
+        "Resale only"
+      ],
+      "sources": [
+        "stormberry"
+      ],
+      "note": "Single collector-list source.",
+      "unknown": [
+        "year",
+        "size",
+        "texture",
+        "feature"
+      ],
+      "image": "assets/placeholders/twirl.svg",
+      "imageSource": "",
+      "imageNote": "No real product photo could be downloaded. This is a drawn placeholder, not a picture of the toy.",
+      "placeholder": true,
+      "fictional": false
+    },
+    {
+      "id": "stardust",
+      "name": "Stardust",
+      "category": "Groovy Globs",
+      "rarity": "Super Rare",
+      "rarityWhy": "Stormberry lists a Stardust in its main list and a Groovy Glob Stardust Shimmer on the rare list. They may be one toy or two. Not in the catalogues reviewed.",
+      "year": "",
+      "size": "",
+      "texture": "",
+      "feature": "Sparkly",
+      "colors": "Blue and purple. A shimmer version is also described as blue, red, and purple",
+      "description": "A sparkly Groovy Glob. Some lists say Stardust and some say Stardust Shimmer. We are not sure those are two different toys, so they share one card.",
+      "where": [
+        "Resale only",
+        "Specialty toy shops"
+      ],
+      "sources": [
+        "stormberry",
+        "adventure"
+      ],
+      "note": "Adventure Town says Stardust Shimmer is water-filled with a lot of glitter. Stormberry does not confirm the fill. Because the sources disagree on the name, the fill is left unstated on the card.",
+      "unknown": [
+        "year",
+        "size",
+        "texture"
+      ],
+      "image": "assets/placeholders/stardust.svg",
+      "imageSource": "",
+      "imageNote": "No real product photo could be downloaded. This is a drawn placeholder, not a picture of the toy.",
+      "placeholder": true,
+      "fictional": false
+    },
+    {
+      "id": "crystal-squeeze",
+      "name": "Crystal Squeeze",
+      "category": "Groovy Globs",
+      "rarity": "Rare",
+      "rarityWhy": "Not in the 2024 or 2026 catalogues. Collectors and a shop guide both name it, and they do not agree what is inside.",
+      "year": "",
+      "size": "About 2.5 inches, if the collector catalog is right",
+      "texture": "Sources disagree",
+      "feature": "See-through with sparkly bits inside",
+      "colors": "Pink, purple, blue",
+      "description": "A clear Groovy Glob full of sparkles. One shop guide says it is water with crystal strips. A collector catalog says it is dough with flakes. Schylling's catalogues did not settle it.",
+      "where": [
+        "Resale only",
+        "Specialty toy shops"
+      ],
+      "sources": [
+        "adventure",
+        "tracker",
+        "reddit"
+      ],
+      "note": "Do not treat either fill as confirmed. NeeDohTracker says 2.5 inch and dough. Adventure Town says water and crystalline strips.",
+      "unknown": [
+        "year",
+        "texture"
+      ],
+      "image": "assets/placeholders/crystal-squeeze.svg",
+      "imageSource": "",
+      "imageNote": "No real product photo could be downloaded. This is a drawn placeholder, not a picture of the toy.",
+      "placeholder": true,
+      "fictional": false
+    },
+    {
+      "id": "magma",
+      "name": "Magma",
+      "category": "Groovy Globs",
+      "rarity": "Super Rare",
+      "rarityWhy": "Collectors and a catalog site say it was retired. It is not in the 2024 or 2026 catalogues. It lights up, which most NeeDohs do not.",
+      "year": "",
+      "size": "",
+      "texture": "",
+      "feature": "Lights up when you tap or smack it",
+      "colors": "Blue, orange, and grey are listed. Another note says orange and red",
+      "description": "A cracked-looking ball that lights up when you give it a tap. Collectors say Schylling stopped making it.",
+      "where": [
+        "Resale only"
+      ],
+      "sources": [
+        "stormberry",
+        "adventure",
+        "wikihow",
+        "tracker"
+      ],
+      "note": "Color lists do not match across sources, so both are noted. The light-up feature is described by Stormberry, wikiHow, and NeeDohTracker. No Schylling page was found.",
+      "unknown": [
+        "year",
+        "size",
+        "texture"
+      ],
+      "image": "assets/placeholders/magma.svg",
+      "imageSource": "",
+      "imageNote": "No real product photo could be downloaded. This is a drawn placeholder, not a picture of the toy.",
+      "placeholder": true,
+      "fictional": false
+    },
+    {
+      "id": "glitter-magma",
+      "name": "Glitter Magma",
+      "category": "Groovy Globs",
+      "rarity": "Super Rare",
+      "rarityWhy": "Stormberry lists it separately from Magma, on the rare-and-hard-to-find list.",
+      "year": "",
+      "size": "",
+      "texture": "",
+      "feature": "A glittery take on Magma",
+      "colors": "",
+      "description": "A glittery Magma. Collectors file it with the toys that mostly show up secondhand. We could not find a Schylling page for it.",
+      "where": [
+        "Resale only"
+      ],
+      "sources": [
+        "stormberry"
+      ],
+      "note": "Only the Stormberry rare list. It might be a finish of Magma rather than a totally different toy. Left as its own card because the list separates them.",
+      "unknown": [
+        "year",
+        "size",
+        "texture",
+        "colors"
+      ],
+      "image": "assets/placeholders/glitter-magma.svg",
+      "imageSource": "",
+      "imageNote": "No real product photo could be downloaded. This is a drawn placeholder, not a picture of the toy.",
+      "placeholder": true,
+      "fictional": false
+    },
+    {
+      "id": "colorwave",
+      "name": "Groovy Glob Colorwave",
+      "category": "Groovy Globs",
+      "rarity": "Uncommon",
+      "rarityWhy": "A Five Below find on a collector list, and the shop guide includes a Colorwave dough glob. Not in the catalogues reviewed.",
+      "year": "",
+      "size": "",
+      "texture": "Soft dough, according to the shop guide",
+      "feature": "Colors move in a wave",
+      "colors": "",
+      "description": "A Groovy Glob with a wave of color. Collectors say this one shows up at Five Below.",
+      "where": [
+        "Five Below"
+      ],
+      "sources": [
+        "stormberry",
+        "adventure"
+      ],
+      "note": "",
+      "unknown": [
+        "year",
+        "size",
+        "colors"
+      ],
+      "image": "assets/placeholders/colorwave.svg",
+      "imageSource": "",
+      "imageNote": "No real product photo could be downloaded. This is a drawn placeholder, not a picture of the toy.",
+      "placeholder": true,
+      "fictional": false
+    },
+    {
+      "id": "glob-glitter",
+      "name": "Groovy Glob Glitter",
+      "category": "Groovy Globs",
+      "rarity": "Uncommon",
+      "rarityWhy": "Listed as a Five Below find. Not in the catalogues reviewed.",
+      "year": "",
+      "size": "",
+      "texture": "",
+      "feature": "Glitter in the glob",
+      "colors": "",
+      "description": "A glitter Groovy Glob that a collector list places at Five Below.",
+      "where": [
+        "Five Below"
+      ],
+      "sources": [
+        "stormberry"
+      ],
+      "note": "Single collector-list source.",
+      "unknown": [
+        "year",
+        "size",
+        "texture",
+        "colors"
+      ],
+      "image": "assets/placeholders/glob-glitter.svg",
+      "imageSource": "",
+      "imageNote": "No real product photo could be downloaded. This is a drawn placeholder, not a picture of the toy.",
+      "placeholder": true,
+      "fictional": false
+    },
+    {
+      "id": "glob-crunchy-white",
+      "name": "Groovy Glob Crunchy White",
+      "category": "Groovy Globs",
+      "rarity": "Uncommon",
+      "rarityWhy": "Listed as a Five Below find. Not the same item code as Snow Ball Crunch in the catalogues.",
+      "year": "",
+      "size": "",
+      "texture": "Crunchy, according to the name on the collector list",
+      "feature": "A white crunchy glob",
+      "colors": "White",
+      "description": "A white crunchy Groovy Glob. A collector list says Five Below. It is not the same catalogue item as Snow Ball Crunch.",
+      "where": [
+        "Five Below"
+      ],
+      "sources": [
+        "stormberry"
+      ],
+      "note": "Single collector-list source. Kept separate from Snow Ball Crunch because that toy has its own item code, SYSNBC.",
+      "unknown": [
+        "year",
+        "size"
+      ],
+      "image": "assets/placeholders/glob-crunchy-white.svg",
+      "imageSource": "",
+      "imageNote": "No real product photo could be downloaded. This is a drawn placeholder, not a picture of the toy.",
+      "placeholder": true,
+      "fictional": false
+    },
+    {
+      "id": "super-groovy-target",
+      "name": "Super Groovy Glob (Target)",
+      "category": "Groovy Globs",
+      "rarity": "Uncommon",
+      "rarityWhy": "Stormberry lists a Super Groovy Glob as a Target find, in more colors than the Schylling.com Super NeeDoh.",
+      "year": "",
+      "size": "",
+      "texture": "Soft dough",
+      "feature": "A jumbo glob sold at Target",
+      "colors": "Blue, purple, pink, green",
+      "description": "A big Groovy Glob collectors are finding at Target. It may be the Super NeeDoh in a Target color set. The color list is wider than the one on Schylling.com, so it has its own card.",
+      "where": [
+        "Target"
+      ],
+      "sources": [
+        "stormberry"
+      ],
+      "note": "Single collector-list source for the Target color set. The standard Super NeeDoh is a different card.",
+      "unknown": [
+        "year",
+        "size"
+      ],
+      "image": "assets/placeholders/super-groovy-target.svg",
+      "imageSource": "",
+      "imageNote": "No real product photo could be downloaded. This is a drawn placeholder, not a picture of the toy.",
+      "placeholder": true,
+      "fictional": false
+    },
+    {
+      "id": "worlds-smallest",
+      "name": "World's Smallest NeeDoh",
+      "category": "Groovy Globs",
+      "rarity": "Uncommon",
+      "rarityWhy": "A Super Impulse collab, not a normal Schylling multipack. Not in the 2024 or 2026 catalogues.",
+      "year": "",
+      "size": "",
+      "texture": "Soft dough",
+      "feature": "A tiny collab Groovy Glob",
+      "colors": "Orange, purple, green, pink, blue",
+      "description": "A teeny Groovy Glob made with Super Impulse for their World's Smallest toys. It is a real collab, and it is smaller than a Teenie from the look of the name, but the exact size was not in the catalogues.",
+      "where": [
+        "Specialty toy shops",
+        "Online toy shops"
+      ],
+      "sources": [
+        "adventure",
+        "stormberry"
+      ],
+      "note": "Size was not printed in the sources used. Colors are from the Adventure Town guide.",
+      "unknown": [
+        "year",
+        "size"
+      ],
+      "image": "assets/placeholders/worlds-smallest.svg",
+      "imageSource": "",
+      "imageNote": "No real product photo could be downloaded. This is a drawn placeholder, not a picture of the toy.",
+      "placeholder": true,
+      "fictional": false
+    },
+    {
+      "id": "nice-cube",
+      "name": "Nice Cube",
+      "category": "Nice Cubes",
+      "rarity": "Common",
+      "rarityWhy": "In the 2024 and 2026 catalogues and on Schylling.com. This is the famous one.",
+      "year": "2023",
+      "size": "63.5 mm on each side (about 2.5 inches)",
+      "texture": "Super-solid squish. Soft if you go slow, firmer if you go fast",
+      "feature": "Always comes back to a cube",
+      "colors": "Pink, purple, blue",
+      "description": "The ice-cube squish. Press slowly and it feels soft. Press fast and it feels firm. It always goes back to square.",
+      "where": [
+        "Schylling.com",
+        "Toy shops that carry Schylling"
+      ],
+      "sources": [
+        "cat2026",
+        "cat2024",
+        "nice-cube-page",
+        "brand",
+        "stormberry"
+      ],
+      "note": "Stormberry dates it 'Out 2023'. Schylling's page does not print a year. Schylling's page also says 2.25 inches in one place and 2.375 in another. The 2026 catalogue says 63.5 mm, so that is the size on the card.",
+      "unknown": [],
+      "image": "assets/images/nice-cube.webp",
+      "imageSource": "https://toctoys.com/wp-content/uploads/2026/05/Schylling-2026-Catalogue-FLIPPINGBOOK_.pdf",
+      "imageNote": "Product photo cropped from a Schylling NeeDoh catalogue. The 2026 book is the file used when the toy is in both.",
+      "placeholder": false,
+      "fictional": false
+    },
+    {
+      "id": "nice-cube-swirl",
+      "name": "Nice Cube Swirl",
+      "category": "Nice Cubes",
+      "rarity": "Uncommon",
+      "rarityWhy": "In the 2026 catalogue. A swirl, so shops sell it next to the plain cube but not as widely.",
+      "year": "",
+      "size": "63.5 mm square",
+      "texture": "Super-solid squish",
+      "feature": "Marbled swirl, and it still goes back to a cube",
+      "colors": "Blue and green, orange, pink with white and purple, purple and blue",
+      "description": "A Nice Cube with colors swirled through it. Same slow-and-fast squish, fancier colors.",
+      "where": [
+        "Schylling.com",
+        "Toy shops that carry Schylling"
+      ],
+      "sources": [
+        "cat2026",
+        "shop14",
+        "stormberry"
+      ],
+      "note": "Color mixes are from Stormberry. The catalogue confirms the product and the size, item code SYSWNCBND.",
+      "unknown": [
+        "year"
+      ],
+      "image": "assets/images/nice-cube-swirl.webp",
+      "imageSource": "https://toctoys.com/wp-content/uploads/2026/05/Schylling-2026-Catalogue-FLIPPINGBOOK_.pdf",
+      "imageNote": "Product photo cropped from the Schylling 2026 NeeDoh catalogue PDF.",
+      "placeholder": false,
+      "fictional": false
+    },
+    {
+      "id": "nice-cube-glow",
+      "name": "Nice Cube Glow",
+      "category": "Nice Cubes",
+      "rarity": "Uncommon",
+      "rarityWhy": "In the 2026 catalogue as its own cube, separate from the glitter-and-glow cube.",
+      "year": "",
+      "size": "63.5 mm square",
+      "texture": "Super-solid squish",
+      "feature": "Glows in the dark",
+      "colors": "",
+      "description": "A Nice Cube that glows. It does not have the extra glitter of the Glitter & Glow cube.",
+      "where": [
+        "Toy shops that carry Schylling"
+      ],
+      "sources": [
+        "cat2026",
+        "tracker"
+      ],
+      "note": "Color names were not printed on the 2026 catalogue page. Item code SYGNCBND.",
+      "unknown": [
+        "year",
+        "colors"
+      ],
+      "image": "assets/images/nice-cube-glow.webp",
+      "imageSource": "https://toctoys.com/wp-content/uploads/2026/05/Schylling-2026-Catalogue-FLIPPINGBOOK_.pdf",
+      "imageNote": "Product photo cropped from the Schylling 2026 NeeDoh catalogue PDF.",
+      "placeholder": false,
+      "fictional": false
+    },
+    {
+      "id": "nice-cube-glitter-glow",
+      "name": "Nice Cube Glitter & Glow",
+      "category": "Nice Cubes",
+      "rarity": "Rare",
+      "rarityWhy": "It is in the 2026 catalogue, and collectors also call it a Target find that sells out fast. In the catalogue, so it is not retired.",
+      "year": "",
+      "size": "63.5 mm square",
+      "texture": "Super-solid squish",
+      "feature": "Glitter inside, and it glows",
+      "colors": "Blue, pink, purple",
+      "description": "A Nice Cube with glitter frozen inside, and it glows in the dark. Collectors hunt this one.",
+      "where": [
+        "Target",
+        "Toy shops that carry Schylling"
+      ],
+      "sources": [
+        "cat2026",
+        "stormberry",
+        "tracker"
+      ],
+      "note": "Item code SYGGNCBND. Colors from Stormberry's Target note.",
+      "unknown": [
+        "year"
+      ],
+      "image": "assets/images/nice-cube-glitter-glow.webp",
+      "imageSource": "https://toctoys.com/wp-content/uploads/2026/05/Schylling-2026-Catalogue-FLIPPINGBOOK_.pdf",
+      "imageNote": "Product photo cropped from the Schylling 2026 NeeDoh catalogue PDF.",
+      "placeholder": false,
+      "fictional": false
+    },
+    {
+      "id": "color-change-cube",
+      "name": "Color Change Cube",
+      "category": "Nice Cubes",
+      "rarity": "Uncommon",
+      "rarityWhy": "Marked NEW in the 2026 catalogue. It is a different fill from the Nice Cube.",
+      "year": "2026",
+      "size": "About 2.25 inches (57.2 mm) in the catalogue",
+      "texture": "Soft dough, not the Nice Cube's super-solid squish",
+      "feature": "Changes color when you squeeze",
+      "colors": "Pink to purple, yellow to orange, blue to pink",
+      "description": "A cube that changes color in your hand. It is doughy, not the stiff Nice Cube squish.",
+      "where": [
+        "Schylling.com",
+        "Toy shops that carry Schylling"
+      ],
+      "sources": [
+        "cat2026",
+        "shop14",
+        "tracker",
+        "stormberry"
+      ],
+      "note": "Marked NEW in the 2026 book, item code SYCCBND. NeeDohTracker is the source for 'dough, not maltose'.",
+      "unknown": [],
+      "image": "assets/images/color-change-cube.webp",
+      "imageSource": "https://toctoys.com/wp-content/uploads/2026/05/Schylling-2026-Catalogue-FLIPPINGBOOK_.pdf",
+      "imageNote": "Product photo cropped from the Schylling 2026 NeeDoh catalogue PDF.",
+      "placeholder": false,
+      "fictional": false
+    },
+    {
+      "id": "nice-berg",
+      "name": "Nice Berg",
+      "category": "Nice Cubes",
+      "rarity": "Uncommon",
+      "rarityWhy": "The jumbo cube. Higher price on Schylling.com ($12.99) and a smaller case pack in the catalogue.",
+      "year": "",
+      "size": "About 3 to 3.5 inches (76.2 x 88.9 x 85.7 mm)",
+      "texture": "Super-solid squish",
+      "feature": "The giant Nice Cube",
+      "colors": "Translucent blue is the one shown. Other colors are not listed",
+      "description": "The Nice Cube's big sibling. Same super-solid squish, a lot more of it.",
+      "where": [
+        "Schylling.com",
+        "Toy shops that carry Schylling"
+      ],
+      "sources": [
+        "cat2026",
+        "brand",
+        "shop14"
+      ],
+      "note": "Item code SYSNCBND. The blue color is what the catalogue photo shows. A full color list was not printed.",
+      "unknown": [
+        "year"
+      ],
+      "image": "assets/images/nice-berg.webp",
+      "imageSource": "https://toctoys.com/wp-content/uploads/2026/05/Schylling-2026-Catalogue-FLIPPINGBOOK_.pdf",
+      "imageNote": "Product photo cropped from the Schylling 2026 NeeDoh catalogue PDF.",
+      "placeholder": false,
+      "fictional": false
+    },
+    {
+      "id": "niceberg-swirl",
+      "name": "Nice Berg Swirl",
+      "category": "Nice Cubes",
+      "rarity": "Uncommon",
+      "rarityWhy": "Marked NEW in the 2026 catalogue. Jumbo, so fewer per shop.",
+      "year": "2026",
+      "size": "About 3 to 3.5 inches (catalogue outer size 76.2 x 91.4 x 91.4 mm)",
+      "texture": "Super-solid squish",
+      "feature": "Every swirl looks a little different",
+      "colors": "Marbled. The mix changes from cube to cube",
+      "description": "A giant Nice Cube with a marble swirl. Marked new in the 2026 catalogue.",
+      "where": [
+        "Schylling.com",
+        "Toy shops that carry Schylling"
+      ],
+      "sources": [
+        "cat2026",
+        "shop14",
+        "stormberry"
+      ],
+      "note": "Item code SYSWSNCBND.",
+      "unknown": [],
+      "image": "assets/images/niceberg-swirl.webp",
+      "imageSource": "https://toctoys.com/wp-content/uploads/2026/05/Schylling-2026-Catalogue-FLIPPINGBOOK_.pdf",
+      "imageNote": "Product photo cropped from the Schylling 2026 NeeDoh catalogue PDF.",
+      "placeholder": false,
+      "fictional": false
+    },
+    {
+      "id": "niceberg-glitter-glow",
+      "name": "Nice Berg Glitter & Glow",
+      "category": "Nice Cubes",
+      "rarity": "Rare",
+      "rarityWhy": "Jumbo glitter-and-glow, marked NEW in the 2026 catalogue. The small glitter cube is already hard to find, and this one is bigger.",
+      "year": "2026",
+      "size": "About 3 to 3.5 inches (catalogue outer size 76.2 x 91.4 x 91.4 mm)",
+      "texture": "Super-solid squish",
+      "feature": "Glitter and glow, in the big size",
+      "colors": "",
+      "description": "The biggest glitter-glow cube. It shines, and it glows when the lights go down.",
+      "where": [
+        "Toy shops that carry Schylling"
+      ],
+      "sources": [
+        "cat2026",
+        "tracker"
+      ],
+      "note": "Item code SYGGSNCBND. A color list was not printed on the catalogue page.",
+      "unknown": [
+        "colors"
+      ],
+      "image": "assets/images/niceberg-glitter-glow.webp",
+      "imageSource": "https://toctoys.com/wp-content/uploads/2026/05/Schylling-2026-Catalogue-FLIPPINGBOOK_.pdf",
+      "imageNote": "Product photo cropped from the Schylling 2026 NeeDoh catalogue PDF.",
+      "placeholder": false,
+      "fictional": false
+    },
+    {
+      "id": "nice-ice-baby",
+      "name": "Nice Ice Baby",
+      "category": "Nice Cubes",
+      "rarity": "Common",
+      "rarityWhy": "The tiny Nice Cube. On Schylling.com at a low price, and in the 2026 catalogue as a teenie single.",
+      "year": "",
+      "size": "35.6 mm, a little over 1 inch",
+      "texture": "Super-solid squish",
+      "feature": "A bite-size Nice Cube",
+      "colors": "Blue, pink, purple",
+      "description": "The tiniest Nice Cube you can buy on its own. Same square squish, pocket size.",
+      "where": [
+        "Schylling.com",
+        "Toy shops that carry Schylling"
+      ],
+      "sources": [
+        "cat2026",
+        "shop14",
+        "stormberry"
+      ],
+      "note": "Item code for the teenie single in the 2026 book is SYTSNCBND. Colors from Stormberry.",
+      "unknown": [
+        "year"
+      ],
+      "image": "assets/images/nice-ice-baby.webp",
+      "imageSource": "https://toctoys.com/wp-content/uploads/2026/05/Schylling-2026-Catalogue-FLIPPINGBOOK_.pdf",
+      "imageNote": "Product photo cropped from the Schylling 2026 NeeDoh catalogue PDF.",
+      "placeholder": false,
+      "fictional": false
+    },
+    {
+      "id": "candy-swirl-nice-cube",
+      "name": "Candy Swirl Nice Cube",
+      "category": "Nice Cubes",
+      "rarity": "Uncommon",
+      "rarityWhy": "In the 2026 holiday pages of the catalogue, and Target lists it too.",
+      "year": "2026",
+      "size": "63.5 mm square",
+      "texture": "Super-solid squish",
+      "feature": "A candy-colored swirl that is different on every cube",
+      "colors": "Candy colors. The swirl changes",
+      "description": "A Nice Cube swirled like candy. Each one comes out a little different.",
+      "where": [
+        "Target",
+        "Toy shops that carry Schylling"
+      ],
+      "sources": [
+        "cat2026",
+        "tracker"
+      ],
+      "note": "Item code SYCSNCBND.",
+      "unknown": [],
+      "image": "assets/images/candy-swirl-nice-cube.webp",
+      "imageSource": "https://toctoys.com/wp-content/uploads/2026/05/Schylling-2026-Catalogue-FLIPPINGBOOK_.pdf",
+      "imageNote": "Product photo cropped from the Schylling 2026 NeeDoh catalogue PDF.",
+      "placeholder": false,
+      "fictional": false
+    },
+    {
+      "id": "wow-flake",
+      "name": "Nice Cube Wow Flake",
+      "category": "Nice Cubes",
+      "rarity": "Rare",
+      "rarityWhy": "NeeDohTracker and Stormberry both call it a Target listing. It is not in the 2026 catalogue pages we read.",
+      "year": "",
+      "size": "",
+      "texture": "Super-solid squish, if it matches other Nice Cubes",
+      "feature": "Shimmer flakes inside the cube",
+      "colors": "",
+      "description": "A Nice Cube with shiny flakes inside. Collectors are finding it at Target, and it was not in the catalogue PDF we read.",
+      "where": [
+        "Target"
+      ],
+      "sources": [
+        "tracker",
+        "stormberry"
+      ],
+      "note": "The super-solid fill is inferred from the Nice Cube family and is marked as not fully confirmed.",
+      "unknown": [
+        "year",
+        "size",
+        "colors"
+      ],
+      "image": "assets/placeholders/wow-flake.svg",
+      "imageSource": "",
+      "imageNote": "No real product photo could be downloaded. This is a drawn placeholder, not a picture of the toy.",
+      "placeholder": true,
+      "fictional": false
+    },
+    {
+      "id": "swirlin-usa",
+      "name": "Nice Cube Swirlin' USA",
+      "category": "Nice Cubes",
+      "rarity": "Rare",
+      "rarityWhy": "A red, white, and blue swirl listed by Stormberry and NeeDohTracker for 2026. Not in the catalogue PDF we read.",
+      "year": "2026",
+      "size": "",
+      "texture": "Super-solid squish",
+      "feature": "Red, white, and blue swirl",
+      "colors": "Red, white, and blue",
+      "description": "A Nice Cube swirled red, white, and blue. Collectors list it as a 2026 find.",
+      "where": [
+        "Specialty toy shops",
+        "Resale"
+      ],
+      "sources": [
+        "stormberry",
+        "tracker"
+      ],
+      "note": "NeeDohTracker says the box is labeled Super Solid Squish. Year is collector-reported.",
+      "unknown": [
+        "size"
+      ],
+      "image": "assets/placeholders/swirlin-usa.svg",
+      "imageSource": "",
+      "imageNote": "No real product photo could be downloaded. This is a drawn placeholder, not a picture of the toy.",
+      "placeholder": true,
+      "fictional": false
+    },
+    {
+      "id": "holographic-nice-cube",
+      "name": "Holographic Nice Cube",
+      "category": "Nice Cubes",
+      "rarity": "Super Rare",
+      "rarityWhy": "On Stormberry's rare list with the anniversary cube and Glitter Magma. Not in the current catalogues.",
+      "year": "",
+      "size": "",
+      "texture": "",
+      "feature": "Holographic shine",
+      "colors": "",
+      "description": "A Nice Cube with a holographic shine. Collectors say it mostly turns up secondhand now.",
+      "where": [
+        "Resale only"
+      ],
+      "sources": [
+        "stormberry"
+      ],
+      "note": "Single collector-list source. Year, size, and colors were not given.",
+      "unknown": [
+        "year",
+        "size",
+        "texture",
+        "colors"
+      ],
+      "image": "assets/placeholders/holographic-nice-cube.svg",
+      "imageSource": "",
+      "imageNote": "No real product photo could be downloaded. This is a drawn placeholder, not a picture of the toy.",
+      "placeholder": true,
+      "fictional": false
+    },
+    {
+      "id": "anniversary-cube",
+      "name": "50th Anniversary Nice Cube",
+      "category": "Nice Cubes",
+      "rarity": "Legendary",
+      "rarityWhy": "A limited anniversary piece. Stormberry ties it to Geppetto's Toys. A wikiHow article describes a gold cube from the 2026 New York Toy Fair. Either way, it was not a normal shop cube.",
+      "year": "",
+      "size": "",
+      "texture": "",
+      "feature": "Made for an anniversary, not for every toy shop",
+      "colors": "Described as gold in one article. Not confirmed on a Schylling page",
+      "description": "A special Nice Cube for Schylling's anniversary. It was not sold like a normal cube. Collectors say it is the hardest one to find.",
+      "where": [
+        "Resale only"
+      ],
+      "sources": [
+        "stormberry",
+        "wikihow",
+        "reddit"
+      ],
+      "note": "wikiHow says a honey-gold cube reading 'Schylling 50 Years' and the years 1975 and 2025 was given out at the 2026 New York Toy Fair, and guesses fewer than 500 exist. Schylling has not published that count, so the number is left off the card. Stormberry instead says it was made with Geppetto's Toys. Those may be the same cube or two stories about one party. Treated as one legendary item.",
+      "unknown": [
+        "year",
+        "size",
+        "texture"
+      ],
+      "image": "assets/placeholders/anniversary-cube.svg",
+      "imageSource": "",
+      "imageNote": "No real product photo could be downloaded. This is a drawn placeholder, not a picture of the toy.",
+      "placeholder": true,
+      "fictional": false
+    },
+    {
+      "id": "nice-lump-of-coal",
+      "name": "Nice Lump of Coal",
+      "category": "Nice Cubes",
+      "rarity": "Uncommon",
+      "rarityWhy": "A holiday piece named by Stormberry and NeeDohTracker. Not in the catalogue PDF we read. NeeDohTracker says the box says Super Solid Squish.",
+      "year": "2026",
+      "size": "",
+      "texture": "Super-solid squish",
+      "feature": "A black holiday squish",
+      "colors": "Black",
+      "description": "A black squish packed like a lump of coal, for a Squishmas stocking. The box is said to say Super Solid Squish.",
+      "where": [
+        "Specialty toy shops"
+      ],
+      "sources": [
+        "stormberry",
+        "tracker"
+      ],
+      "note": "Both sources say 2026. Exact size was not printed.",
+      "unknown": [
+        "size"
+      ],
+      "image": "assets/placeholders/nice-lump-of-coal.svg",
+      "imageSource": "",
+      "imageNote": "No real product photo could be downloaded. This is a drawn placeholder, not a picture of the toy.",
+      "placeholder": true,
+      "fictional": false
+    },
+    {
+      "id": "teenie-3pack",
+      "name": "Teenie NeeDoh 3-Pack",
+      "category": "Teenies",
+      "rarity": "Common",
+      "rarityWhy": "In the 2024 and 2026 catalogues as a basic mini set.",
+      "year": "",
+      "size": "Each glob is about 1.5 inches. The 2026 pack size listed is 101.6 x 38.1 x 38.1 mm",
+      "texture": "Soft dough",
+      "feature": "Three mini Groovy Globs in one box",
+      "colors": "Assorted",
+      "description": "Three tiny Groovy Globs in one box. The 2024 catalogue says three Teenies per box.",
+      "where": [
+        "Schylling.com",
+        "Toy shops that carry Schylling"
+      ],
+      "sources": [
+        "cat2026",
+        "cat2024"
+      ],
+      "note": "Item code SYTND.",
+      "unknown": [
+        "year"
+      ],
+      "image": "assets/images/teenie-3pack.webp",
+      "imageSource": "https://toctoys.com/wp-content/uploads/2026/05/Schylling-2026-Catalogue-FLIPPINGBOOK_.pdf",
+      "imageNote": "Product photo cropped from a Schylling NeeDoh catalogue. The 2026 book is the file used when the toy is in both.",
+      "placeholder": false,
+      "fictional": false
+    },
+    {
+      "id": "teenie-singles",
+      "name": "Teenie Singles",
+      "category": "Teenies",
+      "rarity": "Common",
+      "rarityWhy": "On Schylling.com and in the 2026 catalogue. Sold one at a time.",
+      "year": "",
+      "size": "1.5 inches (38.1 mm)",
+      "texture": "Soft dough",
+      "feature": "Four styles: Original, Swirl, Ripples, and Glow in the Dark",
+      "colors": "Assorted brights",
+      "description": "One tiny NeeDoh in its own little pack. It might be a plain glob, a swirl, a ripple, or a glow.",
+      "where": [
+        "Schylling.com",
+        "Toy shops that carry Schylling"
+      ],
+      "sources": [
+        "cat2026",
+        "teenie-page",
+        "brand"
+      ],
+      "note": "Item code SYTSNDA in the 2026 catalogue. The four style names are from the Schylling product page.",
+      "unknown": [
+        "year"
+      ],
+      "image": "assets/images/teenie-singles.webp",
+      "imageSource": "https://toctoys.com/wp-content/uploads/2026/05/Schylling-2026-Catalogue-FLIPPINGBOOK_.pdf",
+      "imageNote": "Product photo cropped from the Schylling 2026 NeeDoh catalogue PDF.",
+      "placeholder": false,
+      "fictional": false
+    },
+    {
+      "id": "rainbow-teenie",
+      "name": "Rainbow Teenie",
+      "category": "Teenies",
+      "rarity": "Uncommon",
+      "rarityWhy": "A handled 6-pack in the 2024 and 2026 catalogues.",
+      "year": "",
+      "size": "The carry pack is 177.8 x 108 x 38.1 mm",
+      "texture": "Soft dough",
+      "feature": "Six colorful minis with a carrying handle",
+      "colors": "A rainbow of colors in one pack",
+      "description": "Six bright Teenie globs in a pack with a handle, so you can carry the whole rainbow.",
+      "where": [
+        "Toy shops that carry Schylling"
+      ],
+      "sources": [
+        "cat2026",
+        "cat2024"
+      ],
+      "note": "Item code SYRBTND.",
+      "unknown": [
+        "year"
+      ],
+      "image": "assets/images/rainbow-teenie.webp",
+      "imageSource": "https://toctoys.com/wp-content/uploads/2026/05/Schylling-2026-Catalogue-FLIPPINGBOOK_.pdf",
+      "imageNote": "Product photo cropped from a Schylling NeeDoh catalogue. The 2026 book is the file used when the toy is in both.",
+      "placeholder": false,
+      "fictional": false
+    },
+    {
+      "id": "quad-squad",
+      "name": "Teenie Quad Squad",
+      "category": "Teenies",
+      "rarity": "Uncommon",
+      "rarityWhy": "On Schylling.com and Amazon. Not in the 2024 or 2026 catalogue PDFs we read, and the Amazon listing has shown it unavailable.",
+      "year": "",
+      "size": "1.5 inches each. Pack about 4.5 x 1.7 x 5.7 inches",
+      "texture": "Four different fills",
+      "feature": "One each of Original, Crunch, Sparkle, and Rainbow",
+      "colors": "Colors vary",
+      "description": "Four Teenies with four different feels: a plain one, a crunchy one, a sparkle one, and a rainbow one.",
+      "where": [
+        "Schylling.com",
+        "Amazon"
+      ],
+      "sources": [
+        "shop19",
+        "quad-page",
+        "amazon-quad",
+        "adventure"
+      ],
+      "note": "The four fills are from the Amazon listing, which matches item code MPTQSND on the Schylling page. Schylling's own page did not describe them.",
+      "unknown": [
+        "year"
+      ],
+      "image": "assets/placeholders/quad-squad.svg",
+      "imageSource": "",
+      "imageNote": "No real product photo could be downloaded. This is a drawn placeholder, not a picture of the toy.",
+      "placeholder": true,
+      "fictional": false
+    },
+    {
+      "id": "fab-four",
+      "name": "Teenie Fab Four",
+      "category": "Teenies",
+      "rarity": "Uncommon",
+      "rarityWhy": "Listed on Schylling.com. The shop guide says the four are Color Change, Ripples, Glow, and Swirl.",
+      "year": "",
+      "size": "",
+      "texture": "Soft dough",
+      "feature": "A four-pack of special Teenie styles",
+      "colors": "Assorted",
+      "description": "A pack of four fancy Teenies. A toy-shop guide says you get color change, ripples, glow, and swirl.",
+      "where": [
+        "Schylling.com",
+        "Toy shops that carry Schylling"
+      ],
+      "sources": [
+        "shop19",
+        "adventure"
+      ],
+      "note": "The style list is from Adventure Town, not from the Schylling shop page text we saw. Item code was shown on the shop page as a Teenie Fab Four multipack.",
+      "unknown": [
+        "year",
+        "size"
+      ],
+      "image": "assets/placeholders/fab-four.svg",
+      "imageSource": "",
+      "imageNote": "No real product photo could be downloaded. This is a drawn placeholder, not a picture of the toy.",
+      "placeholder": true,
+      "fictional": false
+    },
+    {
+      "id": "teenie-swirl-multipack",
+      "name": "Teenie Swirl Multipack",
+      "category": "Teenies",
+      "rarity": "Common",
+      "rarityWhy": "In the 2026 catalogue.",
+      "year": "",
+      "size": "Each swirl is about 40 mm. The pack is about 146 x 114 x 43 mm",
+      "texture": "Soft dough",
+      "feature": "A pack of swirled Teenies",
+      "colors": "Assorted swirls",
+      "description": "A pack of tiny swirl globs.",
+      "where": [
+        "Toy shops that carry Schylling"
+      ],
+      "sources": [
+        "cat2026",
+        "shop19"
+      ],
+      "note": "Item code SYMPTSWND.",
+      "unknown": [
+        "year"
+      ],
+      "image": "assets/images/teenie-swirl-multipack.webp",
+      "imageSource": "https://toctoys.com/wp-content/uploads/2026/05/Schylling-2026-Catalogue-FLIPPINGBOOK_.pdf",
+      "imageNote": "Product photo cropped from the Schylling 2026 NeeDoh catalogue PDF.",
+      "placeholder": false,
+      "fictional": false
+    },
+    {
+      "id": "teenie-hot-shots",
+      "name": "Hot Shots Teenie Multipack",
+      "category": "Teenies",
+      "rarity": "Uncommon",
+      "rarityWhy": "In the 2026 catalogue. The shop guide says the sports balls in this pack are not sold alone.",
+      "year": "",
+      "size": "Each ball is about 38 mm",
+      "texture": "Soft dough",
+      "feature": "Tiny sports balls: a baseball, a basketball, a soccer ball, and a football",
+      "colors": "Assorted brights",
+      "description": "Four tiny sports-ball NeeDohs in one pack. A shop guide says this is the only place to get the little baseball, basketball, soccer ball, and football.",
+      "where": [
+        "Toy shops that carry Schylling"
+      ],
+      "sources": [
+        "cat2026",
+        "shop19",
+        "adventure"
+      ],
+      "note": "Item code SYHSTND. Which four sports are inside is from the Adventure Town guide, not printed as names in the catalogue text we extracted.",
+      "unknown": [
+        "year"
+      ],
+      "image": "assets/images/teenie-hot-shots.webp",
+      "imageSource": "https://toctoys.com/wp-content/uploads/2026/05/Schylling-2026-Catalogue-FLIPPINGBOOK_.pdf",
+      "imageNote": "Product photo cropped from the Schylling 2026 NeeDoh catalogue PDF.",
+      "placeholder": false,
+      "fictional": false
+    },
+    {
+      "id": "teenie-nice-ice-multipack",
+      "name": "Nice Ice Baby Multipack",
+      "category": "Teenies",
+      "rarity": "Common",
+      "rarityWhy": "In the 2026 catalogue and on Schylling.com.",
+      "year": "",
+      "size": "Each cube is 38.1 mm",
+      "texture": "Super-solid squish",
+      "feature": "A pack of tiny Nice Cubes",
+      "colors": "Blue, pink, purple",
+      "description": "A handful of tiny Nice Cubes in one pack.",
+      "where": [
+        "Schylling.com",
+        "Toy shops that carry Schylling"
+      ],
+      "sources": [
+        "cat2026",
+        "shop19"
+      ],
+      "note": "Item code SYMPTNCBND. Colors follow the single Nice Ice Baby.",
+      "unknown": [
+        "year"
+      ],
+      "image": "assets/images/teenie-nice-ice-multipack.webp",
+      "imageSource": "https://toctoys.com/wp-content/uploads/2026/05/Schylling-2026-Catalogue-FLIPPINGBOOK_.pdf",
+      "imageNote": "Product photo cropped from the Schylling 2026 NeeDoh catalogue PDF.",
+      "placeholder": false,
+      "fictional": false
+    },
+    {
+      "id": "gobs-of-globs",
+      "name": "Gobs of Globs",
+      "category": "Teenies",
+      "rarity": "Uncommon",
+      "rarityWhy": "In the 2024 catalogue as an 18-count Teenie set.",
+      "year": "",
+      "size": "Pack about 76 x 102 x 127 mm",
+      "texture": "Soft dough",
+      "feature": "18 Teenies in one big handful",
+      "colors": "Assorted",
+      "description": "Eighteen tiny Groovy Globs in one pack. A whole gob of them.",
+      "where": [
+        "Toy shops that carry Schylling"
+      ],
+      "sources": [
+        "cat2024"
+      ],
+      "note": "Item code SYGGTND. The '18' count is printed on the 2024 catalogue page.",
+      "unknown": [
+        "year"
+      ],
+      "image": "assets/images/gobs-of-globs.webp",
+      "imageSource": "https://toctoys.com/wp-content/uploads/2024/02/Schylling-2024-Catalogue_APPROVED_V4_removed_compressed.pdf",
+      "imageNote": "Product photo cropped from the Schylling 2024 NeeDoh catalogue PDF.",
+      "placeholder": false,
+      "fictional": false
+    },
+    {
+      "id": "rainboh",
+      "name": "Rainboh",
+      "category": "Teenies",
+      "rarity": "Uncommon",
+      "rarityWhy": "In the 2024 catalogue and on Schylling.com. A handled rainbow pack.",
+      "year": "",
+      "size": "",
+      "texture": "Soft dough",
+      "feature": "Six minis and a carrying handle",
+      "colors": "Six colors",
+      "description": "A rainbow handle full of Teenie globs. The 2024 book shows six colors and a groovy carrying handle.",
+      "where": [
+        "Schylling.com",
+        "Toy shops that carry Schylling"
+      ],
+      "sources": [
+        "cat2024",
+        "search",
+        "shop14"
+      ],
+      "note": "A separate Rainbow Teenie (SYRBTND) is also in the catalogues. Both are kept because the item codes differ. They may be the same idea in two packs.",
+      "unknown": [
+        "year",
+        "size"
+      ],
+      "image": "assets/images/rainboh.webp",
+      "imageSource": "https://toctoys.com/wp-content/uploads/2024/02/Schylling-2024-Catalogue_APPROVED_V4_removed_compressed.pdf",
+      "imageNote": "Product photo cropped from the Schylling 2024 NeeDoh catalogue PDF.",
+      "placeholder": false,
+      "fictional": false
+    },
+    {
+      "id": "fuzz-ball",
+      "name": "Fuzz Ball",
+      "category": "Fuzzy",
+      "rarity": "Common",
+      "rarityWhy": "In the 2026 catalogue.",
+      "year": "",
+      "size": "63.5 mm",
+      "texture": "Velvet fuzz outside, soft squish inside",
+      "feature": "Fuzzy all over",
+      "colors": "Assorted brights",
+      "description": "A Groovy Glob wearing a fuzzy coat. It feels like a tiny stuffed peach.",
+      "where": [
+        "Toy shops that carry Schylling"
+      ],
+      "sources": [
+        "cat2026",
+        "adventure"
+      ],
+      "note": "Item code SYFZBND. The velvet-fuzz description is from the Adventure Town guide.",
+      "unknown": [
+        "year"
+      ],
+      "image": "assets/images/fuzz-ball.webp",
+      "imageSource": "https://toctoys.com/wp-content/uploads/2026/05/Schylling-2026-Catalogue-FLIPPINGBOOK_.pdf",
+      "imageNote": "Product photo cropped from the Schylling 2026 NeeDoh catalogue PDF.",
+      "placeholder": false,
+      "fictional": false
+    },
+    {
+      "id": "fuzz-flower-power",
+      "name": "Fuzz Ball Flower Power",
+      "category": "Fuzzy",
+      "rarity": "Uncommon",
+      "rarityWhy": "In the 2026 catalogue and on Schylling.com.",
+      "year": "",
+      "size": "63.5 mm",
+      "texture": "Velvet fuzz with a flower pattern",
+      "feature": "Flowers you can see and feel in the fuzz",
+      "colors": "Pink, purple, blue, green, orange",
+      "description": "A Fuzz Ball with flowers in the fuzz. Squish the petals.",
+      "where": [
+        "Schylling.com",
+        "Toy shops that carry Schylling"
+      ],
+      "sources": [
+        "cat2026",
+        "brand",
+        "stormberry"
+      ],
+      "note": "Item code SYFPFZBND. Colors from Stormberry.",
+      "unknown": [
+        "year"
+      ],
+      "image": "assets/images/fuzz-flower-power.webp",
+      "imageSource": "https://toctoys.com/wp-content/uploads/2026/05/Schylling-2026-Catalogue-FLIPPINGBOOK_.pdf",
+      "imageNote": "Product photo cropped from the Schylling 2026 NeeDoh catalogue PDF.",
+      "placeholder": false,
+      "fictional": false
+    },
+    {
+      "id": "fuzz-wonder-waves",
+      "name": "Fuzz Ball Wonder Waves",
+      "category": "Fuzzy",
+      "rarity": "Uncommon",
+      "rarityWhy": "In the 2026 catalogue and on Schylling.com.",
+      "year": "",
+      "size": "63.5 mm",
+      "texture": "Velvet fuzz with wavy ridges",
+      "feature": "Waves in the fuzz",
+      "colors": "Pink, purple, blue, green, orange",
+      "description": "A Fuzz Ball with waves molded into the fuzz, so your fingers ride the ridges.",
+      "where": [
+        "Schylling.com",
+        "Toy shops that carry Schylling"
+      ],
+      "sources": [
+        "cat2026",
+        "brand",
+        "stormberry"
+      ],
+      "note": "Item code SYWWFZBND.",
+      "unknown": [
+        "year"
+      ],
+      "image": "assets/images/fuzz-wonder-waves.webp",
+      "imageSource": "https://toctoys.com/wp-content/uploads/2026/05/Schylling-2026-Catalogue-FLIPPINGBOOK_.pdf",
+      "imageNote": "Product photo cropped from the Schylling 2026 NeeDoh catalogue PDF.",
+      "placeholder": false,
+      "fictional": false
+    },
+    {
+      "id": "super-fuzz-ball",
+      "name": "Super Fuzz Ball",
+      "category": "Fuzzy",
+      "rarity": "Uncommon",
+      "rarityWhy": "The jumbo Fuzz Ball, in the 2026 catalogue.",
+      "year": "",
+      "size": "The glob is about 4 inches (101.6 mm). The pack is larger",
+      "texture": "Velvet fuzz, more of it",
+      "feature": "A giant fuzzy glob",
+      "colors": "Pink, purple, green",
+      "description": "The Fuzz Ball, but big. A huge fuzzy squeeze.",
+      "where": [
+        "Toy shops that carry Schylling"
+      ],
+      "sources": [
+        "cat2026",
+        "stormberry"
+      ],
+      "note": "Item code SYSFZBND. Colors from Stormberry.",
+      "unknown": [
+        "year"
+      ],
+      "image": "assets/images/super-fuzz-ball.webp",
+      "imageSource": "https://toctoys.com/wp-content/uploads/2026/05/Schylling-2026-Catalogue-FLIPPINGBOOK_.pdf",
+      "imageNote": "Product photo cropped from the Schylling 2026 NeeDoh catalogue PDF.",
+      "placeholder": false,
+      "fictional": false
+    },
+    {
+      "id": "teenie-fuzz-ball",
+      "name": "Teenie Fuzz Ball",
+      "category": "Fuzzy",
+      "rarity": "Common",
+      "rarityWhy": "In the 2026 catalogue, marked as a teenie.",
+      "year": "",
+      "size": "38.1 mm",
+      "texture": "Tiny velvet fuzz",
+      "feature": "A pocket-size Fuzz Ball",
+      "colors": "Assorted",
+      "description": "A Fuzz Ball small enough to hide in your hand.",
+      "where": [
+        "Schylling.com",
+        "Toy shops that carry Schylling"
+      ],
+      "sources": [
+        "cat2026",
+        "shop19"
+      ],
+      "note": "Item code SYFZBTND. The 2026 page marks it NEW.",
+      "unknown": [
+        "year"
+      ],
+      "image": "assets/images/teenie-fuzz-ball.webp",
+      "imageSource": "https://toctoys.com/wp-content/uploads/2026/05/Schylling-2026-Catalogue-FLIPPINGBOOK_.pdf",
+      "imageNote": "Product photo cropped from the Schylling 2026 NeeDoh catalogue PDF.",
+      "placeholder": false,
+      "fictional": false
+    },
+    {
+      "id": "teenie-fuzz-multipack",
+      "name": "Teenie Fuzz Ball Multipack",
+      "category": "Fuzzy",
+      "rarity": "Common",
+      "rarityWhy": "In the 2026 catalogue and on Schylling.com.",
+      "year": "",
+      "size": "Each is about 38 mm",
+      "texture": "Tiny velvet fuzz",
+      "feature": "A pack of mini Fuzz Balls",
+      "colors": "Assorted",
+      "description": "A pack of tiny Fuzz Balls.",
+      "where": [
+        "Schylling.com",
+        "Toy shops that carry Schylling"
+      ],
+      "sources": [
+        "cat2026",
+        "shop19"
+      ],
+      "note": "Item code SYMPFZBND.",
+      "unknown": [
+        "year"
+      ],
+      "image": "assets/images/teenie-fuzz-multipack.webp",
+      "imageSource": "https://toctoys.com/wp-content/uploads/2026/05/Schylling-2026-Catalogue-FLIPPINGBOOK_.pdf",
+      "imageNote": "Product photo cropped from the Schylling 2026 NeeDoh catalogue PDF.",
+      "placeholder": false,
+      "fictional": false
+    },
+    {
+      "id": "wild-cats",
+      "name": "Fuzz Ball Wild Cats",
+      "category": "Fuzzy",
+      "rarity": "Uncommon",
+      "rarityWhy": "On Schylling.com. A fuzzy cat, not the smooth Cool Cat.",
+      "year": "",
+      "size": "",
+      "texture": "Velvet fuzz",
+      "feature": "A cat face in the fuzz",
+      "colors": "",
+      "description": "A fuzzy NeeDoh shaped like a cat with a face in the fur. Different from the smooth Cool Cats.",
+      "where": [
+        "Schylling.com",
+        "Toy shops that carry Schylling"
+      ],
+      "sources": [
+        "shop14",
+        "adventure",
+        "tracker"
+      ],
+      "note": "The Adventure Town guide says six expressions. A full color list was not on the Schylling shop snippet. Year not printed.",
+      "unknown": [
+        "year",
+        "size",
+        "colors"
+      ],
+      "image": "assets/placeholders/wild-cats.svg",
+      "imageSource": "",
+      "imageNote": "No real product photo could be downloaded. This is a drawn placeholder, not a picture of the toy.",
+      "placeholder": true,
+      "fictional": false
+    },
+    {
+      "id": "cool-cats",
+      "name": "Cool Cats",
+      "category": "Animals",
+      "rarity": "Common",
+      "rarityWhy": "On Schylling.com as a current animal NeeDoh.",
+      "year": "",
+      "size": "",
+      "texture": "Soft dough",
+      "feature": "A cat you can squish",
+      "colors": "Orange, pink, purple, teal",
+      "description": "A chubby cat full of dough. Different colors, same cool squish.",
+      "where": [
+        "Schylling.com",
+        "Toy shops that carry Schylling"
+      ],
+      "sources": [
+        "brand",
+        "stormberry",
+        "adventure"
+      ],
+      "note": "Colors are from Stormberry. A millimetre size was not on the pages we opened for the standard Cool Cat. The 2024 catalogue sizes the similar Dig' It Pig and Funky Pup at 63.5 x 76.2 x 50.8 mm, but that measurement is not copied onto this card.",
+      "unknown": [
+        "year",
+        "size"
+      ],
+      "image": "assets/placeholders/cool-cats.svg",
+      "imageSource": "",
+      "imageNote": "No real product photo could be downloaded. This is a drawn placeholder, not a picture of the toy.",
+      "placeholder": true,
+      "fictional": false
+    },
+    {
+      "id": "super-cool-cats",
+      "name": "Super Cool Cats",
+      "category": "Animals",
+      "rarity": "Uncommon",
+      "rarityWhy": "Marked NEW in the 2024 catalogue. Twice the classic size, so a bigger buy.",
+      "year": "2024",
+      "size": "116.8 x 114.3 x 86.4 mm",
+      "texture": "Soft dough",
+      "feature": "A jumbo cat",
+      "colors": "Blue, orange, pink, purple",
+      "description": "A giant Cool Cat. The 2024 catalogue says it is twice the size of the classic and marked it new.",
+      "where": [
+        "Schylling.com",
+        "Toy shops that carry Schylling"
+      ],
+      "sources": [
+        "cat2024",
+        "search",
+        "stormberry"
+      ],
+      "note": "Item code SYCCSPND. 'Twice the size' is the catalogue's words. Colors from Stormberry.",
+      "unknown": [],
+      "image": "assets/images/super-cool-cats.webp",
+      "imageSource": "https://toctoys.com/wp-content/uploads/2024/02/Schylling-2024-Catalogue_APPROVED_V4_removed_compressed.pdf",
+      "imageNote": "Product photo cropped from the Schylling 2024 NeeDoh catalogue PDF.",
+      "placeholder": false,
+      "fictional": false
+    },
+    {
+      "id": "teenie-cool-cats",
+      "name": "Teenie Cool Cats",
+      "category": "Animals",
+      "rarity": "Common",
+      "rarityWhy": "In the 2024 and 2026 catalogues and on Schylling.com.",
+      "year": "",
+      "size": "About 1.5 inches tall (pack size 104.8 x 44.5 x 44.5 mm in 2024)",
+      "texture": "Soft dough",
+      "feature": "Tiny cats, with lots of faces",
+      "colors": "Assorted",
+      "description": "Mini Cool Cats. A handful of tiny cats with different little faces.",
+      "where": [
+        "Schylling.com",
+        "Toy shops that carry Schylling"
+      ],
+      "sources": [
+        "cat2024",
+        "cat2026",
+        "shop19"
+      ],
+      "note": "Item code SYCCTND.",
+      "unknown": [
+        "year"
+      ],
+      "image": "assets/images/teenie-cool-cats.webp",
+      "imageSource": "https://toctoys.com/wp-content/uploads/2026/05/Schylling-2026-Catalogue-FLIPPINGBOOK_.pdf",
+      "imageNote": "Product photo cropped from a Schylling NeeDoh catalogue. The 2026 book is the file used when the toy is in both.",
+      "placeholder": false,
+      "fictional": false
+    },
+    {
+      "id": "teenie-cool-cats-multipack",
+      "name": "Teenie Cool Cats Multipack",
+      "category": "Animals",
+      "rarity": "Common",
+      "rarityWhy": "Its own item code in the 2026 catalogue, next to the other Teenie multipacks.",
+      "year": "",
+      "size": "Each cat is about 38 mm",
+      "texture": "Soft dough",
+      "feature": "A boxed set of tiny cats",
+      "colors": "Assorted",
+      "description": "A boxed set of tiny Cool Cats.",
+      "where": [
+        "Toy shops that carry Schylling"
+      ],
+      "sources": [
+        "cat2026"
+      ],
+      "note": "Item code SYMPCCTND. Kept separate from Teenie Cool Cats (SYCCTND) because the item codes differ.",
+      "unknown": [
+        "year"
+      ],
+      "image": "assets/images/teenie-cool-cats-multipack.webp",
+      "imageSource": "https://toctoys.com/wp-content/uploads/2026/05/Schylling-2026-Catalogue-FLIPPINGBOOK_.pdf",
+      "imageNote": "Product photo cropped from the Schylling 2026 NeeDoh catalogue PDF.",
+      "placeholder": false,
+      "fictional": false
+    },
+    {
+      "id": "cool-kittens",
+      "name": "Teenie Cool Kittens Multipack",
+      "category": "Animals",
+      "rarity": "Uncommon",
+      "rarityWhy": "On Schylling.com as its own multipack. A shop guide gives the kittens names.",
+      "year": "",
+      "size": "",
+      "texture": "Soft dough",
+      "feature": "A set of named tiny kittens",
+      "colors": "",
+      "description": "A pack of tiny kittens. A toy-shop guide names them Cuddles, Jinxy, Whiskers, and Frisky.",
+      "where": [
+        "Schylling.com"
+      ],
+      "sources": [
+        "shop19",
+        "adventure"
+      ],
+      "note": "The names are from the Adventure Town guide, not from the Schylling page text we saw.",
+      "unknown": [
+        "year",
+        "size",
+        "colors"
+      ],
+      "image": "assets/placeholders/cool-kittens.svg",
+      "imageSource": "",
+      "imageNote": "No real product photo could be downloaded. This is a drawn placeholder, not a picture of the toy.",
+      "placeholder": true,
+      "fictional": false
+    },
+    {
+      "id": "funky-pup",
+      "name": "Funky Pup",
+      "category": "Animals",
+      "rarity": "Common",
+      "rarityWhy": "Marked NEW in the 2024 catalogue and still on Schylling.com.",
+      "year": "2024",
+      "size": "63.5 x 76.2 x 50.8 mm",
+      "texture": "Soft dough",
+      "feature": "A squishy dog",
+      "colors": "Orange, pink, purple, teal",
+      "description": "A chubby little dog full of dough. Marked new in the 2024 catalogue.",
+      "where": [
+        "Schylling.com",
+        "Toy shops that carry Schylling"
+      ],
+      "sources": [
+        "cat2024",
+        "brand",
+        "stormberry"
+      ],
+      "note": "Item code SYFPND. Colors from Stormberry. Year is the catalogue NEW year.",
+      "unknown": [],
+      "image": "assets/images/funky-pup.webp",
+      "imageSource": "https://toctoys.com/wp-content/uploads/2024/02/Schylling-2024-Catalogue_APPROVED_V4_removed_compressed.pdf",
+      "imageNote": "Product photo cropped from the Schylling 2024 NeeDoh catalogue PDF.",
+      "placeholder": false,
+      "fictional": false
+    },
+    {
+      "id": "teenie-funky-pup",
+      "name": "Teenie Funky Pups",
+      "category": "Animals",
+      "rarity": "Common",
+      "rarityWhy": "In the 2024 and 2026 catalogues.",
+      "year": "2024",
+      "size": "31.8 x 44.5 x 44.5 mm",
+      "texture": "Soft dough",
+      "feature": "Tiny dogs",
+      "colors": "Assorted",
+      "description": "Mini Funky Pups. A pile of tiny dogs.",
+      "where": [
+        "Schylling.com",
+        "Toy shops that carry Schylling"
+      ],
+      "sources": [
+        "cat2024",
+        "cat2026"
+      ],
+      "note": "Item code SYFPTND.",
+      "unknown": [],
+      "image": "assets/images/teenie-funky-pup.webp",
+      "imageSource": "https://toctoys.com/wp-content/uploads/2026/05/Schylling-2026-Catalogue-FLIPPINGBOOK_.pdf",
+      "imageNote": "Product photo cropped from a Schylling NeeDoh catalogue. The 2026 book is the file used when the toy is in both.",
+      "placeholder": false,
+      "fictional": false
+    },
+    {
+      "id": "dig-it-pig",
+      "name": "Dig' It Pig",
+      "category": "Animals",
+      "rarity": "Uncommon",
+      "rarityWhy": "On Schylling.com. Marked NEW in the 2024 catalogue. Stormberry dates the line to 2021, which does not match that NEW mark, so the year is left blank.",
+      "year": "",
+      "size": "63.5 x 76.2 x 50.8 mm",
+      "texture": "Soft dough",
+      "feature": "A squishy pig",
+      "colors": "Orange, pink, purple, teal",
+      "description": "A round little pig. Squish the snout.",
+      "where": [
+        "Schylling.com",
+        "Toy shops that carry Schylling"
+      ],
+      "sources": [
+        "cat2024",
+        "brand",
+        "stormberry"
+      ],
+      "note": "Item code SYDPND. Stormberry says 'Out 2021' but the 2024 catalogue marks it NEW. Those conflict, so no year is shown.",
+      "unknown": [
+        "year"
+      ],
+      "image": "assets/images/dig-it-pig.webp",
+      "imageSource": "https://toctoys.com/wp-content/uploads/2024/02/Schylling-2024-Catalogue_APPROVED_V4_removed_compressed.pdf",
+      "imageNote": "Product photo cropped from the Schylling 2024 NeeDoh catalogue PDF.",
+      "placeholder": false,
+      "fictional": false
+    },
+    {
+      "id": "sugar-skull-cats",
+      "name": "Sugar Skull Cats",
+      "category": "Animals",
+      "rarity": "Uncommon",
+      "rarityWhy": "In the 2026 catalogue. A decorated cat, sold with the Halloween-leaning pages.",
+      "year": "",
+      "size": "63.5 x 76.2 x 50.8 mm",
+      "texture": "Soft dough",
+      "feature": "A cat with sugar-skull style decoration",
+      "colors": "Purple, pink, teal",
+      "description": "A Cool-Cat-sized squish with sugar-skull colors and swirls.",
+      "where": [
+        "Toy shops that carry Schylling"
+      ],
+      "sources": [
+        "cat2026",
+        "shop14",
+        "stormberry"
+      ],
+      "note": "Item code SYSSCCND. Colors from Stormberry.",
+      "unknown": [
+        "year"
+      ],
+      "image": "assets/images/sugar-skull-cats.webp",
+      "imageSource": "https://toctoys.com/wp-content/uploads/2026/05/Schylling-2026-Catalogue-FLIPPINGBOOK_.pdf",
+      "imageNote": "Product photo cropped from the Schylling 2026 NeeDoh catalogue PDF.",
+      "placeholder": false,
+      "fictional": false
+    },
+    {
+      "id": "knittens",
+      "name": "Squishmas Knittens",
+      "category": "Animals",
+      "rarity": "Uncommon",
+      "rarityWhy": "In the 2026 holiday catalogue. A seasonal kitten.",
+      "year": "2026",
+      "size": "Not printed on the catalogue line we could read",
+      "texture": "Soft, slow squish",
+      "feature": "A winter kitten",
+      "colors": "Red is the color Stormberry lists. The catalogue photo shows a bright pink-red kitten",
+      "description": "A kitten in winter gear. A Squishmas animal, not an everyday Cool Cat.",
+      "where": [
+        "Schylling.com",
+        "Target",
+        "Toy shops that carry Schylling"
+      ],
+      "sources": [
+        "cat2026",
+        "tracker",
+        "stormberry"
+      ],
+      "note": "Item code SYSQMKNND26. The 26 in the code is the season. NeeDohTracker says Target lists it and calls the feel slow-rise. That feel is not copied as a Schylling quote.",
+      "unknown": [],
+      "image": "assets/images/knittens.webp",
+      "imageSource": "https://toctoys.com/wp-content/uploads/2026/05/Schylling-2026-Catalogue-FLIPPINGBOOK_.pdf",
+      "imageNote": "Product photo cropped from the Schylling 2026 NeeDoh catalogue PDF.",
+      "placeholder": false,
+      "fictional": false
+    },
+    {
+      "id": "barnyard-squisher",
+      "name": "Barnyard Squisher",
+      "category": "Animals",
+      "rarity": "Rare",
+      "rarityWhy": "Named by Stormberry for 2026 and by NeeDohTracker, which says resale prices are high. Not in the catalogue PDF.",
+      "year": "2026",
+      "size": "",
+      "texture": "",
+      "feature": "A square farm-animal squish. The pink one has a pig face",
+      "colors": "Blue, pink, green",
+      "description": "A blocky barnyard squish. Collectors say it is already hard to find.",
+      "where": [
+        "Specialty toy shops",
+        "Resale"
+      ],
+      "sources": [
+        "stormberry",
+        "tracker"
+      ],
+      "note": "High resale is reported by NeeDohTracker. No Schylling catalogue page was found, so rarity is Rare rather than a normal new toy.",
+      "unknown": [
+        "size",
+        "texture"
+      ],
+      "image": "assets/placeholders/barnyard-squisher.svg",
+      "imageSource": "",
+      "imageNote": "No real product photo could be downloaded. This is a drawn placeholder, not a picture of the toy.",
+      "placeholder": true,
+      "fictional": false
+    },
+    {
+      "id": "barnyard-fuzz",
+      "name": "Barnyard Fuzz Ball 4-Pack",
+      "category": "Animals",
+      "rarity": "Rare",
+      "rarityWhy": "Stormberry and NeeDohTracker list a four-pack of farm-faced Teenie Fuzz Balls. Not in the catalogue PDF.",
+      "year": "2026",
+      "size": "Teenie size, exact millimetres not listed",
+      "texture": "Fuzz Ball texture",
+      "feature": "Four tiny fuzzy animals in a barn box",
+      "colors": "",
+      "description": "Four tiny Fuzz Balls with farm faces, packed like a little barn.",
+      "where": [
+        "Specialty toy shops",
+        "Resale"
+      ],
+      "sources": [
+        "stormberry",
+        "tracker"
+      ],
+      "note": "",
+      "unknown": [
+        "colors"
+      ],
+      "image": "assets/placeholders/barnyard-fuzz.svg",
+      "imageSource": "",
+      "imageNote": "No real product photo could be downloaded. This is a drawn placeholder, not a picture of the toy.",
+      "placeholder": true,
+      "fictional": false
+    },
+    {
+      "id": "krystal-kitty",
+      "name": "Krystal Kitty",
+      "category": "Animals",
+      "rarity": "Legendary",
+      "rarityWhy": "A Claire's exclusive that collectors and a wikiHow article say was discontinued. Not in the Schylling catalogues.",
+      "year": "",
+      "size": "",
+      "texture": "",
+      "feature": "A cat with sparkles inside, sold at Claire's",
+      "colors": "Bright pink, and collectors also mention blue",
+      "description": "A sparkly crystal cat that Claire's used to sell. Collectors say it is one of the rarest NeeDohs.",
+      "where": [
+        "Resale only"
+      ],
+      "sources": [
+        "wikihow",
+        "reddit",
+        "adventure"
+      ],
+      "note": "wikiHow dates it to 2022 or 2023 and is not sure which, so the year is blank. Claire's is the retailer those sources agree on.",
+      "unknown": [
+        "year",
+        "size",
+        "texture"
+      ],
+      "image": "assets/placeholders/krystal-kitty.svg",
+      "imageSource": "",
+      "imageNote": "No real product photo could be downloaded. This is a drawn placeholder, not a picture of the toy.",
+      "placeholder": true,
+      "fictional": false
+    },
+    {
+      "id": "gumdrop",
+      "name": "Gumdrop",
+      "category": "Food",
+      "rarity": "Common",
+      "rarityWhy": "In the 2024 and 2026 catalogues and on Schylling.com.",
+      "year": "",
+      "size": "57.2 mm",
+      "texture": "A sugary, denser squish",
+      "feature": "Shaped and textured like a gumdrop",
+      "colors": "Blue, orange, pink, purple",
+      "description": "A gumdrop you squish instead of eat. Bumpy, sweet-looking, and very squeezable.",
+      "where": [
+        "Schylling.com",
+        "Toy shops that carry Schylling"
+      ],
+      "sources": [
+        "cat2026",
+        "cat2024",
+        "brand",
+        "adventure"
+      ],
+      "note": "Item code SYGDND. The 'sugary squeeze' words are from the Adventure Town guide. Marked NEW in the 2024 book, still in the 2026 book. No single release year is printed.",
+      "unknown": [
+        "year"
+      ],
+      "image": "assets/images/gumdrop.webp",
+      "imageSource": "https://toctoys.com/wp-content/uploads/2026/05/Schylling-2026-Catalogue-FLIPPINGBOOK_.pdf",
+      "imageNote": "Product photo cropped from a Schylling NeeDoh catalogue. The 2026 book is the file used when the toy is in both.",
+      "placeholder": false,
+      "fictional": false
+    },
+    {
+      "id": "gummy-bear",
+      "name": "Gummy Bear",
+      "category": "Food",
+      "rarity": "Common",
+      "rarityWhy": "On Schylling.com. Stormberry and NeeDohTracker describe it. It was not in the two catalogue PDFs.",
+      "year": "",
+      "size": "",
+      "texture": "Sources disagree",
+      "feature": "A big bear you can squish",
+      "colors": "Blue, orange, pink, purple",
+      "description": "A grinning gummy-bear squish in bright jelly colors. One write-up says the inside is jelly. Another says dough. Schylling's short listing does not say which.",
+      "where": [
+        "Schylling.com",
+        "Toy shops that carry Schylling"
+      ],
+      "sources": [
+        "brand",
+        "stormberry",
+        "tracker"
+      ],
+      "note": "Fill conflict: Stormberry says jelly-like. NeeDohTracker says doh-filled. Left unresolved.",
+      "unknown": [
+        "year",
+        "size",
+        "texture"
+      ],
+      "image": "assets/placeholders/gummy-bear.svg",
+      "imageSource": "",
+      "imageNote": "No real product photo could be downloaded. This is a drawn placeholder, not a picture of the toy.",
+      "placeholder": true,
+      "fictional": false
+    },
+    {
+      "id": "dream-drop",
+      "name": "Dream Drop",
+      "category": "Food",
+      "rarity": "Uncommon",
+      "rarityWhy": "On Schylling.com and in the 2026 catalogue. A less common shape.",
+      "year": "",
+      "size": "76.2 x 61 x 61 mm",
+      "texture": "Sparkly, smooth squish",
+      "feature": "A droplet on a splash stand you can peel off",
+      "colors": "Pink, blue, purple",
+      "description": "A sparkly raindrop that sits on a little splash. You can peel the splash off and squish the drop.",
+      "where": [
+        "Schylling.com",
+        "Toy shops that carry Schylling"
+      ],
+      "sources": [
+        "cat2026",
+        "brand",
+        "adventure",
+        "stormberry"
+      ],
+      "note": "Item code SYDRDND. The peel-off stand is in the Adventure Town guide and on the catalogue page ('Removable base!').",
+      "unknown": [
+        "year"
+      ],
+      "image": "assets/images/dream-drop.webp",
+      "imageSource": "https://toctoys.com/wp-content/uploads/2026/05/Schylling-2026-Catalogue-FLIPPINGBOOK_.pdf",
+      "imageNote": "Product photo cropped from the Schylling 2026 NeeDoh catalogue PDF.",
+      "placeholder": false,
+      "fictional": false
+    },
+    {
+      "id": "galactic-glow-dream-drop",
+      "name": "Galactic Glow Dream Drop",
+      "category": "Food",
+      "rarity": "Rare",
+      "rarityWhy": "A glow Dream Drop that the shop guide, Stormberry, and NeeDohTracker all separate from the regular Dream Drop. Not in the catalogue PDF.",
+      "year": "",
+      "size": "",
+      "texture": "Sparkly, and it glows",
+      "feature": "Glows in the dark",
+      "colors": "Purple, green, blue",
+      "description": "A Dream Drop that glows in the dark. Collectors say it shows up in small shops, not everywhere.",
+      "where": [
+        "Specialty toy shops"
+      ],
+      "sources": [
+        "adventure",
+        "stormberry",
+        "tracker"
+      ],
+      "note": "Colors from Stormberry and the field guide. Year not printed.",
+      "unknown": [
+        "year",
+        "size"
+      ],
+      "image": "assets/placeholders/galactic-glow-dream-drop.svg",
+      "imageSource": "",
+      "imageNote": "No real product photo could be downloaded. This is a drawn placeholder, not a picture of the toy.",
+      "placeholder": true,
+      "fictional": false
+    },
+    {
+      "id": "jelly-squish",
+      "name": "Jelly Squish",
+      "category": "Food",
+      "rarity": "Uncommon",
+      "rarityWhy": "Marked NEW in the 2026 catalogue and listed on Schylling.com.",
+      "year": "2026",
+      "size": "About 110 x 55 x 55 mm",
+      "texture": "Super-solid dome with stretchy legs",
+      "feature": "A jellyfish with legs you can tug",
+      "colors": "Blue, pink, purple",
+      "description": "A jellyfish. The top is a solid squish and the legs stretch.",
+      "where": [
+        "Schylling.com",
+        "Toy shops that carry Schylling"
+      ],
+      "sources": [
+        "cat2026",
+        "shop14",
+        "adventure",
+        "tracker"
+      ],
+      "note": "Item code SYJSND. Marked NEW in 2026.",
+      "unknown": [],
+      "image": "assets/images/jelly-squish.webp",
+      "imageSource": "https://toctoys.com/wp-content/uploads/2026/05/Schylling-2026-Catalogue-FLIPPINGBOOK_.pdf",
+      "imageNote": "Product photo cropped from the Schylling 2026 NeeDoh catalogue PDF.",
+      "placeholder": false,
+      "fictional": false
+    },
+    {
+      "id": "mello-mallo",
+      "name": "Mello Mallo",
+      "category": "Food",
+      "rarity": "Common",
+      "rarityWhy": "On Schylling.com and in the 2026 catalogue. This is the Mallo.",
+      "year": "",
+      "size": "85.9 x 54.1 x 54.1 mm",
+      "texture": "Soft dough",
+      "feature": "Changes color in the sun, like a marshmallow toasting",
+      "colors": "Pink to red, yellow to orange, blue to purple",
+      "description": "A marshmallow squish. Leave it in the sun and the color toasts to a new shade. No separate toy named only 'Pearly' was found. The pearly one people mean is usually Cloud Pleaser.",
+      "where": [
+        "Schylling.com",
+        "Toy shops that carry Schylling"
+      ],
+      "sources": [
+        "cat2026",
+        "brand",
+        "adventure",
+        "stormberry"
+      ],
+      "note": "Item code SYMMND. Sun-changing colors are from Stormberry and the field guide ('UV reactive'). No product named Sugar Plum was found anywhere in this research.",
+      "unknown": [
+        "year"
+      ],
+      "image": "assets/images/mello-mallo.webp",
+      "imageSource": "https://toctoys.com/wp-content/uploads/2026/05/Schylling-2026-Catalogue-FLIPPINGBOOK_.pdf",
+      "imageNote": "Product photo cropped from the Schylling 2026 NeeDoh catalogue PDF.",
+      "placeholder": false,
+      "fictional": false
+    },
+    {
+      "id": "dohnuts",
+      "name": "Dohnuts",
+      "category": "Food",
+      "rarity": "Uncommon",
+      "rarityWhy": "In the 2024 and 2026 catalogues and on Schylling.com.",
+      "year": "",
+      "size": "About 80 x 80 x 40 mm",
+      "texture": "Soft dough",
+      "feature": "The frosting top comes off so you can swap designs",
+      "colors": "Several frosting styles and colors",
+      "description": "A donut you can redecorate. Pop the frosting top off and trade it with a friend.",
+      "where": [
+        "Schylling.com",
+        "Toy shops that carry Schylling"
+      ],
+      "sources": [
+        "cat2026",
+        "cat2024",
+        "brand",
+        "stormberry"
+      ],
+      "note": "Item code SYDNND. Swappable frosting is described by Stormberry and shown by the separate tops in the catalogue photos.",
+      "unknown": [
+        "year"
+      ],
+      "image": "assets/images/dohnuts.webp",
+      "imageSource": "https://toctoys.com/wp-content/uploads/2026/05/Schylling-2026-Catalogue-FLIPPINGBOOK_.pdf",
+      "imageNote": "Product photo cropped from a Schylling NeeDoh catalogue. The 2026 book is the file used when the toy is in both.",
+      "placeholder": false,
+      "fictional": false
+    },
+    {
+      "id": "jelly-dohnut",
+      "name": "Jelly Dohnut",
+      "category": "Food",
+      "rarity": "Uncommon",
+      "rarityWhy": "On Schylling.com and in the 2026 catalogue. Different from the swap-frosting Dohnut.",
+      "year": "",
+      "size": "About 76 x 76 x 38 mm",
+      "texture": "Dough outside, jelly inside",
+      "feature": "The frosting stays on. The jelly is pink or purple",
+      "colors": "Six design and color combinations",
+      "description": "A donut with jelly in the middle. The frosting does not come off. Squish it and you can feel the jelly center.",
+      "where": [
+        "Schylling.com",
+        "Toy shops that carry Schylling"
+      ],
+      "sources": [
+        "cat2026",
+        "jelly-page",
+        "brand"
+      ],
+      "note": "2026 item code SYJDNND. The 2024 book calls a similar item NEEDOH DONUT JELLY SQUEEZE.",
+      "unknown": [
+        "year"
+      ],
+      "image": "assets/images/jelly-dohnut.webp",
+      "imageSource": "https://toctoys.com/wp-content/uploads/2026/05/Schylling-2026-Catalogue-FLIPPINGBOOK_.pdf",
+      "imageNote": "Product photo cropped from the Schylling 2026 NeeDoh catalogue PDF.",
+      "placeholder": false,
+      "fictional": false
+    },
+    {
+      "id": "dohnut-holes",
+      "name": "Dohnut Holes",
+      "category": "Food",
+      "rarity": "Uncommon",
+      "rarityWhy": "On Schylling.com and in the 2024 catalogue as a 6-piece set.",
+      "year": "",
+      "size": "The 2024 pack is 38.1 x 114.3 x 76.2 mm",
+      "texture": "Soft dough",
+      "feature": "Six mini donut holes with different toppings",
+      "colors": "Orange, pink, sparkle pink, purple, and more",
+      "description": "A box of tiny donut holes. Some look sugary, some look sprinkled.",
+      "where": [
+        "Schylling.com",
+        "Toy shops that carry Schylling"
+      ],
+      "sources": [
+        "cat2024",
+        "brand",
+        "stormberry"
+      ],
+      "note": "Item code SYDHTND. Schylling also lists a Teenie Dohnut Hole multipack. It may be this same set, so it is not a second card.",
+      "unknown": [
+        "year"
+      ],
+      "image": "assets/images/dohnut-holes.webp",
+      "imageSource": "https://toctoys.com/wp-content/uploads/2024/02/Schylling-2024-Catalogue_APPROVED_V4_removed_compressed.pdf",
+      "imageNote": "Product photo cropped from the Schylling 2024 NeeDoh catalogue PDF.",
+      "placeholder": false,
+      "fictional": false
+    },
+    {
+      "id": "teenie-dohnut-holes-6",
+      "name": "Teenie Dohnut Holes 6-Pack",
+      "category": "Food",
+      "rarity": "Rare",
+      "rarityWhy": "Stormberry lists a Teenie Dohnut Holes 6-pack on the rare list, separate from the regular Dohnut Holes.",
+      "year": "",
+      "size": "",
+      "texture": "Soft dough",
+      "feature": "Six tiny donut holes",
+      "colors": "",
+      "description": "An older or harder-to-find box of six tiny donut holes. Collectors file it with the resale toys.",
+      "where": [
+        "Resale only"
+      ],
+      "sources": [
+        "stormberry"
+      ],
+      "note": "Kept separate because Stormberry's rare list names it apart from the current Dohnut Holes. It might still be the same SYDHTND set. If you have the current box, count that card, not this one.",
+      "unknown": [
+        "year",
+        "size",
+        "colors"
+      ],
+      "image": "assets/placeholders/teenie-dohnut-holes-6.svg",
+      "imageSource": "",
+      "imageNote": "No real product photo could be downloaded. This is a drawn placeholder, not a picture of the toy.",
+      "placeholder": true,
+      "fictional": false
+    },
+    {
+      "id": "groovy-fruit",
+      "name": "Groovy Fruit",
+      "category": "Food",
+      "rarity": "Uncommon",
+      "rarityWhy": "In the 2024 and 2026 catalogues. A three-fruit set. Collectors say it does not restock often.",
+      "year": "",
+      "size": "Each fruit is about 76 mm",
+      "texture": "Soft dough",
+      "feature": "Three fruits in a basket: banana, strawberry, and orange",
+      "colors": "Yellow, pink, orange",
+      "description": "A little fruit basket: a banana, a strawberry, and an orange, all squishable. The shop guide calls them Boss Banana, Out of Sight Strawberry, and Far Out Orange.",
+      "where": [
+        "Toy shops that carry Schylling"
+      ],
+      "sources": [
+        "cat2026",
+        "cat2024",
+        "adventure",
+        "reddit"
+      ],
+      "note": "Item code SYGFND. Reddit collectors called Groovy Fruit hard to restock, so it is Uncommon rather than Common.",
+      "unknown": [
+        "year"
+      ],
+      "image": "assets/images/groovy-fruit.webp",
+      "imageSource": "https://toctoys.com/wp-content/uploads/2026/05/Schylling-2026-Catalogue-FLIPPINGBOOK_.pdf",
+      "imageNote": "Product photo cropped from a Schylling NeeDoh catalogue. The 2026 book is the file used when the toy is in both.",
+      "placeholder": false,
+      "fictional": false
+    },
+    {
+      "id": "marbleez",
+      "name": "Marbleez",
+      "category": "Food",
+      "rarity": "Uncommon",
+      "rarityWhy": "In the 2024 and 2026 catalogues.",
+      "year": "2024",
+      "size": "About 2.5 inches (63.5 mm in 2026). The 2024 book also prints 60 x 75 x 45 mm",
+      "texture": "A smooth, marble-looking squish",
+      "feature": "Every one has a different marble swirl",
+      "colors": "Assorted marble colors",
+      "description": "A round squish that looks like a glass marble, with swirls that never repeat.",
+      "where": [
+        "Toy shops that carry Schylling"
+      ],
+      "sources": [
+        "cat2026",
+        "cat2024",
+        "stormberry"
+      ],
+      "note": "Item code SYMRBND. The two catalogues print different millimetre boxes, so both are noted. Marked NEW in 2024.",
+      "unknown": [],
+      "image": "assets/images/marbleez.webp",
+      "imageSource": "https://toctoys.com/wp-content/uploads/2026/05/Schylling-2026-Catalogue-FLIPPINGBOOK_.pdf",
+      "imageNote": "Product photo cropped from a Schylling NeeDoh catalogue. The 2026 book is the file used when the toy is in both.",
+      "placeholder": false,
+      "fictional": false
+    },
+    {
+      "id": "ramen-noodlies",
+      "name": "Ramen Noodlies",
+      "category": "Food",
+      "rarity": "Uncommon",
+      "rarityWhy": "In the 2024 and 2026 catalogues.",
+      "year": "",
+      "size": "127 x 152.4 x 25.4 mm",
+      "texture": "Stretchy noodles, not a filled ball",
+      "feature": "A nest of ramen you can pull apart",
+      "colors": "Assorted neon noodles",
+      "description": "A packet of stretchy ramen noodles. Pull them, tangle them, squish them. There is no broth.",
+      "where": [
+        "Toy shops that carry Schylling"
+      ],
+      "sources": [
+        "cat2026",
+        "cat2024",
+        "adventure"
+      ],
+      "note": "Item code SYRNL.",
+      "unknown": [
+        "year"
+      ],
+      "image": "assets/images/ramen-noodlies.webp",
+      "imageSource": "https://toctoys.com/wp-content/uploads/2026/05/Schylling-2026-Catalogue-FLIPPINGBOOK_.pdf",
+      "imageNote": "Product photo cropped from a Schylling NeeDoh catalogue. The 2026 book is the file used when the toy is in both.",
+      "placeholder": false,
+      "fictional": false
+    },
+    {
+      "id": "noodlies",
+      "name": "Noodlies",
+      "category": "Food",
+      "rarity": "Uncommon",
+      "rarityWhy": "In the 2024 catalogue, separate from Ramen Noodlies.",
+      "year": "",
+      "size": "76.2 mm pack",
+      "texture": "Stretchy noodles",
+      "feature": "Loose colorful noodles you can braid and knot",
+      "colors": "Pink, orange, yellow, blue, green",
+      "description": "A handful of bendy noodles. Braid them, knot them, or just stretch.",
+      "where": [
+        "Toy shops that carry Schylling"
+      ],
+      "sources": [
+        "cat2024",
+        "adventure"
+      ],
+      "note": "Item code SYNL. Colors from the field guide.",
+      "unknown": [
+        "year"
+      ],
+      "image": "assets/images/noodlies.webp",
+      "imageSource": "https://toctoys.com/wp-content/uploads/2024/02/Schylling-2024-Catalogue_APPROVED_V4_removed_compressed.pdf",
+      "imageNote": "Product photo cropped from the Schylling 2024 NeeDoh catalogue PDF.",
+      "placeholder": false,
+      "fictional": false
+    },
+    {
+      "id": "mac-n-squeeze",
+      "name": "Mac 'n Squeeze",
+      "category": "Food",
+      "rarity": "Uncommon",
+      "rarityWhy": "In the 2024 catalogue and on Schylling.com search.",
+      "year": "",
+      "size": "The 2024 catalogue prints 970 x 80 x 71 mm, which looks like a typo for a small toy. The real size is not trusted",
+      "texture": "Soft tubes",
+      "feature": "Macaroni tubes you can stack on a finger",
+      "colors": "Pink, yellow, blue, green",
+      "description": "Squishy macaroni. The tubes can stack on a finger. The catalogue's printed length looks wrong, so the size is not shown.",
+      "where": [
+        "Schylling.com",
+        "Toy shops that carry Schylling"
+      ],
+      "sources": [
+        "cat2024",
+        "search",
+        "adventure"
+      ],
+      "note": "Item code SYSMNSQ. The 970 mm figure is almost certainly a print error and is not used as the size.",
+      "unknown": [
+        "year"
+      ],
+      "image": "assets/images/mac-n-squeeze.webp",
+      "imageSource": "https://toctoys.com/wp-content/uploads/2024/02/Schylling-2024-Catalogue_APPROVED_V4_removed_compressed.pdf",
+      "imageNote": "Product photo cropped from the Schylling 2024 NeeDoh catalogue PDF.",
+      "placeholder": false,
+      "fictional": false
+    },
+    {
+      "id": "nice-cream-cone",
+      "name": "Nice Cream Cone",
+      "category": "Food",
+      "rarity": "Uncommon",
+      "rarityWhy": "On Schylling.com. Stormberry says 2026. A shop guide describes the fill.",
+      "year": "2026",
+      "size": "",
+      "texture": "Super-soft dough with a smooth top",
+      "feature": "An ice cream cone",
+      "colors": "Blue, pink, orange",
+      "description": "An ice cream cone you squish. The top is smooth, like soft-serve.",
+      "where": [
+        "Schylling.com",
+        "Toy shops that carry Schylling"
+      ],
+      "sources": [
+        "shop14",
+        "stormberry",
+        "adventure"
+      ],
+      "note": "Year is Stormberry's 'Out 2026', not a Schylling printed year. Colors from Stormberry.",
+      "unknown": [
+        "size"
+      ],
+      "image": "assets/placeholders/nice-cream-cone.svg",
+      "imageSource": "",
+      "imageNote": "No real product photo could be downloaded. This is a drawn placeholder, not a picture of the toy.",
+      "placeholder": true,
+      "fictional": false
+    },
+    {
+      "id": "nice-sicle",
+      "name": "Nice-sicle",
+      "category": "Food",
+      "rarity": "Uncommon",
+      "rarityWhy": "On Schylling.com. In collector notes as a popsicle, separate from the cone.",
+      "year": "2026",
+      "size": "",
+      "texture": "Super-solid squish",
+      "feature": "A layered popsicle",
+      "colors": "Pink, blue, orange, purple, yellow layers",
+      "description": "A popsicle squish with colorful layers. Not the same toy as the Nice Cream Cone.",
+      "where": [
+        "Schylling.com",
+        "Toy shops that carry Schylling"
+      ],
+      "sources": [
+        "shop14",
+        "stormberry",
+        "tracker"
+      ],
+      "note": "Layer colors from Stormberry. Fill from NeeDohTracker. Year is collector-reported.",
+      "unknown": [
+        "size"
+      ],
+      "image": "assets/placeholders/nice-sicle.svg",
+      "imageSource": "",
+      "imageNote": "No real product photo could be downloaded. This is a drawn placeholder, not a picture of the toy.",
+      "placeholder": true,
+      "fictional": false
+    },
+    {
+      "id": "peace-o-cake",
+      "name": "Peace o' Cake",
+      "category": "Food",
+      "rarity": "Uncommon",
+      "rarityWhy": "On Schylling.com. Stormberry and NeeDohTracker describe a cake slice.",
+      "year": "2026",
+      "size": "",
+      "texture": "Super-soft, cake-like squish",
+      "feature": "A slice of layer cake",
+      "colors": "Yellow, pink, and blue layers. The order of the layers changes",
+      "description": "A slice of cake you can squish. The layers are stacked, and not every slice is stacked the same way.",
+      "where": [
+        "Schylling.com",
+        "Toy shops that carry Schylling"
+      ],
+      "sources": [
+        "shop14",
+        "stormberry",
+        "tracker"
+      ],
+      "note": "",
+      "unknown": [
+        "size"
+      ],
+      "image": "assets/placeholders/peace-o-cake.svg",
+      "imageSource": "",
+      "imageNote": "No real product photo could be downloaded. This is a drawn placeholder, not a picture of the toy.",
+      "placeholder": true,
+      "fictional": false
+    },
+    {
+      "id": "squeezza",
+      "name": "Squeezza",
+      "category": "Food",
+      "rarity": "Uncommon",
+      "rarityWhy": "On collector lists and described as a peel-able pizza. A Schylling product page was not in the catalogue PDFs.",
+      "year": "2026",
+      "size": "",
+      "texture": "Soft dough",
+      "feature": "A pizza slice with toppings you can peel and swap",
+      "colors": "Orange, yellow, and pink slices",
+      "description": "A pizza slice. Peel the cheese, squish the crust, and trade toppings with another slice.",
+      "where": [
+        "Specialty toy shops"
+      ],
+      "sources": [
+        "stormberry",
+        "adventure",
+        "tracker"
+      ],
+      "note": "Not seen on the Schylling shop pages we opened. Year is Stormberry's 'Out 2026'.",
+      "unknown": [
+        "size"
+      ],
+      "image": "assets/placeholders/squeezza.svg",
+      "imageSource": "",
+      "imageNote": "No real product photo could be downloaded. This is a drawn placeholder, not a picture of the toy.",
+      "placeholder": true,
+      "fictional": false
+    },
+    {
+      "id": "tuff-nugget",
+      "name": "Tuff Nugget",
+      "category": "Food",
+      "rarity": "Uncommon",
+      "rarityWhy": "Stormberry and the shop guide list a nugget for 2026. Not in the catalogue PDF.",
+      "year": "2026",
+      "size": "",
+      "texture": "Solid squish with a smooth outside",
+      "feature": "Shaped like a nugget",
+      "colors": "Silver, purple, pink, orange, black, and gold are listed",
+      "description": "A smooth nugget squish. Not a cube, not a gumdrop. Its own lumpy shape.",
+      "where": [
+        "Specialty toy shops"
+      ],
+      "sources": [
+        "stormberry",
+        "adventure",
+        "tracker"
+      ],
+      "note": "Colors from Stormberry. Fill from NeeDohTracker.",
+      "unknown": [
+        "size"
+      ],
+      "image": "assets/placeholders/tuff-nugget.svg",
+      "imageSource": "",
+      "imageNote": "No real product photo could be downloaded. This is a drawn placeholder, not a picture of the toy.",
+      "placeholder": true,
+      "fictional": false
+    },
+    {
+      "id": "groovy-jewel",
+      "name": "Groovy Jewel",
+      "category": "Food",
+      "rarity": "Uncommon",
+      "rarityWhy": "A diamond squish in the shop guide and on NeeDohTracker. Not in the two catalogues.",
+      "year": "",
+      "size": "",
+      "texture": "Water with glitter, according to the shop guide",
+      "feature": "A sparkly diamond",
+      "colors": "Pink, purple, blue",
+      "description": "A diamond full of glitter. The shop guide says the inside is watery, so it squishes differently from a dough glob.",
+      "where": [
+        "Specialty toy shops"
+      ],
+      "sources": [
+        "adventure",
+        "tracker",
+        "stormberry"
+      ],
+      "note": "Fill is from one shop guide only.",
+      "unknown": [
+        "year",
+        "size"
+      ],
+      "image": "assets/placeholders/groovy-jewel.svg",
+      "imageSource": "",
+      "imageNote": "No real product photo could be downloaded. This is a drawn placeholder, not a picture of the toy.",
+      "placeholder": true,
+      "fictional": false
+    },
+    {
+      "id": "groovy-jewel-mini",
+      "name": "Groovy Jewel Mini",
+      "category": "Food",
+      "rarity": "Rare",
+      "rarityWhy": "Stormberry lists a mini for 2026. NeeDohTracker also separates a smaller jewel.",
+      "year": "2026",
+      "size": "",
+      "texture": "",
+      "feature": "A smaller sparkly diamond",
+      "colors": "Pink, blue, purple glitter",
+      "description": "A tiny Groovy Jewel. Newer, and easier to miss than the big diamond.",
+      "where": [
+        "Specialty toy shops"
+      ],
+      "sources": [
+        "stormberry",
+        "tracker"
+      ],
+      "note": "",
+      "unknown": [
+        "size",
+        "texture"
+      ],
+      "image": "assets/placeholders/groovy-jewel-mini.svg",
+      "imageSource": "",
+      "imageNote": "No real product photo could be downloaded. This is a drawn placeholder, not a picture of the toy.",
+      "placeholder": true,
+      "fictional": false
+    },
+    {
+      "id": "hot-shots-football",
+      "name": "Hot Shots Football",
+      "category": "Food",
+      "rarity": "Uncommon",
+      "rarityWhy": "A full-size ball in the 2026 catalogue, separate from the Teenie sports pack. NeeDohTracker says this round one is a soccer-ball style.",
+      "year": "2026",
+      "size": "63.5 mm",
+      "texture": "",
+      "feature": "A sports ball you can squish",
+      "colors": "Pink, blue, green, orange",
+      "description": "A bright sports-ball NeeDoh, bigger than the Teenie Hot Shots. The catalogue calls it football. A catalog site says the ball is round, like a soccer ball.",
+      "where": [
+        "Toy shops that carry Schylling"
+      ],
+      "sources": [
+        "cat2026",
+        "tracker",
+        "stormberry"
+      ],
+      "note": "Item code SYHSFBND. 'Football' in a UK catalogue often means soccer. The shape note is from NeeDohTracker, so the card does not promise one sport.",
+      "unknown": [
+        "texture"
+      ],
+      "image": "assets/images/hot-shots-football.webp",
+      "imageSource": "https://toctoys.com/wp-content/uploads/2026/05/Schylling-2026-Catalogue-FLIPPINGBOOK_.pdf",
+      "imageNote": "Product photo cropped from the Schylling 2026 NeeDoh catalogue PDF.",
+      "placeholder": false,
+      "fictional": false
+    },
+    {
+      "id": "squeezy-peezy",
+      "name": "Squeezy Peezy",
+      "category": "Groovy Globs",
+      "rarity": "Rare",
+      "rarityWhy": "In the 2024 catalogue. Two shops list it. It is not in the 2026 catalogue, so it looks retired from the new book.",
+      "year": "",
+      "size": "63.5 mm",
+      "texture": "",
+      "feature": "A clear squish full of colorful beads",
+      "colors": "",
+      "description": "A clear ball full of bright little beads. It was in the 2024 catalogue and is missing from the 2026 one.",
+      "where": [
+        "Resale",
+        "Specialty toy shops"
+      ],
+      "sources": [
+        "cat2024",
+        "economy",
+        "caseys",
+        "adventure"
+      ],
+      "note": "Item code SYSP. The bead-filled look is from the 2024 catalogue photo. The catalogue text does not name the fill. Casey's Toys record starts 18 Oct 2022, which is not a release date.",
+      "unknown": [
+        "year",
+        "texture",
+        "colors"
+      ],
+      "image": "assets/images/squeezy-peezy.webp",
+      "imageSource": "https://toctoys.com/wp-content/uploads/2024/02/Schylling-2024-Catalogue_APPROVED_V4_removed_compressed.pdf",
+      "imageNote": "Product photo cropped from the Schylling 2024 NeeDoh catalogue PDF.",
+      "placeholder": false,
+      "fictional": false
+    },
+    {
+      "id": "sploot-splat",
+      "name": "SplootSplat",
+      "category": "Groovy Globs",
+      "rarity": "Uncommon",
+      "rarityWhy": "In the 2026 catalogue and on Schylling.com.",
+      "year": "",
+      "size": "80.3 x 80 x 39.9 mm",
+      "texture": "Super-solid squish",
+      "feature": "A flat splat with little nubs",
+      "colors": "Blue, purple, green",
+      "description": "A flat, blobby splat. It is wider than it is tall, with little drops around the edge.",
+      "where": [
+        "Schylling.com",
+        "Toy shops that carry Schylling"
+      ],
+      "sources": [
+        "cat2026",
+        "shop14",
+        "stormberry"
+      ],
+      "note": "Item code SYSPLND. Colors from Stormberry.",
+      "unknown": [
+        "year"
+      ],
+      "image": "assets/images/sploot-splat.webp",
+      "imageSource": "https://toctoys.com/wp-content/uploads/2026/05/Schylling-2026-Catalogue-FLIPPINGBOOK_.pdf",
+      "imageNote": "Product photo cropped from the Schylling 2026 NeeDoh catalogue PDF.",
+      "placeholder": false,
+      "fictional": false
+    },
+    {
+      "id": "cloud-pleaser",
+      "name": "Cloud Pleaser",
+      "category": "Groovy Globs",
+      "rarity": "Rare",
+      "rarityWhy": "Stormberry and Reddit collectors say it is a Target toy and hard to see in stock. Not in the catalogues reviewed. This is the pearly one.",
+      "year": "2026",
+      "size": "",
+      "texture": "",
+      "feature": "A pearly, cloudy squish",
+      "colors": "Pearly lavender, and pink has been seen",
+      "description": "A pearly cloud squish. Collectors say Target gets only a few. No NeeDoh is just named Pearly. This is the one that looks pearly.",
+      "where": [
+        "Target"
+      ],
+      "sources": [
+        "stormberry",
+        "reddit"
+      ],
+      "note": "Year is Stormberry's 'Out 2026'.",
+      "unknown": [
+        "size",
+        "texture"
+      ],
+      "image": "assets/placeholders/cloud-pleaser.svg",
+      "imageSource": "",
+      "imageNote": "No real product photo could be downloaded. This is a drawn placeholder, not a picture of the toy.",
+      "placeholder": true,
+      "fictional": false
+    },
+    {
+      "id": "snow-ball-crunch",
+      "name": "Snow Ball Crunch",
+      "category": "Squishmas",
+      "rarity": "Common",
+      "rarityWhy": "In both the 2024 and 2026 catalogues, so it is not a one-year secret.",
+      "year": "",
+      "size": "63.5 mm",
+      "texture": "Crunchy, like snow",
+      "feature": "A white ball that crunches",
+      "colors": "White",
+      "description": "A snowball you can crunch in your hand, any time of year. The 2024 book says it feels like crunching through fresh snow.",
+      "where": [
+        "Schylling.com",
+        "Toy shops that carry Schylling"
+      ],
+      "sources": [
+        "cat2026",
+        "cat2024",
+        "adventure"
+      ],
+      "note": "Item code SYSNBC. The field guide says the crunch is cornstarch with a little air. That detail is from the guide, not a Schylling ingredient list we opened, so the card just says crunchy.",
+      "unknown": [
+        "year"
+      ],
+      "image": "assets/images/snow-ball-crunch.webp",
+      "imageSource": "https://toctoys.com/wp-content/uploads/2026/05/Schylling-2026-Catalogue-FLIPPINGBOOK_.pdf",
+      "imageNote": "Product photo cropped from a Schylling NeeDoh catalogue. The 2026 book is the file used when the toy is in both.",
+      "placeholder": false,
+      "fictional": false
+    },
+    {
+      "id": "cool-cane",
+      "name": "Squishmas Cool Cane",
+      "category": "Squishmas",
+      "rarity": "Uncommon",
+      "rarityWhy": "A holiday pack on Schylling.com and in the 2026 catalogue. The cane is the package.",
+      "year": "2025",
+      "size": "The cane pack is 323.9 x 133.4 x 69.9 mm",
+      "texture": "Soft dough Teenies",
+      "feature": "Five Teenies tucked in a candy-cane pack",
+      "colors": "Pink and green",
+      "description": "A candy cane you open. Inside are five tiny NeeDohs in pink and green.",
+      "where": [
+        "Schylling.com",
+        "Toy shops that carry Schylling"
+      ],
+      "sources": [
+        "cat2026",
+        "brand",
+        "stormberry",
+        "tracker"
+      ],
+      "note": "Item code SYSQMCC25. The 25 is the season code. Stormberry says five Teenies.",
+      "unknown": [],
+      "image": "assets/images/cool-cane.webp",
+      "imageSource": "https://toctoys.com/wp-content/uploads/2026/05/Schylling-2026-Catalogue-FLIPPINGBOOK_.pdf",
+      "imageNote": "Product photo cropped from the Schylling 2026 NeeDoh catalogue PDF.",
+      "placeholder": false,
+      "fictional": false
+    },
+    {
+      "id": "ginger-glowman",
+      "name": "Ginger Glowman",
+      "category": "Squishmas",
+      "rarity": "Uncommon",
+      "rarityWhy": "On Schylling.com. A holiday glow character. NeeDohTracker says the item code is still a 2025 code.",
+      "year": "2025",
+      "size": "",
+      "texture": "Crunchy filling",
+      "feature": "Glows in the dark",
+      "colors": "Pink, purple, green",
+      "description": "A gingerbread friend in a hat and scarf. It crunches, and it glows.",
+      "where": [
+        "Schylling.com",
+        "Target",
+        "Toy shops that carry Schylling"
+      ],
+      "sources": [
+        "brand",
+        "stormberry",
+        "tracker"
+      ],
+      "note": "Crunch and glow from Stormberry. Target from NeeDohTracker. Year from the 2025 code note, not a sentence on Schylling.com.",
+      "unknown": [
+        "size"
+      ],
+      "image": "assets/placeholders/ginger-glowman.svg",
+      "imageSource": "",
+      "imageNote": "No real product photo could be downloaded. This is a drawn placeholder, not a picture of the toy.",
+      "placeholder": true,
+      "fictional": false
+    },
+    {
+      "id": "groovy-glowman",
+      "name": "Groovy the Glowman",
+      "category": "Squishmas",
+      "rarity": "Uncommon",
+      "rarityWhy": "In the 2024 catalogue as a crunchy snowman that glows.",
+      "year": "2024",
+      "size": "101.6 x 53.3 x 53.3 mm",
+      "texture": "Crunchy",
+      "feature": "Glows in the dark",
+      "colors": "Assorted. Collector lists say blue, pink, and purple",
+      "description": "A snowman that crunches like snow and glows in the dark. He wears a little top hat.",
+      "where": [
+        "Toy shops that carry Schylling",
+        "Resale"
+      ],
+      "sources": [
+        "cat2024",
+        "adventure",
+        "stormberry"
+      ],
+      "note": "Item code SQMGGM24. Stormberry also lists a jelly Glowman for 2024. That jelly one was not on this catalogue page, so it is a separate card.",
+      "unknown": [],
+      "image": "assets/images/groovy-glowman.webp",
+      "imageSource": "https://toctoys.com/wp-content/uploads/2024/02/Schylling-2024-Catalogue_APPROVED_V4_removed_compressed.pdf",
+      "imageNote": "Product photo cropped from the Schylling 2024 NeeDoh catalogue PDF.",
+      "placeholder": false,
+      "fictional": false
+    },
+    {
+      "id": "groovy-glowman-jelly",
+      "name": "Groovy the Glowman (Jelly)",
+      "category": "Squishmas",
+      "rarity": "Rare",
+      "rarityWhy": "Stormberry lists a jelly Glowman for 2024, separate from the crunchy one in the catalogue.",
+      "year": "2024",
+      "size": "",
+      "texture": "Jelly, according to the collector list",
+      "feature": "A glow snowman with a jelly fill",
+      "colors": "",
+      "description": "A Glowman filled with jelly instead of crunch. A collector list separates it from the crunchy snowman in the 2024 catalogue.",
+      "where": [
+        "Resale only"
+      ],
+      "sources": [
+        "stormberry"
+      ],
+      "note": "Single collector-list source. Not on the catalogue page we read.",
+      "unknown": [
+        "size",
+        "colors"
+      ],
+      "image": "assets/placeholders/groovy-glowman-jelly.svg",
+      "imageSource": "",
+      "imageNote": "No real product photo could be downloaded. This is a drawn placeholder, not a picture of the toy.",
+      "placeholder": true,
+      "fictional": false
+    },
+    {
+      "id": "polar-penguin",
+      "name": "Polar Glow Penguin",
+      "category": "Squishmas",
+      "rarity": "Uncommon",
+      "rarityWhy": "On Schylling.com and in the 2026 catalogue. NeeDohTracker says a 2026 solid-squish penguin (SQMPND26) is separate from a 2025 crunch penguin (SQMPND25).",
+      "year": "2026",
+      "size": "The 2026 catalogue line is about 143 x 59 x 59 mm",
+      "texture": "The 2026 catalogue penguin's fill is not printed. A crunchy penguin is also reported for 2025",
+      "feature": "A penguin in a hat and scarf. Some glow",
+      "colors": "Assorted",
+      "description": "A penguin in winter clothes. There is a glow penguin, and collectors say one year crunches like snow while a newer one is a solid squish. Check the box.",
+      "where": [
+        "Schylling.com",
+        "Toy shops that carry Schylling"
+      ],
+      "sources": [
+        "cat2026",
+        "shop14",
+        "tracker",
+        "stormberry"
+      ],
+      "note": "Item code on the 2026 catalogue page is SYSQMPND26. The crunch-versus-solid split is from NeeDohTracker and is why the texture line is cautious.",
+      "unknown": [],
+      "image": "assets/images/polar-penguin.webp",
+      "imageSource": "https://toctoys.com/wp-content/uploads/2026/05/Schylling-2026-Catalogue-FLIPPINGBOOK_.pdf",
+      "imageNote": "Product photo cropped from the Schylling 2026 NeeDoh catalogue PDF.",
+      "placeholder": false,
+      "fictional": false
+    },
+    {
+      "id": "squisher-reindoh",
+      "name": "Squisher the Reindoh",
+      "category": "Squishmas",
+      "rarity": "Uncommon",
+      "rarityWhy": "In the 2026 catalogue.",
+      "year": "2026",
+      "size": "About 143 x 59 x 59 mm",
+      "texture": "Soft dough, according to NeeDohTracker. The field guide also talks about a crunchy reindeer",
+      "feature": "A reindeer",
+      "colors": "Assorted",
+      "description": "A reindeer squish for Squishmas. One catalog says the current one is soft dough. A shop guide also describes a crunchy holiday reindeer. The box will say which you have.",
+      "where": [
+        "Schylling.com",
+        "Toy shops that carry Schylling"
+      ],
+      "sources": [
+        "cat2026",
+        "tracker",
+        "adventure"
+      ],
+      "note": "Item code SYSQMSRND26. Fill notes conflict, so both are mentioned.",
+      "unknown": [],
+      "image": "assets/images/squisher-reindoh.webp",
+      "imageSource": "https://toctoys.com/wp-content/uploads/2026/05/Schylling-2026-Catalogue-FLIPPINGBOOK_.pdf",
+      "imageNote": "Product photo cropped from the Schylling 2026 NeeDoh catalogue PDF.",
+      "placeholder": false,
+      "fictional": false
+    },
+    {
+      "id": "snow-globe-2025",
+      "name": "Squish N' Flow Snow Globe",
+      "category": "Squishmas",
+      "rarity": "Uncommon",
+      "rarityWhy": "In the 2026 catalogue with a 2025 item code, and on Schylling.com.",
+      "year": "2025",
+      "size": "88.9 x 50.8 x 69.9 mm",
+      "texture": "A soft globe with pieces that move",
+      "feature": "Squeeze and the scene inside flows. Some characters glow",
+      "colors": "Penguin, snowman, reindeer. A Santa is also listed",
+      "description": "A tiny snow globe you squish. A little character and snowflakes move inside.",
+      "where": [
+        "Schylling.com",
+        "Toy shops that carry Schylling"
+      ],
+      "sources": [
+        "cat2026",
+        "shop14",
+        "stormberry",
+        "tracker"
+      ],
+      "note": "Item code SYSQMSG25. Characters from Stormberry. Santa is on the field guide's list and might be an extra style.",
+      "unknown": [],
+      "image": "assets/images/snow-globe-2025.webp",
+      "imageSource": "https://toctoys.com/wp-content/uploads/2026/05/Schylling-2026-Catalogue-FLIPPINGBOOK_.pdf",
+      "imageNote": "Product photo cropped from the Schylling 2026 NeeDoh catalogue PDF.",
+      "placeholder": false,
+      "fictional": false
+    },
+    {
+      "id": "snow-globs-2024",
+      "name": "Snow Globs (2024)",
+      "category": "Squishmas",
+      "rarity": "Rare",
+      "rarityWhy": "In the 2024 catalogue only, item code SQMSG24. A different code from the later Squish N' Flow globe.",
+      "year": "2024",
+      "size": "63.5 x 44.5 x 44.5 mm",
+      "texture": "",
+      "feature": "3 assorted snow-glob styles",
+      "colors": "Assorted",
+      "description": "The 2024 snow globes. Three styles. The newer Squish N' Flow globe has a different item code, so this older set gets its own card.",
+      "where": [
+        "Resale only"
+      ],
+      "sources": [
+        "cat2024"
+      ],
+      "note": "Item code SQMSG24.",
+      "unknown": [
+        "texture"
+      ],
+      "image": "assets/images/snow-globs-2024.webp",
+      "imageSource": "https://toctoys.com/wp-content/uploads/2024/02/Schylling-2024-Catalogue_APPROVED_V4_removed_compressed.pdf",
+      "imageNote": "Product photo cropped from the Schylling 2024 NeeDoh catalogue PDF.",
+      "placeholder": false,
+      "fictional": false
+    },
+    {
+      "id": "advent-2024",
+      "name": "Squishmas Advent Calendar (2024)",
+      "category": "Squishmas",
+      "rarity": "Rare",
+      "rarityWhy": "In the 2024 catalogue. A finished season, so shops will not still have the same calendar.",
+      "year": "2024",
+      "size": "254 x 635 x 635 mm for the calendar",
+      "texture": "A mix of tiny squishes",
+      "feature": "24 doors, 24 tiny gifts",
+      "colors": "Holiday colors",
+      "description": "A 2024 calendar with 24 little NeeDoh surprises, one for each day you count down.",
+      "where": [
+        "Resale only"
+      ],
+      "sources": [
+        "cat2024"
+      ],
+      "note": "Item code SQMAC24.",
+      "unknown": [],
+      "image": "assets/images/advent-2024.webp",
+      "imageSource": "https://toctoys.com/wp-content/uploads/2024/02/Schylling-2024-Catalogue_APPROVED_V4_removed_compressed.pdf",
+      "imageNote": "Product photo cropped from the Schylling 2024 NeeDoh catalogue PDF.",
+      "placeholder": false,
+      "fictional": false
+    },
+    {
+      "id": "advent-2025",
+      "name": "Squishmas Advent Calendar (2025)",
+      "category": "Squishmas",
+      "rarity": "Rare",
+      "rarityWhy": "Stormberry lists a 2025 calendar between the 2024 and 2026 ones. It was not in the two PDFs we read.",
+      "year": "2025",
+      "size": "",
+      "texture": "A mix of tiny squishes",
+      "feature": "A 2025 countdown calendar",
+      "colors": "",
+      "description": "The 2025 Squishmas calendar. A collector list includes it. We did not find it in the 2024 or 2026 catalogue PDFs.",
+      "where": [
+        "Resale only"
+      ],
+      "sources": [
+        "stormberry"
+      ],
+      "note": "Single collector-list source for this year.",
+      "unknown": [
+        "size",
+        "colors"
+      ],
+      "image": "assets/placeholders/advent-2025.svg",
+      "imageSource": "",
+      "imageNote": "No real product photo could be downloaded. This is a drawn placeholder, not a picture of the toy.",
+      "placeholder": true,
+      "fictional": false
+    },
+    {
+      "id": "advent-2026",
+      "name": "Squishmas Advent Calendar (2026)",
+      "category": "Squishmas",
+      "rarity": "Uncommon",
+      "rarityWhy": "In the 2026 catalogue, marked NEW. Seasonal, so it leaves the shelf after the holidays.",
+      "year": "2026",
+      "size": "279.4 x 63.5 x 381 mm",
+      "texture": "24 different tiny squishes",
+      "feature": "24 doors",
+      "colors": "Holiday colors",
+      "description": "The new Squishmas calendar. Open a door, find a tiny squish. There are 24 of them.",
+      "where": [
+        "Schylling.com",
+        "Toy shops that carry Schylling"
+      ],
+      "sources": [
+        "cat2026",
+        "tracker"
+      ],
+      "note": "Item code SYSQMAC26. NeeDohTracker says 24 Teenies.",
+      "unknown": [],
+      "image": "assets/images/advent-2026.webp",
+      "imageSource": "https://toctoys.com/wp-content/uploads/2026/05/Schylling-2026-Catalogue-FLIPPINGBOOK_.pdf",
+      "imageNote": "Product photo cropped from the Schylling 2026 NeeDoh catalogue PDF.",
+      "placeholder": false,
+      "fictional": false
+    },
+    {
+      "id": "squishkins-2024",
+      "name": "Squishmas Squishkins (2024)",
+      "category": "Squishmas",
+      "rarity": "Rare",
+      "rarityWhy": "In the 2024 catalogue. A finished holiday set.",
+      "year": "2024",
+      "size": "160 x 119.9 x 39.9 mm for the pack",
+      "texture": "Soft dough minis",
+      "feature": "A pack of holiday characters",
+      "colors": "Assorted",
+      "description": "A 2024 pack of tiny holiday friends. The box art shows penguins and snowmen.",
+      "where": [
+        "Resale only"
+      ],
+      "sources": [
+        "cat2024",
+        "stormberry"
+      ],
+      "note": "Item code SQMSK24. Stormberry's character names (Santa, Rudy, Penny Penguin, and others) are collector-listed, not printed in the catalogue text we extracted.",
+      "unknown": [],
+      "image": "assets/images/squishkins-2024.webp",
+      "imageSource": "https://toctoys.com/wp-content/uploads/2024/02/Schylling-2024-Catalogue_APPROVED_V4_removed_compressed.pdf",
+      "imageNote": "Product photo cropped from the Schylling 2024 NeeDoh catalogue PDF.",
+      "placeholder": false,
+      "fictional": false
+    },
+    {
+      "id": "teenie-tree",
+      "name": "Squishmas Teenie Tree",
+      "category": "Squishmas",
+      "rarity": "Rare",
+      "rarityWhy": "Stormberry lists a 2023 Teenie Tree. Not in the 2024 or 2026 PDFs we used.",
+      "year": "2023",
+      "size": "",
+      "texture": "",
+      "feature": "A tree packed with Teenies",
+      "colors": "",
+      "description": "A holiday tree full of tiny NeeDohs, from a collector's 2023 list.",
+      "where": [
+        "Resale only"
+      ],
+      "sources": [
+        "stormberry"
+      ],
+      "note": "Single collector-list source.",
+      "unknown": [
+        "size",
+        "texture",
+        "colors"
+      ],
+      "image": "assets/placeholders/teenie-tree.svg",
+      "imageSource": "",
+      "imageNote": "No real product photo could be downloaded. This is a drawn placeholder, not a picture of the toy.",
+      "placeholder": true,
+      "fictional": false
+    },
+    {
+      "id": "glowy-ghost-2026",
+      "name": "Glowy Ghost (2026)",
+      "category": "Halloween",
+      "rarity": "Uncommon",
+      "rarityWhy": "In the 2026 catalogue, marked NEW, with its own item code.",
+      "year": "2026",
+      "size": "63.5 mm",
+      "texture": "Soft dough",
+      "feature": "Glows in the dark",
+      "colors": "White, green, purple, orange are listed for 2026",
+      "description": "A ghost that glows. The 2026 ones come in spooky colors and funny faces.",
+      "where": [
+        "Toy shops that carry Schylling"
+      ],
+      "sources": [
+        "cat2026",
+        "stormberry"
+      ],
+      "note": "Item code SYNDWGG26. Colors from Stormberry's 2026 note.",
+      "unknown": [],
+      "image": "assets/images/glowy-ghost-2026.webp",
+      "imageSource": "https://toctoys.com/wp-content/uploads/2026/05/Schylling-2026-Catalogue-FLIPPINGBOOK_.pdf",
+      "imageNote": "Product photo cropped from the Schylling 2026 NeeDoh catalogue PDF.",
+      "placeholder": false,
+      "fictional": false
+    },
+    {
+      "id": "groovy-ghosts-2024",
+      "name": "Groovy Ghosts (2024)",
+      "category": "Halloween",
+      "rarity": "Rare",
+      "rarityWhy": "In the 2024 catalogue as NEEDOH GROOVY GHOSTS, item code NDWGG24. A past Halloween set.",
+      "year": "2024",
+      "size": "63.5 mm",
+      "texture": "Soft dough",
+      "feature": "Glows in the dark",
+      "colors": "Assorted",
+      "description": "The 2024 glowing ghosts. Assorted faces, and they glow. A different item code from the 2026 Glowy Ghost.",
+      "where": [
+        "Resale only"
+      ],
+      "sources": [
+        "cat2024"
+      ],
+      "note": "Item code NDWGG24.",
+      "unknown": [],
+      "image": "assets/images/groovy-ghosts-2024.webp",
+      "imageSource": "https://toctoys.com/wp-content/uploads/2024/02/Schylling-2024-Catalogue_APPROVED_V4_removed_compressed.pdf",
+      "imageNote": "Product photo cropped from the Schylling 2024 NeeDoh catalogue PDF.",
+      "placeholder": false,
+      "fictional": false
+    },
+    {
+      "id": "glowy-ghost-friends",
+      "name": "Glowy Ghost Friends",
+      "category": "Halloween",
+      "rarity": "Rare",
+      "rarityWhy": "Stormberry and the shop guide describe costumed ghosts: Wednesday, pirate, vampire, and Frankenstein's monster. Not in the catalogue PDF.",
+      "year": "2026",
+      "size": "",
+      "texture": "Soft dough",
+      "feature": "Glow ghosts in costumes",
+      "colors": "",
+      "description": "Glowy ghosts dressed up. A shop guide says the costumes include a pirate, a vampire, Wednesday, and Frankenstein's monster.",
+      "where": [
+        "Specialty toy shops"
+      ],
+      "sources": [
+        "stormberry",
+        "adventure"
+      ],
+      "note": "Character names are from those two secondary sources, not a Schylling caption.",
+      "unknown": [
+        "size",
+        "colors"
+      ],
+      "image": "assets/placeholders/glowy-ghost-friends.svg",
+      "imageSource": "",
+      "imageNote": "No real product photo could be downloaded. This is a drawn placeholder, not a picture of the toy.",
+      "placeholder": true,
+      "fictional": false
+    },
+    {
+      "id": "jack-glow-2026",
+      "name": "Jack-Glow Lantern (2026)",
+      "category": "Halloween",
+      "rarity": "Uncommon",
+      "rarityWhy": "In the 2026 catalogue, marked NEW.",
+      "year": "2026",
+      "size": "63.5 mm",
+      "texture": "Soft dough",
+      "feature": "A pumpkin that glows",
+      "colors": "Pink, green, orange, purple",
+      "description": "A pumpkin lantern you can squish. It glows, and the faces are a little silly and a little spooky.",
+      "where": [
+        "Toy shops that carry Schylling"
+      ],
+      "sources": [
+        "cat2026",
+        "stormberry"
+      ],
+      "note": "Item code SYNDWJGL26. Colors from Stormberry.",
+      "unknown": [],
+      "image": "assets/images/jack-glow-2026.webp",
+      "imageSource": "https://toctoys.com/wp-content/uploads/2026/05/Schylling-2026-Catalogue-FLIPPINGBOOK_.pdf",
+      "imageNote": "Product photo cropped from the Schylling 2026 NeeDoh catalogue PDF.",
+      "placeholder": false,
+      "fictional": false
+    },
+    {
+      "id": "jack-glow-2024",
+      "name": "Jack-Glow Lantern (2024)",
+      "category": "Halloween",
+      "rarity": "Rare",
+      "rarityWhy": "In the 2024 catalogue, item code NDWJGL24. The shop guide says the US set was orange with different faces.",
+      "year": "2024",
+      "size": "63.5 mm",
+      "texture": "Soft dough",
+      "feature": "Glows in the dark",
+      "colors": "Assorted faces. The shop guide says the US ones were orange",
+      "description": "The 2024 glowing pumpkins. Different faces, same squish, and they glow.",
+      "where": [
+        "Resale only"
+      ],
+      "sources": [
+        "cat2024",
+        "adventure"
+      ],
+      "note": "Item code NDWJGL24.",
+      "unknown": [],
+      "image": "assets/images/jack-glow-2024.webp",
+      "imageSource": "https://toctoys.com/wp-content/uploads/2024/02/Schylling-2024-Catalogue_APPROVED_V4_removed_compressed.pdf",
+      "imageNote": "Product photo cropped from the Schylling 2024 NeeDoh catalogue PDF.",
+      "placeholder": false,
+      "fictional": false
+    },
+    {
+      "id": "teenie-jack-glow",
+      "name": "Teenie Jack-Glow Lanterns",
+      "category": "Halloween",
+      "rarity": "Uncommon",
+      "rarityWhy": "In the 2026 catalogue, marked NEW.",
+      "year": "2026",
+      "size": "The pack is 63.5 x 101.6 x 38.1 mm",
+      "texture": "Soft dough",
+      "feature": "Three tiny glowing pumpkins",
+      "colors": "Orange in the catalogue photo",
+      "description": "A pack of tiny glowing pumpkins.",
+      "where": [
+        "Toy shops that carry Schylling"
+      ],
+      "sources": [
+        "cat2026"
+      ],
+      "note": "Item code SYNDWTNJGL26.",
+      "unknown": [],
+      "image": "assets/images/teenie-jack-glow.webp",
+      "imageSource": "https://toctoys.com/wp-content/uploads/2026/05/Schylling-2026-Catalogue-FLIPPINGBOOK_.pdf",
+      "imageNote": "Product photo cropped from the Schylling 2026 NeeDoh catalogue PDF.",
+      "placeholder": false,
+      "fictional": false
+    },
+    {
+      "id": "baby-boos",
+      "name": "Baby Boos",
+      "category": "Halloween",
+      "rarity": "Uncommon",
+      "rarityWhy": "In the 2026 catalogue, marked NEW.",
+      "year": "2026",
+      "size": "The pack is 63.5 x 101.6 x 38.1 mm",
+      "texture": "Soft dough",
+      "feature": "Tiny glowing ghosts",
+      "colors": "Orange, purple, green",
+      "description": "Baby ghosts that glow. A little pack of them.",
+      "where": [
+        "Toy shops that carry Schylling"
+      ],
+      "sources": [
+        "cat2026",
+        "stormberry"
+      ],
+      "note": "Item code SYNDWBB26. Colors from Stormberry.",
+      "unknown": [],
+      "image": "assets/images/baby-boos.webp",
+      "imageSource": "https://toctoys.com/wp-content/uploads/2026/05/Schylling-2026-Catalogue-FLIPPINGBOOK_.pdf",
+      "imageNote": "Product photo cropped from the Schylling 2026 NeeDoh catalogue PDF.",
+      "placeholder": false,
+      "fictional": false
+    },
+    {
+      "id": "spooky-squishkins",
+      "name": "Spooky Squishkins",
+      "category": "Halloween",
+      "rarity": "Rare",
+      "rarityWhy": "In the 2024 catalogue (the code ends in 23). A past Halloween house.",
+      "year": "2023",
+      "size": "116.8 x 38.1 x 116.8 mm",
+      "texture": "Soft dough minis",
+      "feature": "Four characters in a haunted house: Monster Mush, Gooey Ghost, Count Dohcula, and Frankensquish",
+      "colors": "Assorted",
+      "description": "A tiny haunted house with four squishy monsters. Their names are on the 2024 catalogue: Monster Mush, Gooey Ghost, Count Dohcula, and Frankensquish.",
+      "where": [
+        "Resale only"
+      ],
+      "sources": [
+        "cat2024"
+      ],
+      "note": "Item code SYNDWSKHH23. The 23 in the code is why the year is 2023 even though the page is in the 2024 book.",
+      "unknown": [],
+      "image": "assets/images/spooky-squishkins.webp",
+      "imageSource": "https://toctoys.com/wp-content/uploads/2024/02/Schylling-2024-Catalogue_APPROVED_V4_removed_compressed.pdf",
+      "imageNote": "Product photo cropped from the Schylling 2024 NeeDoh catalogue PDF.",
+      "placeholder": false,
+      "fictional": false
+    },
+    {
+      "id": "monster-mush-countdown",
+      "name": "Monster Mush Countdown",
+      "category": "Halloween",
+      "rarity": "Rare",
+      "rarityWhy": "Stormberry lists a Target Halloween countdown, separate from the older Spooky Squishkins house.",
+      "year": "",
+      "size": "",
+      "texture": "A mix of tiny squishes",
+      "feature": "A countdown calendar",
+      "colors": "",
+      "description": "A Halloween countdown that collectors say is at Target. It is not the same box as the older Spooky Squishkins house.",
+      "where": [
+        "Target"
+      ],
+      "sources": [
+        "stormberry"
+      ],
+      "note": "Single collector-list source. Year not given.",
+      "unknown": [
+        "year",
+        "size",
+        "colors"
+      ],
+      "image": "assets/placeholders/monster-mush-countdown.svg",
+      "imageSource": "",
+      "imageNote": "No real product photo could be downloaded. This is a drawn placeholder, not a picture of the toy.",
+      "placeholder": true,
+      "fictional": false
+    },
+    {
+      "id": "aldi-pale-jack",
+      "name": "Pale Jack-Glow Lantern (ALDI)",
+      "category": "Halloween",
+      "rarity": "Rare",
+      "rarityWhy": "Stormberry lists an ALDI-only pale pumpkin for 2026.",
+      "year": "2026",
+      "size": "",
+      "texture": "",
+      "feature": "A paler pumpkin than the usual Jack-Glow",
+      "colors": "Pale",
+      "description": "A pale glowing pumpkin that a collector list says is an ALDI find.",
+      "where": [
+        "ALDI"
+      ],
+      "sources": [
+        "stormberry"
+      ],
+      "note": "Single collector-list source.",
+      "unknown": [
+        "size",
+        "texture"
+      ],
+      "image": "assets/placeholders/aldi-pale-jack.svg",
+      "imageSource": "",
+      "imageNote": "No real product photo could be downloaded. This is a drawn placeholder, not a picture of the toy.",
+      "placeholder": true,
+      "fictional": false
+    },
+    {
+      "id": "aldi-white-ghost",
+      "name": "White Glowy Ghost (ALDI)",
+      "category": "Halloween",
+      "rarity": "Rare",
+      "rarityWhy": "Stormberry lists a white ghost as an ALDI 2026 find, separate from the colorful Glowy Ghost assortment.",
+      "year": "2026",
+      "size": "",
+      "texture": "Soft dough",
+      "feature": "A white glow ghost",
+      "colors": "White",
+      "description": "A white glowing ghost. Collectors say this color is an ALDI one.",
+      "where": [
+        "ALDI"
+      ],
+      "sources": [
+        "stormberry"
+      ],
+      "note": "Single collector-list source.",
+      "unknown": [
+        "size"
+      ],
+      "image": "assets/placeholders/aldi-white-ghost.svg",
+      "imageSource": "",
+      "imageNote": "No real product photo could be downloaded. This is a drawn placeholder, not a picture of the toy.",
+      "placeholder": true,
+      "fictional": false
+    },
+    {
+      "id": "chicka-deedos",
+      "name": "Chicka Deedos",
+      "category": "Spring & Hearts",
+      "rarity": "Uncommon",
+      "rarityWhy": "In the 2026 catalogue. The item code ends in 24.",
+      "year": "2024",
+      "size": "82.6 x 59.7 x 59.7 mm",
+      "texture": "Soft dough",
+      "feature": "A chick in an eggshell you can swap",
+      "colors": "Pink, yellow, blue",
+      "description": "A chick sitting in a colorful egg. The shell and the chick are part of the squishy fun.",
+      "where": [
+        "Toy shops that carry Schylling"
+      ],
+      "sources": [
+        "cat2026",
+        "adventure",
+        "stormberry"
+      ],
+      "note": "Item code SYCDDND24. Stormberry also says Chickadeedoos 'Out 2023'. The code we can verify ends in 24, so the card year is 2024.",
+      "unknown": [],
+      "image": "assets/images/chicka-deedos.webp",
+      "imageSource": "https://toctoys.com/wp-content/uploads/2026/05/Schylling-2026-Catalogue-FLIPPINGBOOK_.pdf",
+      "imageNote": "Product photo cropped from the Schylling 2026 NeeDoh catalogue PDF.",
+      "placeholder": false,
+      "fictional": false
+    },
+    {
+      "id": "dippin-dazzler",
+      "name": "Dippin' Dazzler Eggs",
+      "category": "Spring & Hearts",
+      "rarity": "Uncommon",
+      "rarityWhy": "Marked NEW in the 2026 catalogue. The page says the color changes when dipped in water.",
+      "year": "2026",
+      "size": "About 70 x 55 x 55 mm",
+      "texture": "",
+      "feature": "Dip it in water and the color appears",
+      "colors": "Named styles include Smooth Sunrise, Groovy Haze, and Nosey Posey Pink",
+      "description": "A white egg that fills in with color when you dip it in water. It is like dyeing an egg, but the egg is a squish.",
+      "where": [
+        "Toy shops that carry Schylling"
+      ],
+      "sources": [
+        "cat2026",
+        "adventure",
+        "tracker"
+      ],
+      "note": "Item code SYDDEND26. Style names from the field guide and NeeDohTracker, not from the short catalogue caption.",
+      "unknown": [
+        "texture"
+      ],
+      "image": "assets/images/dippin-dazzler.webp",
+      "imageSource": "https://toctoys.com/wp-content/uploads/2026/05/Schylling-2026-Catalogue-FLIPPINGBOOK_.pdf",
+      "imageNote": "Product photo cropped from the Schylling 2026 NeeDoh catalogue PDF.",
+      "placeholder": false,
+      "fictional": false
+    },
+    {
+      "id": "jelly-hops",
+      "name": "Jelly Hops",
+      "category": "Spring & Hearts",
+      "rarity": "Uncommon",
+      "rarityWhy": "In the 2026 catalogue. The page says scented.",
+      "year": "2026",
+      "size": "About 70 x 55 x 55 mm",
+      "texture": "Solid squish",
+      "feature": "A bunny that smells fruity",
+      "colors": "Pink, yellow, blue, purple. Scents named include strawberry, banana, and blue raspberry",
+      "description": "A sparkly bunny that smells like candy. The 2026 catalogue marks it scented.",
+      "where": [
+        "Toy shops that carry Schylling"
+      ],
+      "sources": [
+        "cat2026",
+        "tracker",
+        "stormberry"
+      ],
+      "note": "Item code SYJHND26. Scent names are from NeeDohTracker.",
+      "unknown": [],
+      "image": "assets/images/jelly-hops.webp",
+      "imageSource": "https://toctoys.com/wp-content/uploads/2026/05/Schylling-2026-Catalogue-FLIPPINGBOOK_.pdf",
+      "imageNote": "Product photo cropped from the Schylling 2026 NeeDoh catalogue PDF.",
+      "placeholder": false,
+      "fictional": false
+    },
+    {
+      "id": "squeeze-hearts",
+      "name": "Squeeze Hearts",
+      "category": "Spring & Hearts",
+      "rarity": "Uncommon",
+      "rarityWhy": "In the 2026 catalogue with a 2024 item code, and described as conversation-heart style by the shop guide.",
+      "year": "2024",
+      "size": "82.6 x 87.6 x 38.1 mm",
+      "texture": "",
+      "feature": "A heart with a kind message",
+      "colors": "Pink, blue, and other brights",
+      "description": "A squishy conversation heart. It has a friendly saying on it.",
+      "where": [
+        "Toy shops that carry Schylling"
+      ],
+      "sources": [
+        "cat2026",
+        "adventure",
+        "stormberry"
+      ],
+      "note": "Item code SYSQHND24. Message style is from the field guide.",
+      "unknown": [
+        "texture"
+      ],
+      "image": "assets/images/squeeze-hearts.webp",
+      "imageSource": "https://toctoys.com/wp-content/uploads/2026/05/Schylling-2026-Catalogue-FLIPPINGBOOK_.pdf",
+      "imageNote": "Product photo cropped from the Schylling 2026 NeeDoh catalogue PDF.",
+      "placeholder": false,
+      "fictional": false
+    },
+    {
+      "id": "teenie-sparkle-hearts",
+      "name": "Teenie Sparkle Hearts",
+      "category": "Spring & Hearts",
+      "rarity": "Uncommon",
+      "rarityWhy": "Marked NEW in the 2026 catalogue.",
+      "year": "2026",
+      "size": "About 45 x 50 x 25 mm each. The pack is larger",
+      "texture": "Solid squish",
+      "feature": "Three sparkly mini hearts",
+      "colors": "Pink, blue, purple",
+      "description": "Three tiny sparkly hearts with sweet sayings.",
+      "where": [
+        "Toy shops that carry Schylling"
+      ],
+      "sources": [
+        "cat2026",
+        "tracker"
+      ],
+      "note": "Item code SYSPHTND26.",
+      "unknown": [],
+      "image": "assets/images/teenie-sparkle-hearts.webp",
+      "imageSource": "https://toctoys.com/wp-content/uploads/2026/05/Schylling-2026-Catalogue-FLIPPINGBOOK_.pdf",
+      "imageNote": "Product photo cropped from the Schylling 2026 NeeDoh catalogue PDF.",
+      "placeholder": false,
+      "fictional": false
+    },
+    {
+      "id": "color-change-heart",
+      "name": "Color Change Squeeze Heart",
+      "category": "Spring & Hearts",
+      "rarity": "Uncommon",
+      "rarityWhy": "On Schylling.com. Stormberry dates it to 2025.",
+      "year": "2025",
+      "size": "",
+      "texture": "Soft dough",
+      "feature": "A heart that changes color when you squeeze",
+      "colors": "Pink to purple, blue to green, purple to orange",
+      "description": "A heart that changes color in your hand. Some have little sayings on them.",
+      "where": [
+        "Schylling.com",
+        "Toy shops that carry Schylling"
+      ],
+      "sources": [
+        "brand",
+        "stormberry"
+      ],
+      "note": "Year and color pairs are from Stormberry, not a sentence we captured on the product page.",
+      "unknown": [
+        "size"
+      ],
+      "image": "assets/placeholders/color-change-heart.svg",
+      "imageSource": "",
+      "imageNote": "No real product photo could be downloaded. This is a drawn placeholder, not a picture of the toy.",
+      "placeholder": true,
+      "fictional": false
+    },
+    {
+      "id": "good-vibes",
+      "name": "Good Vibes Only",
+      "category": "Spring & Hearts",
+      "rarity": "Uncommon",
+      "rarityWhy": "On Schylling.com and in the 2026 catalogue.",
+      "year": "",
+      "size": "82.6 x 38.1 x 87.6 mm",
+      "texture": "Solid squish",
+      "feature": "A heart with a happy phrase",
+      "colors": "Purple, orange, green. The phrases change",
+      "description": "A solid heart with a good-vibes saying on it.",
+      "where": [
+        "Schylling.com",
+        "Toy shops that carry Schylling"
+      ],
+      "sources": [
+        "cat2026",
+        "brand",
+        "shop14",
+        "stormberry"
+      ],
+      "note": "Item code SYGVND. Phrases vary, so no single slogan is promised.",
+      "unknown": [
+        "year"
+      ],
+      "image": "assets/images/good-vibes.webp",
+      "imageSource": "https://toctoys.com/wp-content/uploads/2026/05/Schylling-2026-Catalogue-FLIPPINGBOOK_.pdf",
+      "imageNote": "Product photo cropped from the Schylling 2026 NeeDoh catalogue PDF.",
+      "placeholder": false,
+      "fictional": false
+    },
+    {
+      "id": "golden-egg-hunt",
+      "name": "Golden Egg Hunt",
+      "category": "Spring & Hearts",
+      "rarity": "Uncommon",
+      "rarityWhy": "Marked NEW in the 2026 catalogue. The page says 10 squishy surprises.",
+      "year": "2026",
+      "size": "The box is about 201 x 196 x 64 mm",
+      "texture": "A mix",
+      "feature": "10 tiny squishy surprises in an egg-hunt box",
+      "colors": "Spring colors",
+      "description": "A box of 10 little spring squishes, with bunnies, eggs, and a golden one.",
+      "where": [
+        "Toy shops that carry Schylling"
+      ],
+      "sources": [
+        "cat2026",
+        "stormberry"
+      ],
+      "note": "Item code SYGEHND26.",
+      "unknown": [],
+      "image": "assets/images/golden-egg-hunt.webp",
+      "imageSource": "https://toctoys.com/wp-content/uploads/2026/05/Schylling-2026-Catalogue-FLIPPINGBOOK_.pdf",
+      "imageNote": "Product photo cropped from the Schylling 2026 NeeDoh catalogue PDF.",
+      "placeholder": false,
+      "fictional": false
+    },
+    {
+      "id": "bunnies-chicks",
+      "name": "Bunnies & Chicks",
+      "category": "Spring & Hearts",
+      "rarity": "Uncommon",
+      "rarityWhy": "On the Schylling brand page. Stormberry describes the set.",
+      "year": "2025",
+      "size": "",
+      "texture": "Soft dough",
+      "feature": "A bunny or chick on an eggshell stand",
+      "colors": "Pink, blue, and yellow animals. Purple, blue, or pink shells",
+      "description": "A little bunny or chick standing on an eggshell. A spring set.",
+      "where": [
+        "Schylling.com",
+        "Toy shops that carry Schylling"
+      ],
+      "sources": [
+        "brand",
+        "stormberry"
+      ],
+      "note": "Year and the color description are from Stormberry.",
+      "unknown": [
+        "size"
+      ],
+      "image": "assets/placeholders/bunnies-chicks.svg",
+      "imageSource": "",
+      "imageNote": "No real product photo could be downloaded. This is a drawn placeholder, not a picture of the toy.",
+      "placeholder": true,
+      "fictional": false
+    },
+    {
+      "id": "heartstrings",
+      "name": "Heartstrings",
+      "category": "Spring & Hearts",
+      "rarity": "Rare",
+      "rarityWhy": "Stormberry files it under rare, year 2023. The shop guide says they are noodles that relax into a heart.",
+      "year": "2023",
+      "size": "",
+      "texture": "Stretchy noodles",
+      "feature": "Pull them, and they settle into a heart",
+      "colors": "",
+      "description": "Stretchy strings that fall into a heart shape when you let go. Collectors say this 2023 one is hard to find.",
+      "where": [
+        "Resale only"
+      ],
+      "sources": [
+        "stormberry",
+        "adventure"
+      ],
+      "note": "",
+      "unknown": [
+        "size",
+        "colors"
+      ],
+      "image": "assets/placeholders/heartstrings.svg",
+      "imageSource": "",
+      "imageNote": "No real product photo could be downloaded. This is a drawn placeholder, not a picture of the toy.",
+      "placeholder": true,
+      "fictional": false
+    },
+    {
+      "id": "honey-hugs",
+      "name": "Honey Hugs Bears",
+      "category": "Spring & Hearts",
+      "rarity": "Uncommon",
+      "rarityWhy": "The shop guide describes dough bears holding hearts. Stormberry says an ALDI swirl bear.",
+      "year": "",
+      "size": "",
+      "texture": "Soft dough",
+      "feature": "A bear holding a heart with a message",
+      "colors": "Pink, purple, blue, orange",
+      "description": "A bear hugging a little heart. The heart has a sweet note on it, and you can take it out.",
+      "where": [
+        "ALDI",
+        "Specialty toy shops"
+      ],
+      "sources": [
+        "adventure",
+        "stormberry"
+      ],
+      "note": "ALDI is specifically Stormberry's note for a Swirl Honey Hugs Bear. The wider bear line is from the field guide. Message text on the hearts is not copied here.",
+      "unknown": [
+        "year",
+        "size"
+      ],
+      "image": "assets/placeholders/honey-hugs.svg",
+      "imageSource": "",
+      "imageNote": "No real product photo could be downloaded. This is a drawn placeholder, not a picture of the toy.",
+      "placeholder": true,
+      "fictional": false
+    },
+    {
+      "id": "hoppity-doos",
+      "name": "Hoppity Doos",
+      "category": "Spring & Hearts",
+      "rarity": "Rare",
+      "rarityWhy": "On Stormberry's rare list and in the shop guide. Not in the catalogues reviewed.",
+      "year": "",
+      "size": "",
+      "texture": "",
+      "feature": "Bunnies and eggs that split apart",
+      "colors": "Pink, yellow, blue",
+      "description": "A bunny-and-egg spring toy that collectors now mostly find secondhand.",
+      "where": [
+        "Resale only"
+      ],
+      "sources": [
+        "stormberry",
+        "adventure"
+      ],
+      "note": "",
+      "unknown": [
+        "year",
+        "size",
+        "texture"
+      ],
+      "image": "assets/placeholders/hoppity-doos.svg",
+      "imageSource": "",
+      "imageNote": "No real product photo could be downloaded. This is a drawn placeholder, not a picture of the toy.",
+      "placeholder": true,
+      "fictional": false
+    },
+    {
+      "id": "squeezter-eggs",
+      "name": "Squeezter Eggs",
+      "category": "Spring & Hearts",
+      "rarity": "Super Rare",
+      "rarityWhy": "On Stormberry's rare list. The shop guide says they are water-filled eggs with a chick or bunny inside. Reddit collectors also name them as rare.",
+      "year": "",
+      "size": "",
+      "texture": "Water, with a tiny animal moving inside, according to the shop guide",
+      "feature": "An egg you squeeze so the chick or bunny swishes around",
+      "colors": "Pink, orange, blue, green",
+      "description": "A clear egg with a tiny chick or bunny floating inside. Squeeze and it swishes. Collectors say these are tough to find.",
+      "where": [
+        "Resale only"
+      ],
+      "sources": [
+        "stormberry",
+        "adventure",
+        "reddit"
+      ],
+      "note": "",
+      "unknown": [
+        "year",
+        "size"
+      ],
+      "image": "assets/placeholders/squeezter-eggs.svg",
+      "imageSource": "",
+      "imageNote": "No real product photo could be downloaded. This is a drawn placeholder, not a picture of the toy.",
+      "placeholder": true,
+      "fictional": false
+    },
+    {
+      "id": "magic-color-egg",
+      "name": "Magic Color Egg",
+      "category": "Spring & Hearts",
+      "rarity": "Uncommon",
+      "rarityWhy": "Stormberry lists it for 2024. Not in the catalogue PDFs we read.",
+      "year": "2024",
+      "size": "",
+      "texture": "",
+      "feature": "An egg that changes color",
+      "colors": "Pink, purple, blue",
+      "description": "A spring egg that changes color. A collector list dates it to 2024.",
+      "where": [
+        "Specialty toy shops",
+        "Resale"
+      ],
+      "sources": [
+        "stormberry"
+      ],
+      "note": "Single collector-list source.",
+      "unknown": [
+        "size",
+        "texture"
+      ],
+      "image": "assets/placeholders/magic-color-egg.svg",
+      "imageSource": "",
+      "imageNote": "No real product photo could be downloaded. This is a drawn placeholder, not a picture of the toy.",
+      "placeholder": true,
+      "fictional": false
+    },
+    {
+      "id": "mellow-marble-eggs",
+      "name": "Mellow Marble Eggs",
+      "category": "Spring & Hearts",
+      "rarity": "Rare",
+      "rarityWhy": "Stormberry lists them as a rare 2023 find. NeeDohTracker also names a Mellow Marble Egg.",
+      "year": "2023",
+      "size": "",
+      "texture": "A marble-style squish",
+      "feature": "Egg-shaped marble swirls",
+      "colors": "Pink, blue, yellow",
+      "description": "Marble-swirl eggs from an older spring. Collectors file them with the harder finds.",
+      "where": [
+        "Resale only"
+      ],
+      "sources": [
+        "stormberry",
+        "tracker"
+      ],
+      "note": "",
+      "unknown": [
+        "size"
+      ],
+      "image": "assets/placeholders/mellow-marble-eggs.svg",
+      "imageSource": "",
+      "imageNote": "No real product photo could be downloaded. This is a drawn placeholder, not a picture of the toy.",
+      "placeholder": true,
+      "fictional": false
+    },
+    {
+      "id": "swirlie-egg",
+      "name": "Swirlie Egg",
+      "category": "Spring & Hearts",
+      "rarity": "Uncommon",
+      "rarityWhy": "Named by the shop guide and NeeDohTracker. Not in the catalogues reviewed.",
+      "year": "",
+      "size": "",
+      "texture": "A marbled squish",
+      "feature": "An egg with a swirl",
+      "colors": "Pink, orange, purple",
+      "description": "An egg-shaped squish with a marble swirl.",
+      "where": [
+        "Specialty toy shops"
+      ],
+      "sources": [
+        "adventure",
+        "tracker"
+      ],
+      "note": "",
+      "unknown": [
+        "year",
+        "size"
+      ],
+      "image": "assets/placeholders/swirlie-egg.svg",
+      "imageSource": "",
+      "imageNote": "No real product photo could be downloaded. This is a drawn placeholder, not a picture of the toy.",
+      "placeholder": true,
+      "fictional": false
+    },
+    {
+      "id": "panic-pete",
+      "name": "Panic Pete",
+      "category": "Characters",
+      "rarity": "Uncommon",
+      "rarityWhy": "In the 2024 and 2026 catalogues and on Schylling.com. Schylling's classic character, in NeeDoh colors.",
+      "year": "",
+      "size": "About 114 mm tall and 63.5 mm wide",
+      "texture": "Air-filled",
+      "feature": "Eyes, ears, and nose pop out when you squeeze his tummy",
+      "colors": "Green, orange, pink, purple. A tan is also listed",
+      "description": "Squeeze his tummy and his eyes, ears, and nose pop out. He is the classic Panic Pete, in groovy colors.",
+      "where": [
+        "Schylling.com",
+        "Toy shops that carry Schylling"
+      ],
+      "sources": [
+        "cat2026",
+        "cat2024",
+        "shop14",
+        "adventure"
+      ],
+      "note": "Item code SYNDPPST. Tan is from the field guide and was not in the short catalogue color line.",
+      "unknown": [
+        "year"
+      ],
+      "image": "assets/images/panic-pete.webp",
+      "imageSource": "https://toctoys.com/wp-content/uploads/2026/05/Schylling-2026-Catalogue-FLIPPINGBOOK_.pdf",
+      "imageNote": "Product photo cropped from a Schylling NeeDoh catalogue. The 2026 book is the file used when the toy is in both.",
+      "placeholder": false,
+      "fictional": false
+    },
+    {
+      "id": "booper",
+      "name": "Booper",
+      "category": "Characters",
+      "rarity": "Uncommon",
+      "rarityWhy": "In the 2024 and 2026 catalogues.",
+      "year": "",
+      "size": "About 205 x 85 x 180 mm for the launcher",
+      "texture": "The launcher is a squishy pump. The balls are fuzzy",
+      "feature": "Comes with four fuzzy balls you can launch",
+      "colors": "Blue, orange, pink, purple",
+      "description": "A squishy launcher with four fuzzy pom-poms. Squeeze it to play, or just squish the pump.",
+      "where": [
+        "Toy shops that carry Schylling"
+      ],
+      "sources": [
+        "cat2026",
+        "cat2024",
+        "stormberry"
+      ],
+      "note": "Item code SYBND. Colors from Stormberry.",
+      "unknown": [
+        "year"
+      ],
+      "image": "assets/images/booper.webp",
+      "imageSource": "https://toctoys.com/wp-content/uploads/2026/05/Schylling-2026-Catalogue-FLIPPINGBOOK_.pdf",
+      "imageNote": "Product photo cropped from a Schylling NeeDoh catalogue. The 2026 book is the file used when the toy is in both.",
+      "placeholder": false,
+      "fictional": false
+    },
+    {
+      "id": "dohjees-1",
+      "name": "Dohjees Series 1",
+      "category": "Characters",
+      "rarity": "Super Rare",
+      "rarityWhy": "Stormberry says Series 1 came out in 2021 and is a rare, finished blind-box line. The 2024 catalogue page we have is Series 2 (SYDJ2), so this card has no photo of Series 1.",
+      "year": "2021",
+      "size": "About 70 mm tall",
+      "texture": "A tiny dough glob in a costume",
+      "feature": "Blind-box characters. The little glob can be popped into a different costume",
+      "colors": "Assorted",
+      "description": "Tiny costumed buddies from the first Dohjees blind boxes. A little Groovy Glob hides inside, and you can move it to another costume. Collectors say Series 1 is done.",
+      "where": [
+        "Resale only"
+      ],
+      "sources": [
+        "stormberry",
+        "adventure",
+        "wikihow"
+      ],
+      "note": "Year 2021 is Stormberry's date. The costume-swap play is from the field guide. Series 1 character names were not printed, so they are not invented here.",
+      "unknown": [],
+      "image": "assets/placeholders/dohjees-1.svg",
+      "imageSource": "",
+      "imageNote": "No real product photo could be downloaded. This is a drawn placeholder, not a picture of the toy.",
+      "placeholder": true,
+      "fictional": false
+    },
+    {
+      "id": "dohjees-2",
+      "name": "Dohjees Series 2",
+      "category": "Characters",
+      "rarity": "Rare",
+      "rarityWhy": "In the 2024 catalogue as SYDJ2, with glow styles. A blind box, and that season is over, so leftover stock is the exception.",
+      "year": "2024",
+      "size": "About 69.9 x 69.8 x 74.9 mm",
+      "texture": "A tiny dough glob in a costume",
+      "feature": "Some glow in the dark. The glob can move between costumes",
+      "colors": "Assorted",
+      "description": "The second set of Dohjees. Each box hides a tiny costumed friend, and some glow. You will not know which one until you open it.",
+      "where": [
+        "Resale",
+        "Specialty toy shops"
+      ],
+      "sources": [
+        "cat2024",
+        "stormberry",
+        "adventure"
+      ],
+      "note": "A shop guide lists many Series 2 names. Schylling's catalogue page does not print that name list, so the names are not shown as official.",
+      "unknown": [],
+      "image": "assets/images/dohjees-2.webp",
+      "imageSource": "https://toctoys.com/wp-content/uploads/2024/02/Schylling-2024-Catalogue_APPROVED_V4_removed_compressed.pdf",
+      "imageNote": "Product photo cropped from the Schylling 2024 NeeDoh catalogue PDF.",
+      "placeholder": false,
+      "fictional": false
+    },
+    {
+      "id": "dohjees-3pack",
+      "name": "Dohjees 3-Pack",
+      "category": "Characters",
+      "rarity": "Rare",
+      "rarityWhy": "In the 2024 catalogue, marked with new window packaging. A multipack of the blind-box buddies.",
+      "year": "2024",
+      "size": "68.6 x 190.5 x 63.5 mm",
+      "texture": "Tiny dough globs in costumes",
+      "feature": "Three Dohjees in one pack. The catalogue says some glow",
+      "colors": "Assorted",
+      "description": "Three Dohjees in one window pack, so you can see some of the color before you open them.",
+      "where": [
+        "Specialty toy shops",
+        "Resale"
+      ],
+      "sources": [
+        "cat2024",
+        "stormberry"
+      ],
+      "note": "Item code SYDJPK3.",
+      "unknown": [],
+      "image": "assets/images/dohjees-3pack.webp",
+      "imageSource": "https://toctoys.com/wp-content/uploads/2024/02/Schylling-2024-Catalogue_APPROVED_V4_removed_compressed.pdf",
+      "imageNote": "Product photo cropped from the Schylling 2024 NeeDoh catalogue PDF.",
+      "placeholder": false,
+      "fictional": false
+    },
+    {
+      "id": "dohzee",
+      "name": "Dohzee",
+      "category": "Characters",
+      "rarity": "Uncommon",
+      "rarityWhy": "A costumed glob line in the shop guide and on Stormberry, separate from the Dohjees blind boxes.",
+      "year": "",
+      "size": "",
+      "texture": "A glob in a soft suit",
+      "feature": "A bigger wearable-looking suit for a Groovy Glob",
+      "colors": "Pink, purple, blue",
+      "description": "A soft suit you squish, with a Groovy Glob look. Not the same thing as a Dohjee blind box.",
+      "where": [
+        "Specialty toy shops"
+      ],
+      "sources": [
+        "adventure",
+        "stormberry"
+      ],
+      "note": "Not in the 2024 or 2026 catalogue PDFs.",
+      "unknown": [
+        "year",
+        "size"
+      ],
+      "image": "assets/placeholders/dohzee.svg",
+      "imageSource": "",
+      "imageNote": "No real product photo could be downloaded. This is a drawn placeholder, not a picture of the toy.",
+      "placeholder": true,
+      "fictional": false
+    },
+    {
+      "id": "dohzee-prints",
+      "name": "Dohzee Prints",
+      "category": "Characters",
+      "rarity": "Uncommon",
+      "rarityWhy": "Stormberry and the shop guide list printed Dohzees, including galaxy and tie-dye.",
+      "year": "",
+      "size": "",
+      "texture": "A printed soft suit",
+      "feature": "Patterns such as galaxy and tie-dye",
+      "colors": "Printed patterns",
+      "description": "A Dohzee with a printed pattern, like galaxy or tie-dye.",
+      "where": [
+        "Specialty toy shops"
+      ],
+      "sources": [
+        "adventure",
+        "stormberry"
+      ],
+      "note": "",
+      "unknown": [
+        "year",
+        "size"
+      ],
+      "image": "assets/placeholders/dohzee-prints.svg",
+      "imageSource": "",
+      "imageNote": "No real product photo could be downloaded. This is a drawn placeholder, not a picture of the toy.",
+      "placeholder": true,
+      "fictional": false
+    },
+    {
+      "id": "dohzee-furry",
+      "name": "Furry Dohzee",
+      "category": "Characters",
+      "rarity": "Uncommon",
+      "rarityWhy": "Listed by Stormberry and the shop guide.",
+      "year": "",
+      "size": "",
+      "texture": "Furry outside",
+      "feature": "A fuzzy Dohzee",
+      "colors": "",
+      "description": "A Dohzee with a furry coat.",
+      "where": [
+        "Specialty toy shops"
+      ],
+      "sources": [
+        "adventure",
+        "stormberry"
+      ],
+      "note": "",
+      "unknown": [
+        "year",
+        "size",
+        "colors"
+      ],
+      "image": "assets/placeholders/dohzee-furry.svg",
+      "imageSource": "",
+      "imageNote": "No real product photo could be downloaded. This is a drawn placeholder, not a picture of the toy.",
+      "placeholder": true,
+      "fictional": false
+    },
+    {
+      "id": "dohzee-mermaid",
+      "name": "Mermaid Dohzee",
+      "category": "Characters",
+      "rarity": "Rare",
+      "rarityWhy": "Listed by Stormberry and the shop guide. A character suit, so likely a smaller run than plain Dohzees.",
+      "year": "",
+      "size": "",
+      "texture": "A soft suit",
+      "feature": "A mermaid suit",
+      "colors": "",
+      "description": "A Dohzee dressed as a mermaid.",
+      "where": [
+        "Specialty toy shops",
+        "Resale"
+      ],
+      "sources": [
+        "adventure",
+        "stormberry"
+      ],
+      "note": "",
+      "unknown": [
+        "year",
+        "size",
+        "colors"
+      ],
+      "image": "assets/placeholders/dohzee-mermaid.svg",
+      "imageSource": "",
+      "imageNote": "No real product photo could be downloaded. This is a drawn placeholder, not a picture of the toy.",
+      "placeholder": true,
+      "fictional": false
+    },
+    {
+      "id": "dohzee-ramen",
+      "name": "Ramen Dohzee",
+      "category": "Characters",
+      "rarity": "Rare",
+      "rarityWhy": "Listed by Stormberry and the shop guide.",
+      "year": "",
+      "size": "",
+      "texture": "A soft suit",
+      "feature": "A ramen-themed suit",
+      "colors": "",
+      "description": "A Dohzee that looks like a ramen bowl.",
+      "where": [
+        "Specialty toy shops",
+        "Resale"
+      ],
+      "sources": [
+        "adventure",
+        "stormberry"
+      ],
+      "note": "",
+      "unknown": [
+        "year",
+        "size",
+        "colors"
+      ],
+      "image": "assets/placeholders/dohzee-ramen.svg",
+      "imageSource": "",
+      "imageNote": "No real product photo could be downloaded. This is a drawn placeholder, not a picture of the toy.",
+      "placeholder": true,
+      "fictional": false
+    },
+    {
+      "id": "dohzee-cool-cat",
+      "name": "Cool Cat Dohzee",
+      "category": "Characters",
+      "rarity": "Rare",
+      "rarityWhy": "Stormberry lists a Cool Cat Dohzee. The shop guide lists cool-cat colors.",
+      "year": "",
+      "size": "",
+      "texture": "A soft suit",
+      "feature": "A cat suit for a Dohzee",
+      "colors": "Pink, purple, blue",
+      "description": "A Dohzee in a Cool Cat suit.",
+      "where": [
+        "Specialty toy shops",
+        "Resale"
+      ],
+      "sources": [
+        "adventure",
+        "stormberry"
+      ],
+      "note": "",
+      "unknown": [
+        "year",
+        "size"
+      ],
+      "image": "assets/placeholders/dohzee-cool-cat.svg",
+      "imageSource": "",
+      "imageNote": "No real product photo could be downloaded. This is a drawn placeholder, not a picture of the toy.",
+      "placeholder": true,
+      "fictional": false
+    },
+    {
+      "id": "stickums",
+      "name": "Stum Stickums",
+      "category": "Characters",
+      "rarity": "Uncommon",
+      "rarityWhy": "In the 2024 catalogue, marked NEW, and they glow.",
+      "year": "2024",
+      "size": "120 x 125 x 85 mm",
+      "texture": "Sticky-looking noodles that glow",
+      "feature": "Glows in the dark. Five neon colors",
+      "colors": "Five neon colors",
+      "description": "A glow-in-the-dark tangle from the 2024 catalogue. The page says five neon colors.",
+      "where": [
+        "Toy shops that carry Schylling",
+        "Resale"
+      ],
+      "sources": [
+        "cat2024",
+        "stormberry"
+      ],
+      "note": "Item code SYSTUM. The exact play (stretch versus stick) is not spelled out in the catalogue text, so the card does not invent a verb beyond what the photo shows.",
+      "unknown": [],
+      "image": "assets/images/stickums.webp",
+      "imageSource": "https://toctoys.com/wp-content/uploads/2024/02/Schylling-2024-Catalogue_APPROVED_V4_removed_compressed.pdf",
+      "imageNote": "Product photo cropped from the Schylling 2024 NeeDoh catalogue PDF.",
+      "placeholder": false,
+      "fictional": false
+    },
+    {
+      "id": "lava-flow",
+      "name": "Lava Squish N' Flow",
+      "category": "Characters",
+      "rarity": "Uncommon",
+      "rarityWhy": "NeeDohTracker and Stormberry describe a squeezable lava lamp with moving glow globs. Not in the catalogue PDFs.",
+      "year": "",
+      "size": "",
+      "texture": "A soft lamp shape with globs that move",
+      "feature": "Glowing blobs flow when you squeeze",
+      "colors": "Blue with green, clear with red and orange, purple with orange. Some glow",
+      "description": "A tiny lava lamp you can squeeze. The blobs inside drift around.",
+      "where": [
+        "Specialty toy shops"
+      ],
+      "sources": [
+        "tracker",
+        "stormberry"
+      ],
+      "note": "Not the same product as a real LAVA lamp. Schylling also sells LAVA lamps. This card is only the squishy.",
+      "unknown": [
+        "year",
+        "size"
+      ],
+      "image": "assets/placeholders/lava-flow.svg",
+      "imageSource": "",
+      "imageNote": "No real product photo could be downloaded. This is a drawn placeholder, not a picture of the toy.",
+      "placeholder": true,
+      "fictional": false
+    },
+    {
+      "id": "power-tower",
+      "name": "Power Tower 6-Pack",
+      "category": "Packs & Extras",
+      "rarity": "Uncommon",
+      "rarityWhy": "NeeDohTracker and Stormberry describe a Sam's Club tower of six: Groovy Glob, Color Change, Glow in the Dark, Nice Cube, Shaggy, and Snow Ball Crunch.",
+      "year": "",
+      "size": "Six full-size toys",
+      "texture": "A mix of the toys inside",
+      "feature": "A sampler tower",
+      "colors": "Assorted",
+      "description": "A tower of six NeeDohs from Sam's Club: a Groovy Glob, a Color Change, a Glow, a Nice Cube, a Shaggy, and a Snow Ball Crunch.",
+      "where": [
+        "Sam's Club"
+      ],
+      "sources": [
+        "tracker",
+        "stormberry"
+      ],
+      "note": "The six names are from NeeDohTracker. Count this set if you have the tower. The single toys still have their own cards.",
+      "unknown": [
+        "year"
+      ],
+      "image": "assets/placeholders/power-tower.svg",
+      "imageSource": "",
+      "imageNote": "No real product photo could be downloaded. This is a drawn placeholder, not a picture of the toy.",
+      "placeholder": true,
+      "fictional": false
+    },
+    {
+      "id": "clip-cool-cats",
+      "name": "Clip-It Cool Cats",
+      "category": "Packs & Extras",
+      "rarity": "Uncommon",
+      "rarityWhy": "Stormberry lists a 2026 clip-on Cool Cats.",
+      "year": "2026",
+      "size": "",
+      "texture": "",
+      "feature": "A Cool Cat on a clip",
+      "colors": "",
+      "description": "A Cool Cat made to clip on a bag. Listed by collectors for 2026.",
+      "where": [
+        "Specialty toy shops"
+      ],
+      "sources": [
+        "stormberry"
+      ],
+      "note": "Single collector-list source.",
+      "unknown": [
+        "size",
+        "texture",
+        "colors"
+      ],
+      "image": "assets/placeholders/clip-cool-cats.svg",
+      "imageSource": "",
+      "imageNote": "No real product photo could be downloaded. This is a drawn placeholder, not a picture of the toy.",
+      "placeholder": true,
+      "fictional": false
+    },
+    {
+      "id": "clip-glow",
+      "name": "Clip-It Glow",
+      "category": "Packs & Extras",
+      "rarity": "Uncommon",
+      "rarityWhy": "Stormberry lists a 2026 glow clip-on.",
+      "year": "2026",
+      "size": "",
+      "texture": "",
+      "feature": "A glow NeeDoh on a clip",
+      "colors": "",
+      "description": "A glow-in-the-dark NeeDoh on a clip. Listed by collectors for 2026.",
+      "where": [
+        "Specialty toy shops"
+      ],
+      "sources": [
+        "stormberry"
+      ],
+      "note": "Single collector-list source.",
+      "unknown": [
+        "size",
+        "texture",
+        "colors"
+      ],
+      "image": "assets/placeholders/clip-glow.svg",
+      "imageSource": "",
+      "imageNote": "No real product photo could be downloaded. This is a drawn placeholder, not a picture of the toy.",
+      "placeholder": true,
+      "fictional": false
+    },
+    {
+      "id": "clip-nice-cube",
+      "name": "Clip-It Nice Cube",
+      "category": "Packs & Extras",
+      "rarity": "Uncommon",
+      "rarityWhy": "Stormberry lists a 2026 Nice Cube clip-on.",
+      "year": "2026",
+      "size": "",
+      "texture": "",
+      "feature": "A tiny Nice Cube on a clip",
+      "colors": "",
+      "description": "A Nice Cube on a clip for a backpack. Listed by collectors for 2026.",
+      "where": [
+        "Specialty toy shops"
+      ],
+      "sources": [
+        "stormberry"
+      ],
+      "note": "Single collector-list source. The fill is a guess from the Nice Cube name and is not stated as certain in the data fields beyond this note. The super-solid fill is not confirmed, so texture is left blank.",
+      "unknown": [
+        "size",
+        "colors",
+        "texture"
+      ],
+      "image": "assets/placeholders/clip-nice-cube.svg",
+      "imageSource": "",
+      "imageNote": "No real product photo could be downloaded. This is a drawn placeholder, not a picture of the toy.",
+      "placeholder": true,
+      "fictional": false
+    },
+    {
+      "id": "groovy-shroom",
+      "name": "Groovy Shroom",
+      "category": "Food",
+      "rarity": "Uncommon",
+      "rarityWhy": "Marked NEW in the 2024 catalogue and still listed on Schylling.com. The caps come off, so it is a less common shape than a plain glob.",
+      "year": "2024",
+      "size": "63.5 mm",
+      "texture": "Soft dough",
+      "feature": "The mushroom cap can come off and be swapped with another shroom",
+      "colors": "Orange and purple, pink and orange, blue and pink",
+      "description": "A mushroom you can squish. The cap lifts off, so you can mix cap colors with a friend.",
+      "where": [
+        "Schylling.com",
+        "Toy shops that carry Schylling"
+      ],
+      "sources": [
+        "cat2024",
+        "brand",
+        "adventure",
+        "stormberry"
+      ],
+      "note": "Item code SYGSND. Marked NEW in the 2024 catalogue. Swappable caps are described by the Adventure Town field guide. Colors are from Stormberry.",
+      "unknown": [],
+      "image": "assets/images/groovy-shroom.webp",
+      "imageSource": "https://toctoys.com/wp-content/uploads/2024/02/Schylling-2024-Catalogue_APPROVED_V4_removed_compressed.pdf",
+      "imageNote": "Product photo cropped from the Schylling 2024 NeeDoh catalogue PDF.",
+      "placeholder": false,
+      "fictional": false
+    },
+    {
+      "id": "ellas-secret-glob",
+      "name": "Ella's Secret Star Glob",
+      "category": "Secret",
+      "rarity": "Legendary",
+      "rarityWhy": "It is not a real toy. It only appears when Ella taps the Squishymania logo five times.",
+      "year": "",
+      "size": "Exactly Ella-sized",
+      "texture": "Imaginary and extremely squishy",
+      "feature": "Shows up after five logo taps",
+      "colors": "Every pastel at once",
+      "description": "This is not a Schylling toy and it is not for sale. It is a secret squish that lives in this website, just for Ella.",
+      "where": [
+        "Only on this website"
+      ],
+      "sources": [],
+      "note": "Fictional easter egg. Do not add it to a real collection count.",
+      "unknown": [],
+      "image": "assets/placeholders/ellas-secret-glob.svg",
+      "imageSource": "",
+      "imageNote": "Drawn for the secret easter egg. Not a product photo.",
+      "placeholder": true,
+      "fictional": true,
+      "secret": true
+    }
+  ]
+}

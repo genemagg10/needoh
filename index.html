@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Squishymania by Ella</title>
+  <meta name="description" content="Squishymania by Ella: a catalogue of real NeeDoh squishy toys, which ones you have, which ones you want, and which ones are rare.">
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <a class="skip" href="#catalogue">Skip to the NeeDohs</a>
+  <header class="site-header">
+    <button type="button" class="logo-btn" id="logo" aria-label="Squishymania logo. Tap five times for a secret.">
+      <p class="wordmark">Squishymania</p>
+      <span class="byline">by Ella</span>
+    </button>
+    <p class="tagline">Every real NeeDoh we could find. Tap a card to squish it. Mark the ones you have and the ones you want.</p>
+  </header>
+
+  <div class="wrap">
+    <div class="counter-row">
+      <p class="counter" id="counter" aria-live="polite">You have 0 of 0!</p>
+    </div>
+
+    <form class="controls" id="controls" role="search" aria-label="Find a NeeDoh">
+      <label class="search-label">Search
+        <input id="search" type="search" name="q" placeholder="Try cube, cat, glow, donut…" autocomplete="off">
+      </label>
+      <label class="cat-label">Category
+        <select id="category" name="category">
+          <option value="">All categories</option>
+        </select>
+      </label>
+      <div class="chips" role="group" aria-label="Filters">
+        <button type="button" class="chip" id="filter-have" aria-pressed="false">Have</button>
+        <button type="button" class="chip" id="filter-want" aria-pressed="false">Want</button>
+        <button type="button" class="chip" id="filter-rare" aria-pressed="false">Rare</button>
+      </div>
+      <p class="showing" id="showing" aria-live="polite"></p>
+    </form>
+
+    <section class="rare-shelf" aria-labelledby="rare-heading">
+      <div class="section-head">
+        <h2 id="rare-heading">Rare &amp; Legendary</h2>
+      </div>
+      <p class="section-note">The hardest ones to find. Legendary and Super Rare sit first.</p>
+      <div class="rare-grid" id="rare"></div>
+    </section>
+
+    <section id="catalogue" aria-labelledby="all-heading">
+      <div class="section-head">
+        <h2 id="all-heading">The whole squish collection</h2>
+      </div>
+      <div class="grid" id="grid"></div>
+      <p class="empty" id="empty" hidden>No NeeDohs match that. Try another word, or clear a filter.</p>
+    </section>
+  </div>
+
+  <footer class="site-footer">
+    <h2>Good to know</h2>
+    <p class="safety"><strong>Squish with your hands only.</strong> Never heat, freeze, or microwave a NeeDoh. Schylling warns that heat can hurt you.</p>
+    <p>This is Ella's collection book. It does not ask you to sign in, and it does not use ads or trackers. Have and Want stay in this browser only.</p>
+    <p>Blank spots say <em>not listed yet</em>. That means we could not check that fact. A card that says <strong>Drawing, not a photo</strong> is a placeholder, not the real toy.</p>
+    <p>The secret that shows up after five logo taps is a drawing for Ella. It is not a Schylling product, and it is not counted in the total.</p>
+    <p><a href="sources.html">Where each fact came from</a></p>
+  </footer>
+
+  <div class="walker" aria-hidden="true"><div class="blob"></div></div>
+  <canvas class="confetti" id="confetti" aria-hidden="true"></canvas>
+  <script src="js/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640" role="img" aria-label="Placeholder drawing, not a photo of Clip-It Nice Cube">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="hsl(338 90% 78%)"/>
+      <stop offset="1" stop-color="hsl(232 85% 62%)"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="640" rx="72" fill="url(#g)"/>
+  <ellipse cx="320" cy="300" rx="168" ry="142" fill="#fff" opacity="0.92"/>
+  <ellipse cx="250" cy="430" rx="46" ry="28" fill="#fff" opacity="0.85"/>
+  <ellipse cx="400" cy="448" rx="36" ry="22" fill="#fff" opacity="0.8"/>
+  <circle cx="268" cy="286" r="16" fill="#24143a"/>
+  <circle cx="372" cy="286" r="16" fill="#24143a"/>
+  <path d="M278 340 Q320 378 366 340" fill="none" stroke="#24143a" stroke-width="10" stroke-linecap="round"/>
+  <text x="320" y="560" text-anchor="middle" font-family="Nunito, sans-serif" font-size="42" font-weight="700" fill="#24143a">Photo not found yet</text>
+</svg>
