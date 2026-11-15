@@ -4,54 +4,97 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Squishymania by Ella</title>
-  <meta name="description" content="Squishymania by Ella: a catalogue of real NeeDoh squishy toys, which ones you have, which ones you want, and which ones are rare.">
+  <meta name="description" content="Squishymania by Ella: her NeeDoh shelf, her wish list, and every real NeeDoh we could find.">
   <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
   <link rel="stylesheet" href="css/styles.css">
 </head>
 <body>
-  <a class="skip" href="#catalogue">Skip to the NeeDohs</a>
+  <a class="skip" href="#panel-shelf">Skip to My Shelf</a>
   <header class="site-header">
     <button type="button" class="logo-btn" id="logo" aria-label="Squishymania logo. Tap five times for a secret.">
       <p class="wordmark">Squishymania</p>
       <span class="byline">by Ella</span>
     </button>
-    <p class="tagline">Every real NeeDoh we could find. Tap a card to squish it. Mark the ones you have and the ones you want.</p>
+    <p class="tagline">Your squishies sit on the shelf. The whole catalogue is one tap away.</p>
+    <p class="counter" id="counter" aria-live="polite">You have 0 of 0!</p>
   </header>
 
   <div class="wrap">
-    <div class="counter-row">
-      <p class="counter" id="counter" aria-live="polite">You have 0 of 0!</p>
+    <div class="tabs" role="tablist" aria-label="Squishymania">
+      <button type="button" class="tab" role="tab" id="tab-shelf" aria-controls="panel-shelf" aria-selected="true">My Shelf</button>
+      <button type="button" class="tab" role="tab" id="tab-wish" aria-controls="panel-wish" aria-selected="false" tabindex="-1">Wish List</button>
+      <button type="button" class="tab" role="tab" id="tab-all" aria-controls="panel-all" aria-selected="false" tabindex="-1">All NeeDohs</button>
     </div>
 
-    <form class="controls" id="controls" role="search" aria-label="Find a NeeDoh">
-      <label class="search-label">Search
-        <input id="search" type="search" name="q" placeholder="Try cube, cat, glow, donut…" autocomplete="off">
-      </label>
-      <label class="cat-label">Category
-        <select id="category" name="category">
-          <option value="">All categories</option>
-        </select>
-      </label>
-      <div class="chips" role="group" aria-label="Filters">
-        <button type="button" class="chip" id="filter-have" aria-pressed="false">Have</button>
-        <button type="button" class="chip" id="filter-want" aria-pressed="false">Want</button>
-        <button type="button" class="chip" id="filter-rare" aria-pressed="false">Rare</button>
-      </div>
-      <p class="showing" id="showing" aria-live="polite"></p>
-    </form>
-
-    <section class="rare-shelf" aria-labelledby="rare-heading">
+    <section id="panel-shelf" role="tabpanel" aria-labelledby="tab-shelf">
       <div class="section-head">
-        <h2 id="rare-heading">Rare &amp; Legendary</h2>
+        <h2 id="shelf-heading">My NeeDoh Shelf</h2>
       </div>
-      <p class="section-note">The hardest ones to find. Legendary and Super Rare sit first.</p>
-      <div class="rare-grid" id="rare"></div>
+      <p class="section-note" id="shelf-count">Your squishies live here.</p>
+      <div id="secret-perch" hidden></div>
+      <div id="shelf" class="bookcase"></div>
+      <div class="empty-shelf" id="shelf-empty" hidden>
+        <div class="bookcase" aria-hidden="true">
+          <div class="plank"><div class="board pink"></div></div>
+          <div class="plank"><div class="board lavender"></div></div>
+          <div class="plank"><div class="board mint"></div></div>
+        </div>
+        <div class="invite">
+          <p>Your shelf is ready for squishies.</p>
+          <p>Go find the NeeDohs you have, and tap <strong>Have it</strong>.</p>
+          <button type="button" class="go-btn" data-goto="all">Find my NeeDohs</button>
+        </div>
+      </div>
     </section>
 
-    <section id="catalogue" aria-labelledby="all-heading">
+    <section id="panel-wish" role="tabpanel" aria-labelledby="tab-wish" hidden>
       <div class="section-head">
-        <h2 id="all-heading">The whole squish collection</h2>
+        <h2>Wish List</h2>
       </div>
+      <p class="section-note" id="wish-count">Squishies you still want.</p>
+      <div id="wishes" class="bookcase"></div>
+      <div class="empty-shelf" id="wish-empty" hidden>
+        <div class="bookcase" aria-hidden="true">
+          <div class="plank"><div class="board peach"></div></div>
+          <div class="plank"><div class="board blue"></div></div>
+        </div>
+        <div class="invite">
+          <p>No wishes yet.</p>
+          <p>In All NeeDohs, tap <strong>Want it</strong> and they will wait here.</p>
+          <button type="button" class="go-btn" data-goto="all">Look at all the NeeDohs</button>
+        </div>
+      </div>
+    </section>
+
+    <section id="panel-all" role="tabpanel" aria-labelledby="tab-all" hidden>
+      <div class="section-head">
+        <h2 id="all-heading">All NeeDohs</h2>
+      </div>
+      <form class="controls" id="controls" role="search" aria-label="Find a NeeDoh">
+        <label class="search-label">Search
+          <input id="search" type="search" name="q" placeholder="Try cube, cat, glow, donut…" autocomplete="off">
+        </label>
+        <label class="cat-label">Category
+          <select id="category" name="category">
+            <option value="">All categories</option>
+          </select>
+        </label>
+        <div class="chips" role="group" aria-label="Filters">
+          <button type="button" class="chip" id="filter-have" aria-pressed="false">Have</button>
+          <button type="button" class="chip" id="filter-want" aria-pressed="false">Want</button>
+          <button type="button" class="chip" id="filter-rare" aria-pressed="false">Rare</button>
+        </div>
+        <p class="showing" id="showing" aria-live="polite"></p>
+      </form>
+
+      <section class="rare-shelf" aria-labelledby="rare-heading">
+        <div class="section-head">
+          <h2 id="rare-heading">Rare &amp; Legendary</h2>
+        </div>
+        <p class="section-note">The hardest ones to find. Legendary and Super Rare sit first.</p>
+        <div class="rare-grid" id="rare"></div>
+      </section>
+
       <div class="grid" id="grid"></div>
       <p class="empty" id="empty" hidden>No NeeDohs match that. Try another word, or clear a filter.</p>
     </section>

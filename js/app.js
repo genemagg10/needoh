@@ -2,6 +2,7 @@ const STORAGE_KEY = "squishymania.collection.v1";
 const SECRET_KEY = "squishymania.secret.v1";
 const RARE = new Set(["Rare", "Super Rare", "Legendary"]);
 const RARE_ORDER = { Legendary: 0, "Super Rare": 1, Rare: 2, Uncommon: 3, Common: 4 };
+const PER_SHELF = 4;
 
 const state = {
   items: [],
@@ -14,6 +15,7 @@ const state = {
   have: false,
   want: false,
   rare: false,
+  tab: "shelf",
 };
 
 const els = {
@@ -26,12 +28,24 @@ const els = {
   category: document.getElementById("category"),
   logo: document.getElementById("logo"),
   confetti: document.getElementById("confetti"),
+  shelf: document.getElementById("shelf"),
+  shelfEmpty: document.getElementById("shelf-empty"),
+  shelfCount: document.getElementById("shelf-count"),
+  wishes: document.getElementById("wishes"),
+  wishEmpty: document.getElementById("wish-empty"),
+  wishCount: document.getElementById("wish-count"),
+  secretPerch: document.getElementById("secret-perch"),
 };
 
 function loadCollection() {
   try {
     const raw = JSON.parse(localStorage.getItem(STORAGE_KEY) || "{}");
-    return raw && typeof raw === "object" ? raw : {};
+    if (!raw || typeof raw !== "object" || Array.isArray(raw)) return {};
+    const clean = {};
+    for (const [id, status] of Object.entries(raw)) {
+      if (status === "have" || status === "want") clean[id] = status;
+    }
+    return clean;
   } catch {
     return {};
   }
@@ -45,9 +59,21 @@ function realItems() {
   return state.items.filter((item) => !item.fictional);
 }
 
+function owned() {
+  return realItems()
+    .filter((item) => state.collection[item.id] === "have")
+    .sort((a, b) => a.name.localeCompare(b.name));
+}
+
+function wished() {
+  return realItems()
+    .filter((item) => state.collection[item.id] === "want")
+    .sort((a, b) => a.name.localeCompare(b.name));
+}
+
 function rarityClass(rarity) {
   if (rarity === "Super Rare") return "super";
-  return rarity.toLowerCase();
+  return String(rarity || "").toLowerCase();
 }
 
 function field(value) {
@@ -63,20 +89,20 @@ function escapeHtml(value) {
     .replaceAll('"', "&quot;");
 }
 
-function cardHtml(item, compact) {
+function cardHtml(item) {
   const status = state.collection[item.id] || "";
   const alt = item.placeholder
     ? `${item.name}. Drawn placeholder, because a real photo was not found.`
     : `${item.name}, a NeeDoh squishy toy`;
   const draw = item.placeholder ? `<span class="badge draw">Drawing, not a photo</span>` : "";
   const fictional = item.fictional ? `<span class="badge legendary">Just for Ella</span>` : "";
-  const where = item.where.map(escapeHtml).join(", ");
+  const where = (item.where || []).map(escapeHtml).join(", ");
   const more = [
     item.rarityWhy ? `<p><strong>Why this rarity:</strong> ${escapeHtml(item.rarityWhy)}</p>` : "",
     item.note ? `<p>${escapeHtml(item.note)}</p>` : "",
   ].join("");
   return `
-    <article class="card ${status}" data-id="${escapeHtml(item.id)}" ${compact ? 'data-shelf="yes"' : ""}>
+    <article class="card ${status}" data-id="${escapeHtml(item.id)}">
       <button type="button" class="photo-btn" data-action="squish" aria-label="Squish ${escapeHtml(item.name)}">
         <img src="${escapeHtml(item.image)}" alt="${escapeHtml(alt)}" width="640" height="640">
       </button>
@@ -103,14 +129,81 @@ function cardHtml(item, compact) {
     </article>`;
 }
 
-function render() {
+function toyHtml(item) {
+  const alt = item.placeholder
+    ? `${item.name}. Drawn placeholder, because a real photo was not found.`
+    : `${item.name}, a NeeDoh on the shelf`;
+  return `
+    <div class="toy-slot" data-id="${escapeHtml(item.id)}">
+      <button type="button" class="toy" data-action="squish" aria-label="Squish ${escapeHtml(item.name)}">
+        <img src="${escapeHtml(item.image)}" alt="${escapeHtml(alt)}">
+      </button>
+    </div>`;
+}
+
+function captionHtml(item, mode) {
+  const action = mode === "have" ? "have" : "want";
+  const label = mode === "have" ? "Take off shelf" : "Remove wish";
+  return `
+    <div class="caption" data-id="${escapeHtml(item.id)}">
+      <span class="toy-name">${escapeHtml(item.name)}</span>
+      <button type="button" class="action ${action}" data-action="${action}" aria-pressed="true">${label}</button>
+    </div>`;
+}
+
+function shelvesHtml(items, mode) {
+  if (!items.length) return "";
+  const chunks = [];
+  for (let i = 0; i < items.length; i += PER_SHELF) chunks.push(items.slice(i, i + PER_SHELF));
+  return chunks.map((chunk) => `
+    <div class="plank">
+      <div class="toys">${chunk.map((item) => toyHtml(item)).join("")}</div>
+      <div class="board" aria-hidden="true"></div>
+      <div class="captions">${chunk.map((item) => captionHtml(item, mode)).join("")}</div>
+    </div>`).join("");
+}
+
+function renderShelves() {
+  const mine = owned();
+  const wants = wished();
+  els.shelf.innerHTML = shelvesHtml(mine, "have");
+  els.shelf.hidden = mine.length === 0;
+  els.shelfEmpty.hidden = mine.length !== 0;
+  els.shelfCount.textContent = mine.length
+    ? `${mine.length} ${mine.length === 1 ? "squishy sits" : "squishies sit"} on your shelf.`
+    : "Your shelf is empty. It is waiting for you.";
+  els.wishes.innerHTML = shelvesHtml(wants, "want");
+  els.wishes.hidden = wants.length === 0;
+  els.wishEmpty.hidden = wants.length !== 0;
+  els.wishCount.textContent = wants.length
+    ? `${wants.length} ${wants.length === 1 ? "wish" : "wishes"} on the list.`
+    : "No wishes yet.";
+  const secret = state.items.find((item) => item.secret);
+  if (state.secret && secret) {
+    els.secretPerch.hidden = false;
+    els.secretPerch.innerHTML = `
+      <div class="secret-card" data-id="${escapeHtml(secret.id)}">
+        <button type="button" class="toy" data-action="squish" aria-label="Squish Ella's secret star glob">
+          <img src="${escapeHtml(secret.image)}" alt="Ella's secret star glob, a drawing just for her">
+        </button>
+        <div>
+          <strong>Ella's Secret Star Glob</strong>
+          <p>A drawing just for you. It is not a real NeeDoh, so it is not counted.</p>
+        </div>
+      </div>`;
+  } else {
+    els.secretPerch.hidden = true;
+    els.secretPerch.innerHTML = "";
+  }
+}
+
+function renderCatalogue() {
   const categories = [...new Set(realItems().map((item) => item.category))].sort();
   const current = els.category.value;
   els.category.innerHTML = `<option value="">All categories</option>` +
     categories.map((cat) => `<option value="${escapeHtml(cat)}">${escapeHtml(cat)}</option>`).join("");
   els.category.value = categories.includes(current) ? current : "";
 
-  const visible = state.items.filter(matches);
   const rare = realItems()
     .filter((item) => RARE.has(item.rarity))
     .sort((a, b) => (RARE_ORDER[a.rarity] - RARE_ORDER[b.rarity]) || a.name.localeCompare(b.name));
@@ -118,10 +211,11 @@ function render() {
     const secret = state.items.find((item) => item.secret);
     if (secret) rare.unshift(secret);
   }
-  els.rare.innerHTML = rare.filter(matches).map((item) => cardHtml(item, true)).join("") ||
-    `<p class="empty">None of the rare ones match this filter.</p>`;
-  els.grid.innerHTML = visible.filter((item) => !item.secret || state.secret).map((item) => cardHtml(item)).join("");
-  updateCounter();
+  els.rare.innerHTML = rare.map((item) => cardHtml(item)).join("");
+  els.grid.innerHTML = state.items
+    .filter((item) => !item.secret || state.secret)
+    .map((item) => cardHtml(item))
+    .join("");
   applyFilterVisibility();
 }
 
@@ -143,10 +237,21 @@ function matches(item) {
 
 function updateCounter() {
   const total = realItems().length;
-  const have = realItems().filter((item) => state.collection[item.id] === "have").length;
-  const want = realItems().filter((item) => state.collection[item.id] === "want").length;
+  const have = owned().length;
+  const want = wished().length;
   const wantText = want ? ` <span class="want-bit">You want ${want}.</span>` : "";
   els.counter.innerHTML = `You have ${have} of ${total}!${wantText}`;
+}
+
+function paintCard(card, status) {
+  card.classList.toggle("have", status === "have");
+  card.classList.toggle("want", status === "want");
+  card.querySelectorAll("[data-action='have']").forEach((el) => {
+    el.setAttribute("aria-pressed", String(status === "have"));
+  });
+  card.querySelectorAll("[data-action='want']").forEach((el) => {
+    el.setAttribute("aria-pressed", String(status === "want"));
+  });
 }
 
 function setStatus(id, next, button) {
@@ -154,26 +259,18 @@ function setStatus(id, next, button) {
   if (prev === next) delete state.collection[id];
   else state.collection[id] = next;
   saveCollection();
-  document.querySelectorAll(`[data-id="${CSS.escape(id)}"]`).forEach((card) => {
-    const status = state.collection[id] || "";
-    card.classList.toggle("have", status === "have");
-    card.classList.toggle("want", status === "want");
-    card.querySelectorAll("[data-action='have']").forEach((el) => el.setAttribute("aria-pressed", String(status === "have")));
-    card.querySelectorAll("[data-action='want']").forEach((el) => el.setAttribute("aria-pressed", String(status === "want")));
-  });
+  const status = state.collection[id] || "";
+  document.querySelectorAll(`#panel-all [data-id="${CSS.escape(id)}"]`).forEach((card) => paintCard(card, status));
   updateCounter();
+  renderShelves();
   applyFilterVisibility();
-  if (next === "have" && prev !== "have" && state.collection[id] === "have") {
-    celebrate(button);
-  }
+  if (next === "have" && prev !== "have" && status === "have") celebrate(button);
 }
 
 function applyFilterVisibility() {
-  const cards = document.querySelectorAll(".card");
-  cards.forEach((card) => {
+  document.querySelectorAll("#panel-all .card").forEach((card) => {
     const item = state.items.find((entry) => entry.id === card.dataset.id);
-    const ok = item && matches(item);
-    card.hidden = !ok;
+    card.hidden = !(item && matches(item));
   });
   const gridShown = [...els.grid.querySelectorAll(".card")].filter((card) => !card.hidden && !state.items.find((item) => item.id === card.dataset.id)?.fictional).length;
   els.empty.hidden = gridShown !== 0;
@@ -190,8 +287,27 @@ function applyFilterVisibility() {
   rareEmpty.hidden = rareShown !== 0;
 }
 
+function showTab(name) {
+  state.tab = name;
+  const tabs = [
+    ["shelf", "tab-shelf", "panel-shelf"],
+    ["wish", "tab-wish", "panel-wish"],
+    ["all", "tab-all", "panel-all"],
+  ];
+  tabs.forEach(([key, tabId, panelId]) => {
+    const selected = key === name;
+    const tab = document.getElementById(tabId);
+    const panel = document.getElementById(panelId);
+    tab.setAttribute("aria-selected", String(selected));
+    tab.tabIndex = selected ? 0 : -1;
+    panel.hidden = !selected;
+  });
+}
+
 function squish(button) {
-  const photo = button.classList.contains("photo-btn") ? button : button.querySelector(".photo-btn");
+  const photo = button.classList.contains("photo-btn") || button.classList.contains("toy") || button.classList.contains("logo-btn")
+    ? button
+    : button.querySelector(".photo-btn, .toy");
   const target = photo || button;
   target.classList.remove("squish");
   void target.offsetWidth;
@@ -208,7 +324,7 @@ function celebrate(origin) {
   const from = origin ? origin.getBoundingClientRect() : { left: rect.width / 2, top: rect.height / 2, width: 0, height: 0 };
   const x = from.left + from.width / 2;
   const y = from.top + from.height / 2;
-  const colors = ["#ff4f9a", "#7c4dff", "#12b5a0", "#ffb703", "#7ef0ff", "#fff"];
+  const colors = ["#ffb3d9", "#e7d4ff", "#b8f3e6", "#ffd6b8", "#c7e7ff", "#fff6fb"];
   const bits = Array.from({ length: 70 }, () => ({
     x, y,
     vx: (Math.random() - 0.5) * 11,
@@ -265,14 +381,21 @@ function toast(message) {
 function unlockSecret() {
   state.secret = true;
   localStorage.setItem(SECRET_KEY, "yes");
-  render();
+  renderCatalogue();
+  renderShelves();
+  showTab("shelf");
   toast("You found Ella's secret squish!");
   celebrate(els.logo);
-  const secret = document.querySelector('#rare [data-id="ellas-secret-glob"]');
-  if (secret) secret.scrollIntoView({ behavior: "smooth", block: "center" });
+  els.secretPerch.scrollIntoView({ behavior: "smooth", block: "center" });
 }
 
 document.body.addEventListener("click", (event) => {
+  const goto = event.target.closest("[data-goto]");
+  if (goto) {
+    showTab(goto.dataset.goto);
+    document.getElementById("tab-all").focus();
+    return;
+  }
   const button = event.target.closest("[data-action]");
   if (!button) return;
   const card = button.closest("[data-id]");
@@ -284,6 +407,20 @@ document.body.addEventListener("click", (event) => {
   if (button.dataset.action === "have" || button.dataset.action === "want") {
     setStatus(card.dataset.id, button.dataset.action, button);
   }
+});
+
+document.querySelectorAll("[role='tab']").forEach((tab, index, tabs) => {
+  tab.addEventListener("click", () => {
+    showTab(tab.id.replace("tab-", ""));
+  });
+  tab.addEventListener("keydown", (event) => {
+    if (event.key !== "ArrowRight" && event.key !== "ArrowLeft") return;
+    event.preventDefault();
+    const shift = event.key === "ArrowRight" ? 1 : -1;
+    const next = tabs[(index + shift + tabs.length) % tabs.length];
+    next.focus();
+    showTab(next.id.replace("tab-", ""));
+  });
 });
 
 els.search.addEventListener("input", () => {
@@ -333,8 +470,12 @@ fetch("data/catalogue.json")
   })
   .then((data) => {
     state.items = data.items;
-    render();
+    renderCatalogue();
+    renderShelves();
+    updateCounter();
+    showTab("shelf");
   })
   .catch(() => {
-    els.grid.innerHTML = `<p class="empty">The catalogue file did not load. If you opened this page as a file, use a simple web server instead.</p>`;
+    els.shelfEmpty.hidden = false;
+    els.shelfEmpty.querySelector(".invite").innerHTML = "<p>The catalogue file did not load.</p>";
   });
