@@ -1,3 +1,5 @@
+import { sfx } from "./sfx.js";
+
 const STORAGE_KEY = "squishymania.collection.v1";
 const SECRET_KEY = "squishymania.secret.v1";
 const RARE = new Set(["Rare", "Super Rare", "Legendary"]);
@@ -264,7 +266,14 @@ function setStatus(id, next, button) {
   updateCounter();
   renderShelves();
   applyFilterVisibility();
-  if (next === "have" && prev !== "have" && status === "have") celebrate(button);
+  if (status === "have" && prev !== "have") {
+    sfx.have();
+    celebrate(button);
+  } else if (status === "want" && prev !== "want") {
+    sfx.want();
+  } else if (prev === "have" && status !== "have") {
+    sfx.pop();
+  }
 }
 
 function applyFilterVisibility() {
@@ -287,7 +296,8 @@ function applyFilterVisibility() {
   rareEmpty.hidden = rareShown !== 0;
 }
 
-function showTab(name) {
+function showTab(name, options = {}) {
+  const changed = name !== state.tab;
   state.tab = name;
   const tabs = [
     ["shelf", "tab-shelf", "panel-shelf"],
@@ -302,6 +312,7 @@ function showTab(name) {
     tab.tabIndex = selected ? 0 : -1;
     panel.hidden = !selected;
   });
+  if (changed && options.sound !== false) sfx.whoosh();
 }
 
 function squish(button) {
@@ -383,7 +394,8 @@ function unlockSecret() {
   localStorage.setItem(SECRET_KEY, "yes");
   renderCatalogue();
   renderShelves();
-  showTab("shelf");
+  showTab("shelf", { sound: false });
+  sfx.secret();
   toast("You found Ella's secret squish!");
   celebrate(els.logo);
   els.secretPerch.scrollIntoView({ behavior: "smooth", block: "center" });
@@ -402,6 +414,7 @@ document.body.addEventListener("click", (event) => {
   if (!card) return;
   if (button.dataset.action === "squish") {
     squish(button);
+    sfx.squish();
     return;
   }
   if (button.dataset.action === "have" || button.dataset.action === "want") {
@@ -460,7 +473,34 @@ els.logo.addEventListener("click", () => {
   if (state.taps >= 5) {
     state.taps = 0;
     unlockSecret();
+  } else {
+    sfx.squish();
   }
+});
+
+const soundButton = document.getElementById("sound-toggle");
+function paintSoundButton() {
+  const on = sfx.isOn();
+  soundButton.setAttribute("aria-pressed", String(on));
+  soundButton.setAttribute("aria-label", on ? "Sound is on" : "Sound is off");
+  soundButton.querySelector(".sound-label").textContent = on ? "Sound on" : "Sound off";
+  soundButton.classList.toggle("is-off", !on);
+}
+paintSoundButton();
+soundButton.addEventListener("click", () => {
+  const next = !sfx.isOn();
+  sfx.setOn(next);
+  paintSoundButton();
+  if (next) sfx.squish();
+});
+
+document.getElementById("blob-btn").addEventListener("click", () => {
+  const blob = document.querySelector("#blob-btn .blob");
+  blob.classList.remove("squish");
+  void blob.offsetWidth;
+  blob.classList.add("squish");
+  blob.addEventListener("animationend", () => blob.classList.remove("squish"), { once: true });
+  sfx.giggle();
 });
 
 fetch("data/catalogue.json")

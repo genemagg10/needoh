@@ -16,6 +16,12 @@ After this workflow is on `main`, turn on Pages once: **Settings → Pages → B
 
 https://genemagg10.github.io/needoh/
 
+## Sounds
+
+Every sound is made in the browser by [`js/sfx.js`](js/sfx.js). There are no audio files. The speaker button remembers on or off in `squishymania.sound.v1`. Sound is on unless she turns it off, and the first tap is what lets the browser play it.
+
+To add or tweak a sound, edit a function in `js/sfx.js` (`squish`, `have`, `want`, `whoosh`, `pop`, `secret`, or `giggle`) or add a new one next to them and put it on the `sfx` object. `tone()` is a soft note. `noise()` is a soft whoosh. `gain` is how loud that note is, and `dur` is how long it lasts. `prefers-reduced-motion` already makes every sound shorter and quieter. Call the new function from `js/app.js` at the moment it should play.
+
 ## Fonts
 
 Fredoka and Nunito are included under the SIL Open Font License. The files came from Fontsource.
